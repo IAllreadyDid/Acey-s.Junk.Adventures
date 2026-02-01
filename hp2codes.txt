@@ -1,0 +1,14 @@
+
+1,2,3,4,6,8,12,16,24,48 LPI	ESC & l (n) D
+port or landscape		ESC & l (0 or 1) O (79)
+proportional of fixed		ESC ( s (1=prop 0=fixed) P
+Pitch				ESC ( s (cpi) H
+Primary typeface		ESC ( s (font number) T
+Wraparound			ESC & s (0=wrap, 1=off) C
+Perf skip			ESC & l (0=off, 1=on) L
+EOL termination			ESC & k (zz) G
+		zz = 	0 = CR/LF/FF
+			1 = CR=CR+LF/LF=LF/FF=FF
+			2 = CR=CR/LF=CR+LF/FF=CR+FS
+			3 = CR=CR+LF/LF=CR+LF/FF=CR+FF
+Reset				ESC E
