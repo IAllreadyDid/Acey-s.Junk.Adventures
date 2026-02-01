@@ -1,0 +1,3456 @@
+total 60
+-rw-rw-r--   1 sysadm   wheel        2742 Apr 18  1995 00_MWC_announce.txt
+-rw-rw-r--   1 sysadm   wheel         916 Jan 13 14:09 00_Readme.txt
+drwxrwxr-x   2 sysadm   wheel        1024 Jan 11 23:53 docs
+drwxrwxr-x   2 sysadm   wheel        1024 Sep 12 19:31 faqs
+drwxrwxr-x  11 sysadm   wheel        1024 Jan 14 18:27 gnu-udo
+-rw-rw-r--   1 sysadm   wheel           0 Feb  2 02:00 ls-lR
+-rw-r--r--   1 sysadm   wheel       40040 Feb  1 02:00 ls-lR.Z
+drwxrwxr-x  80 sysadm   wheel        3072 Jan 11 23:54 mwcbbs
+drwxrwxr-x   2 sysadm   wheel        5120 Jan 13 13:36 sources
+drwxrwxr-x   2 sysadm   wheel        1024 Nov 29 23:09 sources16
+drwxrwxr-x  14 sysadm   wheel        1024 Jan 13 15:02 sources32
+drwxrwxr-x   2 sysadm   wheel        1024 Jan 13 13:36 support
+drwxrwxr-x   2 sysadm   wheel        1024 Jan 13 14:02 updates
+
+docs:
+total 1243
+-rw-r--r--   1 sysadm   wheel        1902 Jan 13 13:59 00INDEX
+-r--r--r--   1 sysadm   wheel        8972 Sep  9 18:48 coh.appl.faq.z
+-r--r--r--   1 sysadm   wheel        5756 Sep  9 18:51 coh.feat.faq.z
+-r--r--r--   1 sysadm   wheel        6077 Sep  9 18:33 coh.gen.faq.z
+-r--r--r--   1 sysadm   wheel       10827 Sep  9 18:42 coh.port.faq.z
+-r--r--r--   1 sysadm   wheel       19706 Oct 10 22:36 coh.tr.faq.gz
+-r--r--r--   1 sysadm   wheel        8113 Sep  9 18:44 coh.xasc.faq.z
+-rw-r--r--   1 sysadm   wheel        5326 Oct 10 22:46 coh.xmwc.faq.z
+-r--r--r--   1 sysadm   wheel       10613 Oct 10 22:26 coh3.tip.faq.z
+-rw-r--r--   1 sysadm   wheel       29520 Oct 10 22:42 coh4.2.10.z
+-r--r--r--   1 sysadm   wheel       19796 Sep  9 18:33 coh4.tip.faq.z
+-r--r--r--   1 sysadm   wheel        4710 Sep  9 18:47 cpp.man.z
+-r--r--r--   1 sysadm   wheel        7666 Sep  9 18:47 g++.man.z
+-r--r--r--   1 sysadm   wheel       26411 Sep  9 18:44 gcc.man.z
+-r--r--r--   1 sysadm   wheel        4927 Sep  9 18:33 gnu.licence.z
+-r--r--r--   1 sysadm   wheel       12025 Sep  9 18:47 intel.x.faq.z
+-r--r--r--   1 sysadm   wheel       48578 Sep  9 18:43 pc-unix.faq.z
+-r--r--r--   1 sysadm   wheel      168647 Sep  9 18:47 tcl_65.ps.z
+-r--r--r--   1 sysadm   wheel       68881 Sep  9 18:32 tcp-ip-a.ps.z
+-r--r--r--   1 sysadm   wheel       37971 Sep  9 18:30 tcp-ip-i.ps.z
+-r--r--r--   1 sysadm   wheel       36121 Sep  9 18:49 tcp-ip-pc.z
+-r--r--r--   1 sysadm   wheel      383790 Sep  9 18:42 tuucpdoc.tar.z
+-r--r--r--   1 sysadm   wheel        3062 Sep  9 18:30 uuinst.guide.z
+-r--r--r--   1 sysadm   wheel        7385 Sep  9 18:33 vi.tut.z
+-r--r--r--   1 sysadm   wheel       20364 Sep  9 18:52 x-faq.1.z
+-r--r--r--   1 sysadm   wheel       19155 Sep  9 18:51 x-faq.2.z
+-r--r--r--   1 sysadm   wheel       20871 Sep  9 18:51 x-faq.3.z
+-r--r--r--   1 sysadm   wheel       20170 Sep  9 18:51 x-faq.4.z
+-r--r--r--   1 sysadm   wheel       17761 Sep  9 18:51 x-faq.5.z
+-r--r--r--   1 sysadm   wheel       11981 Sep  9 18:47 x.perf.faq.z
+-r--r--r--   1 sysadm   wheel       12272 Sep  9 18:36 xfree.faq.z
+-r--r--r--   1 sysadm   wheel       29438 Sep  9 18:48 xt.faq.z
+-r--r--r--   1 sysadm   wheel      151468 Sep  9 18:35 zen10.ps.z
+
+faqs:
+total 175
+-rw-r--r--   1 sysadm   wheel       16797 Sep  3 12:01 CohFAQ-X
+-rw-r--r--   1 sysadm   wheel       42309 Sep  3 12:01 CohFAQ-v4-TechTips
+-rw-r--r--   1 sysadm   wheel       86116 Sep  3 12:01 CohFAQ-v4.2
+-rw-r--r--   1 sysadm   wheel       26974 Sep  3 12:00 CohFAQ.v3.2
+
+gnu-udo:
+total 286
+-r--r--r--   1 sysadm   wheel       17982 Dec  5  1993 COPYING-2.0
+-r--r--r--   1 sysadm   wheel       25265 Dec  5  1993 COPYING.LIB
+-r--r--r--   1 sysadm   wheel       36965 Dec  2  1993 DESCRIPTIONS
+-rw-r--r--   1 sysadm   wheel        7681 Aug 16 11:42 README.first
+drwxr-xr-x   2 sysadm   wheel        3072 Oct  9 13:58 bin
+-r--r--r--   1 sysadm   wheel      184109 Oct  9 13:46 bulletin.0695
+drwxr-xr-x   2 sysadm   wheel        1024 Dec  7  1993 etc
+drwxr-xr-x   5 sysadm   wheel        1024 May 20  1994 i386-coh
+drwxr-xr-x   2 sysadm   wheel        1024 Nov  9  1994 include
+drwxr-xr-x   2 sysadm   wheel        4096 Nov  9  1994 info
+drwxr-xr-x  10 sysadm   wheel        1024 May 14  1995 lib
+drwxr-xr-x   3 sysadm   wheel        1024 Dec  8  1994 man
+drwxr-xr-x   3 sysadm   wheel        1024 Oct  9 13:37 src
+drwxr-xr-x   3 sysadm   wheel        1024 Oct  6  1994 test
+
+gnu-udo/bin:
+total 9146
+-rwxr-xr-x   2 sysadm   wheel       20908 Dec  6  1993 [
+-rwxr-xr-x   1 sysadm   wheel      282136 Jun  9  1994 a2p
+-rwxr-xr-x   1 sysadm   wheel       26936 Jun 13  1994 addftinfo
+-rwxr-xr-x   1 sysadm   wheel        8412 May 20  1994 afmtodit
+-rwxr-xr-x   1 sysadm   wheel       84768 Jun 13  1994 ar
+-rwxr-xr-x   1 sysadm   wheel      154328 May 20  1994 as.gnu
+-rwxr-xr-x   2 sysadm   wheel      145796 Dec  7  1993 awk
+-rwxr-xr-x   1 sysadm   wheel        9480 Dec  6  1993 basename
+-rwxr-xr-x   1 sysadm   wheel      264136 Jun 10  1994 bash
+-rwxr-xr-x   1 sysadm   wheel       48804 Dec  5  1993 bc
+-rwxr-xr-x   1 sysadm   wheel          35 Jan 11  1994 bdftops
+-rwxr-xr-x   1 sysadm   wheel       69020 Dec  4  1993 bison
+-rwxr-xr-x   2 sysadm   wheel       14920 Sep  1  1994 c++
+-rwxr-xr-x   1 sysadm   wheel       26392 Jun 13  1994 c++filt
+-rwxr-xr-x   1 sysadm   wheel       25634 May 13  1994 c2ph
+-rwxr-xr-x   1 sysadm   wheel       13608 Dec  6  1993 cat
+-rwxr-xr-x   1 sysadm   wheel       15260 Dec  5  1993 chgrp
+-rwxr-xr-x   1 sysadm   wheel       15392 Dec  5  1993 chmod
+-rwxr-xr-x   1 sysadm   wheel       16896 Dec  5  1993 chown
+-rwxr-xr-x   1 sysadm   wheel       12984 Dec  6  1993 cksum
+-rwxr-xr-x   1 sysadm   wheel       14020 Dec  6  1993 cmp.not
+-rwxr-xr-x   1 sysadm   wheel       12932 Dec  6  1993 comm
+-rwxr-xr-x   1 sysadm   wheel       23356 Dec  5  1993 cp
+-rwxr-xr-x   1 sysadm   wheel       52488 Dec  4  1993 cpio
+-rwxr-xr-x   1 sysadm   wheel          45 May 13  1994 cppstdin
+-rwxr-xr-x   1 sysadm   wheel       44248 Dec  6  1993 csplit
+-rwxr-xr-x   1 sysadm   wheel       23512 Aug  4  1994 ctags
+-rwxr-xr-x   1 sysadm   wheel       14980 Dec  6  1993 cut
+-rwxr-xr-x   2 sysadm   wheel       31532 Dec  5  1993 d
+-rwxr-xr-x   1 sysadm   wheel       31988 Apr  5  1994 date
+-rwxr-xr-x   1 sysadm   wheel       22376 Dec  7  1993 dc
+-rwxr-xr-x   1 sysadm   wheel       18032 Dec  5  1993 dd
+-rwxr-xr-x   1 sysadm   wheel       16476 Dec  5  1993 df
+-rwxr-xr-x   1 sysadm   wheel       73024 Dec  6  1993 diff
+-rwxr-xr-x   1 sysadm   wheel       22660 Dec  6  1993 diff3
+-rwxr-xr-x   2 sysadm   wheel       31532 Dec  5  1993 dir
+-rwxr-xr-x   1 sysadm   wheel        9336 Dec  6  1993 dirname
+-rwxr-xr-x   1 sysadm   wheel       16552 Dec  5  1993 du
+-rwxr-xr-x   1 sysadm   wheel       10528 Dec  6  1993 echo
+-rwxr-xr-x   3 sysadm   wheel       66956 Dec  5  1993 egrep
+-rwxr-xr-x   1 sysadm   wheel      483328 Aug  4  1994 emacs
+-rwxr-xr-x   1 sysadm   wheel       12208 Aug  4  1994 emacsclient
+-rwxr-xr-x   1 sysadm   wheel       12728 Dec  6  1993 env
+-rwxr-xr-x   1 sysadm   wheel       23512 Aug  4  1994 etags
+-rwxr-xr-x   1 sysadm   wheel       13552 Dec  6  1993 expand
+-rwxr-xr-x   1 sysadm   wheel       40468 Dec  6  1993 expr
+-rwxr-xr-x   1 sysadm   wheel         326 Dec  6  1993 false
+-rwxr-xr-x   3 sysadm   wheel       66956 Dec  5  1993 fgrep
+-rwxr-xr-x   1 sysadm   wheel       64296 Feb  7  1994 find
+-rwxr-xr-x   1 sysadm   wheel       12053 May 13  1994 find2perl
+-rwxr-xr-x   2 sysadm   wheel      228884 Dec  5  1993 flex
+-rwxr-xr-x   2 sysadm   wheel      228884 Dec  5  1993 flex++
+-rwxr-xr-x   1 sysadm   wheel       13384 Dec  6  1993 fold
+-rwxr-xr-x   1 sysadm   wheel          52 Jan 11  1994 font2c
+-rwxr-xr-x   2 sysadm   wheel       14920 Sep  1  1994 g++
+-rwxr-xr-x   2 sysadm   wheel      145796 Dec  7  1993 gawk
+-rwxr-xr-x   1 sysadm   wheel       48716 Sep  1  1994 gcc
+-rwxr-xr-x   1 sysadm   wheel      804888 Jun 29  1994 gdb
+-rwxr-xr-x   1 sysadm   wheel       10246 Jun  9  1995 genclass
+-rwxr-xr-x   1 sysadm   wheel      133384 Jun 13  1994 geqn
+-rwxr-xr-x   1 sysadm   wheel       30056 Jun 13  1994 gindxbib
+-rwxr-xr-x   2 sysadm   wheel       19464 Dec  5  1993 ginstall
+-rwxr-xr-x   1 sysadm   wheel       33016 Jun 13  1994 glookbib
+-rwxr-xr-x   1 sysadm   wheel         165 May 20  1994 gneqn
+-rwxr-xr-x   1 sysadm   wheel         677 May 20  1994 gnroff
+-rwxr-xr-x   1 sysadm   wheel       42680 May 20  1994 gperf
+-rwxr-xr-x   1 sysadm   wheel      180072 Jun 13  1994 gpic
+-rwxr-xr-x   1 sysadm   wheel      103912 Jun 13  1994 gprof
+-rwxr-xr-x   1 sysadm   wheel      106344 Jun 13  1994 grefer
+-rwxr-xr-x   3 sysadm   wheel       66956 Dec  5  1993 grep
+-rwxr-xr-x   1 sysadm   wheel       52008 Jun 13  1994 grodvi
+-rwxr-xr-x   1 sysadm   wheel       48888 Jun 13  1994 groff
+-rwxr-xr-x   1 sysadm   wheel        1612 May 20  1994 grog
+-rwxr-xr-x   1 sysadm   wheel       76456 Jun 13  1994 grops
+-rwxr-xr-x   1 sysadm   wheel       46904 Jun 13  1994 grotty
+-rwxr-xr-x   1 sysadm   wheel        1434 Dec  6  1993 groups
+-rwxr-xr-x   1 sysadm   wheel      756288 Jan 11  1994 gs
+-rwxr-xr-x   1 sysadm   wheel          51 Jan 11  1994 gsbj
+-rwxr-xr-x   1 sysadm   wheel          53 Jan 11  1994 gsdj
+-rwxr-xr-x   1 sysadm   wheel          54 Jan 11  1994 gslj
+-rwxr-xr-x   1 sysadm   wheel          50 Jan 11  1994 gslp
+-rwxr-xr-x   1 sysadm   wheel          18 Jan 11  1994 gsnd
+-rwxr-xr-x   1 sysadm   wheel       22648 Jun 13  1994 gsoelim
+-rwxr-xr-x   1 sysadm   wheel       77112 Jun 13  1994 gtbl
+-rwxr-xr-x   1 sysadm   wheel      228216 Jun 13  1994 gtroff
+-rwxr-xr-x   3 sysadm   wheel       53812 Dec  6  1993 gunzip
+-rwxr-xr-x   1 sysadm   wheel        3851 Dec  6  1993 gzexe
+-rwxr-xr-x   3 sysadm   wheel       53812 Dec  6  1993 gzip
+-rwxr-xr-x   1 sysadm   wheel        5538 May 13  1994 h2ph
+-rwxr-xr-x   1 sysadm   wheel       12868 Dec  6  1993 head
+-rwxr-xr-x   1 sysadm   wheel       15612 Dec  6  1993 id
+-rwxr-xr-x   1 sysadm   wheel       47420 Dec  5  1993 indent
+-rwxr-xr-x   1 sysadm   wheel      104180 Dec  5  1993 info
+-rwxr-xr-x   2 sysadm   wheel       19464 Dec  5  1993 install
+-rwxr-xr-x   1 sysadm   wheel       70948 Dec  5  1993 ispell
+-rwxr-xr-x   1 sysadm   wheel       17276 Dec  6  1993 join
+-rwxr-xr-x   1 sysadm   wheel      148040 Jun 13  1994 ld.gnu
+-rwxr-xr-x   1 sysadm   wheel       64688 Dec  8  1994 less
+-rwxr-xr-x   1 sysadm   wheel       15856 Dec  8  1994 lesskey
+-rwxr-xr-x   1 sysadm   wheel       33048 Jun 13  1994 lkbib
+-rwxr-xr-x   1 sysadm   wheel       16376 Dec  5  1993 ln
+-rwxr-xr-x   1 sysadm   wheel       14448 Feb  7  1994 locate
+-rwxr-xr-x   1 sysadm   wheel       10628 Dec  6  1993 logname
+-rwxr-xr-x   1 sysadm   wheel       13656 Dec  5  1993 look
+-rwxr-xr-x   1 sysadm   wheel       31532 Dec  5  1993 ls
+-rwxr-xr-x   1 sysadm   wheel       84456 Jan 15  1994 m4
+-rwxr-xr-x   1 sysadm   wheel      109416 May 22  1994 make
+-rwxr-xr-x   1 sysadm   wheel       65200 Dec  5  1993 makeinfo
+-rwxr-xr-x   1 sysadm   wheel       13088 Dec  5  1993 mkdir
+-rwxr-xr-x   1 sysadm   wheel       11664 Dec  5  1993 mkfifo
+-rwxr-xr-x   1 sysadm   wheel       12580 Dec  5  1993 mknod
+-rwxr-xr-x   1 sysadm   wheel       17884 Dec  5  1993 mv.not
+-rwxr-xr-x   1 sysadm   wheel       40384 Dec  6  1993 nl
+-rwxr-xr-x   1 sysadm   wheel       90036 Jun 13  1994 nm
+-rwxr-xr-x   1 sysadm   wheel       78684 Jun 13  1994 objcopy
+-rwxr-xr-x   1 sysadm   wheel      112872 Jun 13  1994 objdump
+-rwxr-xr-x   1 sysadm   wheel       27668 Dec  6  1993 od
+-rwxr-xr-x   1 sysadm   wheel       14184 Dec  6  1993 paste
+-rwxr-xr-x   1 sysadm   wheel       45240 Dec  7  1993 patch
+-rwxr-xr-x   1 sysadm   wheel       12152 Dec  6  1993 pathchk
+-rwxr-xr-x   1 sysadm   wheel      256008 Jun  9  1994 perl
+-rwxr-xr-x   1 sysadm   wheel       13232 Jun 13  1994 pfbtops
+-rwxr-xr-x   1 sysadm   wheel       23800 Dec  6  1993 pr
+-rwxr-xr-x   1 sysadm   wheel       10700 Dec  6  1993 printenv
+-rwxr-xr-x   1 sysadm   wheel       17396 Dec  6  1993 printf
+-rwxr-xr-x   1 sysadm   wheel       48784 Sep  1  1994 protoize
+-rwxr-xr-x   1 sysadm   wheel         563 Jan 11  1994 ps2ascii
+-rwxr-xr-x   1 sysadm   wheel         807 Jan 11  1994 ps2epsi
+-rwxr-xr-x   1 sysadm   wheel       16432 Jun 13  1994 psbb
+-rwxr-xr-x   1 sysadm   wheel       25634 May 13  1994 pstruct
+-rwxr-xr-x   1 sysadm   wheel       84768 Jun 13  1994 ranlib.not
+-rwxr-xr-x   1 sysadm   wheel       15724 Dec  5  1993 rm
+-rwxr-xr-x   1 sysadm   wheel       10692 Dec  5  1993 rmdir
+-rwxr-xr-x   1 sysadm   wheel       13819 May 13  1994 s2p
+-rwxr-xr-x   1 sysadm   wheel      155728 Dec  7  1993 screen
+-rwxr-xr-x   1 sysadm   wheel       21460 Dec  6  1993 sdiff
+-rwxr-xr-x   1 sysadm   wheel       64592 Jan 18  1994 sed
+-rwxr-xr-x   1 sysadm   wheel       74432 Jun 13  1994 size
+-rwxr-xr-x   1 sysadm   wheel       10780 Dec  6  1993 sleep
+-rwxr-xr-x   1 sysadm   wheel       26528 Dec  6  1993 sort
+-rwxr-xr-x   1 sysadm   wheel       14268 Dec  6  1993 split.not
+-rwxr-xr-x   1 sysadm   wheel       74220 Jun 13  1994 strings
+-rwxr-xr-x   1 sysadm   wheel       78684 Jun 13  1994 strip.not
+-rwxr-xr-x   1 sysadm   wheel       20500 Dec  6  1993 su.not
+-rwxr-xr-x   1 sysadm   wheel       12032 Dec  6  1993 sum
+-rwxr-xr-x   1 sysadm   wheel       38384 Dec  6  1993 tac
+-rwxr-xr-x   1 sysadm   wheel       16936 Dec  6  1993 tail
+-rwxr-xr-x   1 sysadm   wheel      262888 Jun  9  1994 taintperl
+-rwxr-xr-x   1 sysadm   wheel      108820 Dec  4  1993 tar
+-rwxr-xr-x   1 sysadm   wheel       11640 Dec  6  1993 tee
+-rwxr-xr-x   2 sysadm   wheel       20908 Dec  6  1993 test
+-rwxr-xr-x   1 sysadm   wheel        9344 Dec  5  1993 texi2dvi
+-rwxr-xr-x   1 sysadm   wheel       19872 Dec  5  1993 texindex
+-rwxr-xr-x   1 sysadm   wheel       30088 Jun 13  1994 tfmtodit
+-rwxr-xr-x   1 sysadm   wheel       28808 Dec  5  1993 touch
+-rwxr-xr-x   1 sysadm   wheel       20400 Dec  5  1993 tput
+-rwxr-xr-x   1 sysadm   wheel       23428 Dec  6  1993 tr
+-rwxr-xr-x   1 sysadm   wheel         328 Dec  6  1993 true
+-rwxr-xr-x   1 sysadm   wheel       11840 Dec  6  1993 tty
+-rwxr-xr-x   1 sysadm   wheel       11104 Dec  6  1993 uname
+-rwxr-xr-x   1 sysadm   wheel       13840 Dec  6  1993 unexpand
+-rwxr-xr-x   1 sysadm   wheel       14416 Dec  6  1993 uniq
+-rwxr-xr-x   1 sysadm   wheel       45096 Sep  1  1994 unprotoize
+-rwxr-xr-x   2 sysadm   wheel       31532 Dec  5  1993 v
+-rwxr-xr-x   2 sysadm   wheel       31532 Dec  5  1993 vdir
+-rwxr-xr-x   1 sysadm   wheel       11692 Dec  6  1993 wc
+-rwxr-xr-x   1 sysadm   wheel       17992 Dec  6  1993 who
+-rwxr-xr-x   1 sysadm   wheel       11080 Dec  6  1993 whoami
+-rwxr-xr-x   1 sysadm   wheel       18620 Feb  7  1994 xargs
+-rwxr-xr-x   1 sysadm   wheel        9480 Dec  6  1993 yes
+-rwxr-xr-x   3 sysadm   wheel       53812 Dec  6  1993 zcat
+-rwxr-xr-x   2 sysadm   wheel        2005 Dec  6  1993 zcmp
+-rwxr-xr-x   2 sysadm   wheel        2005 Dec  6  1993 zdiff
+-rwxr-xr-x   1 sysadm   wheel        1009 Dec  6  1993 zforce
+-rwxr-xr-x   1 sysadm   wheel        1338 Dec  6  1993 zgrep
+-rwxr-xr-x   1 sysadm   wheel        1073 Dec  6  1993 zmore
+-rwxr-xr-x   1 sysadm   wheel        3507 Dec  6  1993 znew
+
+gnu-udo/etc:
+total 5
+-rw-r--r--   1 sysadm   wheel        4655 Dec  7  1993 screenrc
+
+gnu-udo/i386-coh:
+total 3
+drwxr-xr-x   2 sysadm   wheel        1024 Sep  7 16:45 bin
+drwxr-xr-x   2 sysadm   wheel        1024 Sep  1  1994 include
+drwxr-xr-x   3 sysadm   wheel        1024 Jan 13  1994 lib
+
+gnu-udo/i386-coh/bin:
+total 297
+-rwxr-xr-x   1 sysadm   wheel      154328 May 20  1994 as
+-rwxr-xr-x   1 sysadm   wheel      148040 Jun 13  1994 ld
+
+gnu-udo/i386-coh/include:
+total 4
+-rw-r--r--   1 sysadm   wheel        1243 May 20  1994 _G_config.h
+-r--r--r--   1 sysadm   wheel        1397 Sep  1  1994 assert.h
+
+gnu-udo/i386-coh/lib:
+total 1
+drwxr-xr-x   2 sysadm   wheel        1024 Jun 13  1994 ldscripts
+
+gnu-udo/i386-coh/lib/ldscripts:
+total 5
+-rw-r--r--   1 sysadm   wheel         485 Jun 13  1994 i386coh.x
+-rw-r--r--   1 sysadm   wheel         485 Jun 13  1994 i386coh.xbn
+-rw-r--r--   1 sysadm   wheel         485 Jun 13  1994 i386coh.xn
+-rw-r--r--   1 sysadm   wheel         356 Jun 13  1994 i386coh.xr
+-rw-r--r--   1 sysadm   wheel         356 Jun 13  1994 i386coh.xu
+
+gnu-udo/include:
+total 115
+-rw-r--r--   1 sysadm   wheel        4622 Dec  5  1993 FlexLexer.h
+-rw-r--r--   1 sysadm   wheel        4358 Jun 13  1994 ansidecl.h
+-rw-r--r--   1 sysadm   wheel       74882 Jun 13  1994 bfd.h
+-rw-r--r--   1 sysadm   wheel        1563 Nov  9  1994 dbm.h
+-rw-r--r--   1 sysadm   wheel        4655 Nov  9  1994 gdbm.h
+-rw-r--r--   1 sysadm   wheel        2003 Nov  9  1994 ndbm.h
+-rw-r--r--   1 sysadm   wheel       19529 Jun 13  1994 obstack.h
+
+gnu-udo/info:
+total 6498
+-r--r--r--   1 sysadm   wheel        5810 Feb  1  1994 as.info
+-r--r--r--   1 sysadm   wheel       50497 Feb  1  1994 as.info-1
+-r--r--r--   1 sysadm   wheel       49889 Feb  1  1994 as.info-2
+-r--r--r--   1 sysadm   wheel       51032 Feb  1  1994 as.info-3
+-r--r--r--   1 sysadm   wheel       36805 Feb  1  1994 as.info-4
+-r--r--r--   1 sysadm   wheel       20320 Feb  1  1994 as.info-5
+-r--r--r--   1 sysadm   wheel       36152 Feb  1  1994 as.info-6
+-r--r--r--   1 sysadm   wheel       16493 Jun 13  1994 atc
+-r--r--r--   1 sysadm   wheel        2034 Jan 19  1994 bfd.info
+-r--r--r--   1 sysadm   wheel       49201 Jan 19  1994 bfd.info-1
+-r--r--r--   1 sysadm   wheel       50291 Jan 19  1994 bfd.info-2
+-r--r--r--   1 sysadm   wheel       30683 Jan 19  1994 bfd.info-3
+-r--r--r--   1 sysadm   wheel       27924 Jan 19  1994 bfd.info-4
+-r--r--r--   1 sysadm   wheel       50458 Jun 13  1994 binutils.info
+-r--r--r--   1 sysadm   wheel        3658 Dec  4  1993 bison.info
+-r--r--r--   1 sysadm   wheel       50267 Dec  4  1993 bison.info-1
+-r--r--r--   1 sysadm   wheel       47596 Dec  4  1993 bison.info-2
+-r--r--r--   1 sysadm   wheel       51100 Dec  4  1993 bison.info-3
+-r--r--r--   1 sysadm   wheel       51168 Dec  4  1993 bison.info-4
+-r--r--r--   1 sysadm   wheel       28507 Jun 13  1994 cfg-paper.info
+-r--r--r--   1 sysadm   wheel        2013 Sep  1  1994 cpp.info
+-r--r--r--   1 sysadm   wheel       50641 Sep  1  1994 cpp.info-1
+-r--r--r--   1 sysadm   wheel       49768 Sep  1  1994 cpp.info-2
+-r--r--r--   1 sysadm   wheel        4898 Sep  1  1994 cpp.info-3
+-r--r--r--   1 sysadm   wheel       11137 Dec  7  1993 dc.info
+-r--r--r--   1 sysadm   wheel        3631 Dec  6  1993 diff.info
+-r--r--r--   1 sysadm   wheel       47362 Dec  6  1993 diff.info-1
+-r--r--r--   1 sysadm   wheel       50802 Dec  6  1993 diff.info-2
+-r--r--r--   1 sysadm   wheel       46992 Dec  6  1993 diff.info-3
+-r--r--r--   1 sysadm   wheel        7636 Dec  6  1993 diff.info-4
+-rw-r--r--   1 sysadm   wheel        2755 Nov  9  1994 dir
+-rw-r--r--   1 sysadm   wheel        2755 Nov  9  1994 dir.sav
+-r--r--r--   1 sysadm   wheel        9780 Oct 31  1992 emacs
+-r--r--r--   1 sysadm   wheel       48773 Oct 31  1992 emacs-1
+-r--r--r--   1 sysadm   wheel       48603 Oct 31  1992 emacs-10
+-r--r--r--   1 sysadm   wheel       50028 Oct 31  1992 emacs-11
+-r--r--r--   1 sysadm   wheel       49967 Oct 31  1992 emacs-12
+-r--r--r--   1 sysadm   wheel       50760 Oct 31  1992 emacs-13
+-r--r--r--   1 sysadm   wheel       50741 Oct 31  1992 emacs-14
+-r--r--r--   1 sysadm   wheel       24586 Oct 31  1992 emacs-15
+-r--r--r--   1 sysadm   wheel       32237 Oct 31  1992 emacs-16
+-r--r--r--   1 sysadm   wheel       28473 Oct 31  1992 emacs-17
+-r--r--r--   1 sysadm   wheel       50344 Oct 31  1992 emacs-18
+-r--r--r--   1 sysadm   wheel       22898 Oct 31  1992 emacs-19
+-r--r--r--   1 sysadm   wheel       48966 Oct 31  1992 emacs-2
+-r--r--r--   1 sysadm   wheel       51047 Oct 31  1992 emacs-3
+-r--r--r--   1 sysadm   wheel       47893 Oct 31  1992 emacs-4
+-r--r--r--   1 sysadm   wheel       50756 Oct 31  1992 emacs-5
+-r--r--r--   1 sysadm   wheel       50620 Oct 31  1992 emacs-6
+-r--r--r--   1 sysadm   wheel       47936 Oct 31  1992 emacs-7
+-r--r--r--   1 sysadm   wheel       51007 Oct 31  1992 emacs-8
+-r--r--r--   1 sysadm   wheel       49905 Oct 31  1992 emacs-9
+-r--r--r--   1 sysadm   wheel         761 Dec  5  1993 flex.info
+-r--r--r--   1 sysadm   wheel       50090 Dec  5  1993 flex.info-1
+-r--r--r--   1 sysadm   wheel       23140 Dec  5  1993 flex.info-2
+-r--r--r--   1 sysadm   wheel        5657 Dec  7  1993 gawk.info
+-r--r--r--   1 sysadm   wheel       48248 Dec  7  1993 gawk.info-1
+-r--r--r--   1 sysadm   wheel       50881 Dec  7  1993 gawk.info-2
+-r--r--r--   1 sysadm   wheel       49723 Dec  7  1993 gawk.info-3
+-r--r--r--   1 sysadm   wheel       50175 Dec  7  1993 gawk.info-4
+-r--r--r--   1 sysadm   wheel       48775 Dec  7  1993 gawk.info-5
+-r--r--r--   1 sysadm   wheel       48923 Dec  7  1993 gawk.info-6
+-r--r--r--   1 sysadm   wheel       50434 Dec  7  1993 gawk.info-7
+-r--r--r--   1 sysadm   wheel       40885 Dec  7  1993 gawk.info-8
+-r--r--r--   1 sysadm   wheel       18667 Dec  7  1993 gawk.info-9
+-r--r--r--   1 sysadm   wheel        7951 Sep  1  1994 gcc.info
+-r--r--r--   1 sysadm   wheel       49956 Sep  1  1994 gcc.info-1
+-r--r--r--   1 sysadm   wheel       38438 Sep  1  1994 gcc.info-10
+-r--r--r--   1 sysadm   wheel       50670 Sep  1  1994 gcc.info-11
+-r--r--r--   1 sysadm   wheel       44791 Sep  1  1994 gcc.info-12
+-r--r--r--   1 sysadm   wheel       50751 Sep  1  1994 gcc.info-13
+-r--r--r--   1 sysadm   wheel       32901 Sep  1  1994 gcc.info-14
+-r--r--r--   1 sysadm   wheel       48972 Sep  1  1994 gcc.info-15
+-r--r--r--   1 sysadm   wheel       46867 Sep  1  1994 gcc.info-16
+-r--r--r--   1 sysadm   wheel       50729 Sep  1  1994 gcc.info-17
+-r--r--r--   1 sysadm   wheel       48510 Sep  1  1994 gcc.info-18
+-r--r--r--   1 sysadm   wheel       50407 Sep  1  1994 gcc.info-19
+-r--r--r--   1 sysadm   wheel       42779 Sep  1  1994 gcc.info-2
+-r--r--r--   1 sysadm   wheel       48564 Sep  1  1994 gcc.info-20
+-r--r--r--   1 sysadm   wheel       36938 Sep  1  1994 gcc.info-21
+-r--r--r--   1 sysadm   wheel       22796 Sep  1  1994 gcc.info-22
+-r--r--r--   1 sysadm   wheel       99684 Sep  1  1994 gcc.info-23
+-r--r--r--   1 sysadm   wheel       45963 Sep  1  1994 gcc.info-3
+-r--r--r--   1 sysadm   wheel       41447 Sep  1  1994 gcc.info-4
+-r--r--r--   1 sysadm   wheel       50107 Sep  1  1994 gcc.info-5
+-r--r--r--   1 sysadm   wheel       50725 Sep  1  1994 gcc.info-6
+-r--r--r--   1 sysadm   wheel       49999 Sep  1  1994 gcc.info-7
+-r--r--r--   1 sysadm   wheel       50680 Sep  1  1994 gcc.info-8
+-r--r--r--   1 sysadm   wheel       40573 Sep  1  1994 gcc.info-9
+-r--r--r--   1 sysadm   wheel        5589 Jan 19  1994 gdb.info
+-r--r--r--   1 sysadm   wheel       50863 Jan 19  1994 gdb.info-1
+-r--r--r--   1 sysadm   wheel       48552 Jan 19  1994 gdb.info-2
+-r--r--r--   1 sysadm   wheel       48243 Jan 19  1994 gdb.info-3
+-r--r--r--   1 sysadm   wheel       50133 Jan 19  1994 gdb.info-4
+-r--r--r--   1 sysadm   wheel       50430 Jan 19  1994 gdb.info-5
+-r--r--r--   1 sysadm   wheel       46880 Jan 19  1994 gdb.info-6
+-r--r--r--   1 sysadm   wheel       46085 Jan 19  1994 gdb.info-7
+-r--r--r--   1 sysadm   wheel       34216 Jan 19  1994 gdb.info-8
+-r--r--r--   1 sysadm   wheel       24226 Nov  9  1994 gdbm.info
+-r--r--r--   1 sysadm   wheel       51808 Jan 19  1994 gperf.info
+-r--r--r--   1 sysadm   wheel       41236 Jun 13  1994 gprof.info
+-r--r--r--   1 sysadm   wheel       35587 Dec  6  1993 gzip.info
+-r--r--r--   1 sysadm   wheel       43428 Dec  5  1993 indent.info
+-r--r--r--   1 sysadm   wheel       27227 Nov 28  1991 info
+-r--r--r--   1 sysadm   wheel       53542 Dec  5  1993 info-stnd.info
+-r--r--r--   1 sysadm   wheel       31400 Dec  5  1993 info.info
+-r--r--r--   1 sysadm   wheel       25745 Dec  5  1993 ispell.info
+-r--r--r--   1 sysadm   wheel        1704 Jun 13  1994 ld.info
+-r--r--r--   1 sysadm   wheel       50583 Jun 13  1994 ld.info-1
+-r--r--r--   1 sysadm   wheel       41952 Jun 13  1994 ld.info-2
+-r--r--r--   1 sysadm   wheel        2170 Jan 19  1994 libg++.info
+-r--r--r--   1 sysadm   wheel       41016 Jan 19  1994 libg++.info-1
+-r--r--r--   1 sysadm   wheel       50499 Jan 19  1994 libg++.info-2
+-r--r--r--   1 sysadm   wheel       50230 Jan 19  1994 libg++.info-3
+-r--r--r--   1 sysadm   wheel       51061 Jan 19  1994 libg++.info-4
+-r--r--r--   1 sysadm   wheel        3661 Jan 19  1994 libg++.info-5
+-r--r--r--   1 sysadm   wheel        2392 Jan 15  1994 m4.info
+-r--r--r--   1 sysadm   wheel       50427 Jan 15  1994 m4.info-1
+-r--r--r--   1 sysadm   wheel       37883 Jan 15  1994 m4.info-2
+-r--r--r--   1 sysadm   wheel        4566 Apr 28  1994 make.info
+-r--r--r--   1 sysadm   wheel       50842 Apr 28  1994 make.info-1
+-r--r--r--   1 sysadm   wheel       49994 Apr 28  1994 make.info-2
+-r--r--r--   1 sysadm   wheel       49254 Apr 28  1994 make.info-3
+-r--r--r--   1 sysadm   wheel       50451 Apr 28  1994 make.info-4
+-r--r--r--   1 sysadm   wheel       49060 Apr 28  1994 make.info-5
+-r--r--r--   1 sysadm   wheel       47845 Apr 28  1994 make.info-6
+-r--r--r--   1 sysadm   wheel       17211 Apr 28  1994 make.info-7
+-r--r--r--   1 sysadm   wheel       48164 Apr 28  1994 make.info-8
+-r--r--r--   1 sysadm   wheel        8247 Dec  5  1993 makeinfo.info
+-r--r--r--   1 sysadm   wheel      119268 Dec  5  1993 regex.info
+-r--r--r--   1 sysadm   wheel       23653 Jan 25  1991 regexp
+-r--r--r--   1 sysadm   wheel        3849 Dec  7  1993 screen.info
+-r--r--r--   1 sysadm   wheel       50478 Dec  7  1993 screen.info-1
+-r--r--r--   1 sysadm   wheel       49830 Dec  7  1993 screen.info-2
+-r--r--r--   1 sysadm   wheel       35936 Dec  7  1993 screen.info-3
+-r--r--r--   1 sysadm   wheel       77754 Dec  6  1993 standards.info
+-r--r--r--   1 sysadm   wheel        2011 Oct 31  1992 termcap
+-r--r--r--   1 sysadm   wheel       49023 Oct 31  1992 termcap-1
+-r--r--r--   1 sysadm   wheel       44372 Oct 31  1992 termcap-2
+-r--r--r--   1 sysadm   wheel       48414 Oct 31  1992 termcap-3
+-r--r--r--   1 sysadm   wheel        8393 Dec  5  1993 texi.info
+-r--r--r--   1 sysadm   wheel       50585 Dec  5  1993 texi.info-1
+-r--r--r--   1 sysadm   wheel       43599 Dec  5  1993 texi.info-10
+-r--r--r--   1 sysadm   wheel       24680 Dec  5  1993 texi.info-11
+-r--r--r--   1 sysadm   wheel       50855 Dec  5  1993 texi.info-2
+-r--r--r--   1 sysadm   wheel       49835 Dec  5  1993 texi.info-3
+-r--r--r--   1 sysadm   wheel       49510 Dec  5  1993 texi.info-4
+-r--r--r--   1 sysadm   wheel       50874 Dec  5  1993 texi.info-5
+-r--r--r--   1 sysadm   wheel       40960 Dec  5  1993 texi.info-6
+-r--r--r--   1 sysadm   wheel       50629 Dec  5  1993 texi.info-7
+-r--r--r--   1 sysadm   wheel       42671 Dec  5  1993 texi.info-8
+-r--r--r--   1 sysadm   wheel       47096 Dec  5  1993 texi.info-9
+-r--r--r--   1 sysadm   wheel        4027 Jan 10  1991 texinfo
+-r--r--r--   1 sysadm   wheel       48681 Jan 10  1991 texinfo-1
+-r--r--r--   1 sysadm   wheel       49559 Jan 10  1991 texinfo-2
+-r--r--r--   1 sysadm   wheel       48741 Jan 10  1991 texinfo-3
+-r--r--r--   1 sysadm   wheel       34536 Jan 10  1991 texinfo-4
+-r--r--r--   1 sysadm   wheel       23867 Dec  5  1993 tput.info
+-r--r--r--   1 sysadm   wheel        3005 Jul 15  1993 uucp.info
+-r--r--r--   1 sysadm   wheel       48720 Jul 15  1993 uucp.info-1
+-r--r--r--   1 sysadm   wheel       50534 Jul 15  1993 uucp.info-2
+-r--r--r--   1 sysadm   wheel       50839 Jul 15  1993 uucp.info-3
+-r--r--r--   1 sysadm   wheel       43654 Jul 15  1993 uucp.info-4
+-r--r--r--   1 sysadm   wheel       20218 Jul 15  1993 uucp.info-5
+-r--r--r--   1 sysadm   wheel        1955 Jan 10  1991 vip
+-r--r--r--   1 sysadm   wheel       49472 Jan 10  1991 vip-1
+-r--r--r--   1 sysadm   wheel       24898 Jan 10  1991 vip-2
+
+gnu-udo/lib:
+total 973
+-rw-r--r--   1 sysadm   wheel        6477 Dec  4  1993 bison.hairy
+-rw-r--r--   1 sysadm   wheel       16237 Dec  4  1993 bison.simple
+drwxr-xr-x   7 sysadm   wheel        1024 Apr 15  1994 emacs
+drwxr-xr-x   3 sysadm   wheel        2048 May 20  1994 g++-include
+drwxr-xr-x   3 sysadm   wheel        1024 Dec  9  1993 gcc-lib
+drwxr-xr-x   5 sysadm   wheel        1024 Jan 11  1995 ghostscript
+drwxr-xr-x   4 sysadm   wheel        1024 May 20  1994 groff
+drwxr-xr-x   2 sysadm   wheel        1024 Dec  5  1993 ispell
+-rw-r--r--   1 sysadm   wheel        5670 Dec  8  1994 less.hlp
+-rw-r--r--   1 sysadm   wheel      162270 Jun 13  1994 libbfd.a
+-rw-r--r--   1 sysadm   wheel        1780 Dec  5  1993 libfl.a
+-rw-r--r--   1 sysadm   wheel      473946 May 20  1994 libg++.a
+-rw-r--r--   1 sysadm   wheel       33958 Nov  9  1994 libgdbm.a
+-rw-r--r--   1 sysadm   wheel       52728 Jun 13  1994 libiberty.a
+-rw-r--r--   1 sysadm   wheel      170300 May 20  1994 libiostream.a
+-rw-r--r--   1 sysadm   wheel       49276 Jun 13  1994 libopcodes.a
+drwxr-xr-x   2 sysadm   wheel        1024 Jan 20  1995 locate
+drwxr-xr-x   2 sysadm   wheel        1024 May 13  1994 perl
+
+gnu-udo/lib/emacs:
+total 14
+drwxr-xr-x   2 sysadm   wheel        2048 Oct 25  1994 etc
+drwxr-xr-x   2 sysadm   wheel        4096 Nov  9  1994 info
+drwxr-xr-x   3 sysadm   wheel        6144 Jun 13  1994 lisp
+drwxr-xr-x   2 sysadm   wheel        1024 Apr 15  1994 lock
+drwxr-xr-x   3 sysadm   wheel        1024 Jun 14  1994 site-lisp
+
+gnu-udo/lib/emacs/etc:
+total 1728
+-r--r--r--   1 sysadm   wheel        1913 Mar 19  1988 3B-MAXMEM
+-r--r--r--   1 sysadm   wheel       11264 Jan 28  1991 AIX.DUMP
+-r--r--r--   1 sysadm   wheel        1836 Jul 16  1986 APOLLO
+-r--r--r--   1 sysadm   wheel        3102 Nov  9  1990 APPLE
+-r--r--r--   1 sysadm   wheel        5051 Jul 29  1990 BABYL
+-r--r--r--   1 sysadm   wheel        6938 Aug 16  1988 CCADIFF
+-r--r--r--   1 sysadm   wheel        2351 Jul 29  1990 CHARACTERS
+-r--r--r--   1 sysadm   wheel        4975 Nov 10  1986 COOKIES
+-r--r--r--   1 sysadm   wheel       12488 Jan 27  1992 COPYING
+-r--r--r--   1 sysadm   wheel        9846 Oct 21  1992 ChangeLog
+-r--r--r--   1 sysadm   wheel        4286 Sep 29  1986 DEBUG
+-r--r--r--   1 sysadm   wheel       30529 Aug 17  1988 DIFF
+-r--r--r--   1 sysadm   wheel       15677 Feb 16  1992 DISTRIB
+-rw-r--r--   1 sysadm   wheel      235065 Aug  4  1994 DOC-18.59.8
+-r--r--r--   1 sysadm   wheel      199675 Sep 22  1992 FAQ
+-r--r--r--   1 sysadm   wheel       11654 Feb 16  1992 FTP
+-r--r--r--   1 sysadm   wheel       23948 Dec 26  1990 GNU
+-r--r--r--   1 sysadm   wheel        1222 Jul 29  1990 GNU.JOKES
+-r--r--r--   1 sysadm   wheel       23788 Nov 10  1986 GOSDIFF
+-r--r--r--   1 sysadm   wheel        1599 Jul 29  1990 INTERVAL.IDEAS
+-r--r--r--   1 sysadm   wheel       24529 Sep 16  1987 INTERVIEW
+-r--r--r--   1 sysadm   wheel        3048 Apr 18  1985 LEDIT
+-r--r--r--   1 sysadm   wheel        4980 Jan 16  1991 LPF
+-r--r--r--   1 sysadm   wheel       31483 Oct 29  1992 MACHINES
+-r--r--r--   1 sysadm   wheel       31496 Feb 16  1992 MAILINGLISTS
+-r--r--r--   1 sysadm   wheel        8791 Jun 29  1987 MOTIVATION
+-r--r--r--   1 sysadm   wheel        2619 Apr 15  1994 Makefile
+-r--r--r--   1 sysadm   wheel       65282 Mar  5  1992 NEWS
+-r--r--r--   1 sysadm   wheel       12733 Nov  6  1990 NICKLES.WORTH
+-r--r--r--   1 sysadm   wheel       51193 May  6  1986 ONEWS
+-r--r--r--   1 sysadm   wheel       47927 Jan 28  1986 OONEWS
+-r--r--r--   1 sysadm   wheel        9090 Oct 26  1990 OPTIONS
+-r--r--r--   1 sysadm   wheel         272 Sep 14  1986 README
+-r--r--r--   1 sysadm   wheel       30516 Oct 30  1992 SERVICE
+-r--r--r--   1 sysadm   wheel       12446 Oct 21  1992 SUN-SUPPORT
+-r--r--r--   1 sysadm   wheel        1900 Aug 31  1988 SUNBUG
+-r--r--r--   1 sysadm   wheel        9269 Dec 14  1990 TERMS
+-r--r--r--   1 sysadm   wheel         976 May  6  1988 TO-DO
+-r--r--r--   1 sysadm   wheel       33852 May 19  1988 TUTORIAL
+-r--r--r--   1 sysadm   wheel       17843 Oct 10  1986 XDOC
+-r--r--r--   1 sysadm   wheel        7042 Aug  5  1988 XENIX
+-r--r--r--   1 sysadm   wheel        9943 Jan 31  1988 Xkeymap.txt
+-r--r--r--   1 sysadm   wheel         184 Mar  4  1987 celibacy.1
+-r--r--r--   1 sysadm   wheel        1117 Aug 17  1988 complink.com
+-rwxr-xr-x   1 sysadm   wheel       23512 Aug  4  1994 ctags
+-rwxr-xr-x   1 sysadm   wheel       14976 Aug  4  1994 cvtmail
+-r--r--r--   1 sysadm   wheel        3375 Jan  8  1991 cvtmail.c
+-rwxr-xr-x   1 sysadm   wheel        9664 Aug  4  1994 digest-doc
+-r--r--r--   1 sysadm   wheel         930 Mar 21  1987 digest-doc.c
+-r--r--r--   1 sysadm   wheel        3392 Nov 10  1986 echo.msg
+-r--r--r--   1 sysadm   wheel       14188 Mar 14  1992 emacs.1
+-r--r--r--   1 sysadm   wheel        1933 Mar 16  1989 emacs.icon
+-r--r--r--   1 sysadm   wheel        6901 Mar  7  1986 emacs.names
+-rwxr-xr-x   1 sysadm   wheel       12208 Aug  4  1994 emacsclient
+-r--r--r--   1 sysadm   wheel        6251 Aug 22  1992 emacsclient.c
+-r--r--r--   1 sysadm   wheel        4944 Mar 16  1989 emacstool.1
+-r--r--r--   1 sysadm   wheel       16707 Oct 21  1992 emacstool.c
+-rwxr-xr-x   1 sysadm   wheel       13036 Aug  4  1994 env
+-r--r--r--   1 sysadm   wheel        7675 Jan 25  1992 env.c
+-rwxr-xr-x   1 sysadm   wheel       23512 Aug  4  1994 etags
+-r--r--r--   1 sysadm   wheel        4074 Jan 19  1992 etags-vmslib.c
+-r--r--r--   1 sysadm   wheel       33365 Aug 20  1992 etags.c
+-r--r--r--   1 sysadm   wheel         599 Jun 15  1988 etags.vms
+-rwxr-xr-x   1 sysadm   wheel       19192 Aug  4  1994 fakemail
+-r--r--r--   1 sysadm   wheel       13263 Jan  8  1991 fakemail.c
+-r--r--r--   1 sysadm   wheel        5596 Jan 24  1992 faq2texi.perl
+-r--r--r--   1 sysadm   wheel        4842 Apr 18  1985 ledit.l
+-r--r--r--   1 sysadm   wheel         427 Apr 18  1985 leditcfns.c
+-rwxr-xr-x   1 sysadm   wheel       14696 Aug  4  1994 make-docfile
+-r--r--r--   1 sysadm   wheel       11425 Oct 25  1991 make-docfile.c
+-r--r--r--   1 sysadm   wheel        1998 Mar 15  1987 makedoc.com
+-rwxr-xr-x   1 sysadm   wheel       11576 Aug  4  1994 movemail
+-r--r--r--   1 sysadm   wheel       16122 May  7  1992 movemail.c
+-r--r--r--   1 sysadm   wheel        3934 May 14  1991 ms-kermit
+-r--r--r--   1 sysadm   wheel        9426 May 14  1991 ms-kermit-7bit
+-r--r--r--   1 sysadm   wheel        5623 Sep 17  1987 qsort.c
+-r--r--r--   1 sysadm   wheel       18022 Jan  9  1991 refcard.tex
+-rwxr-xr-x   1 sysadm   wheel       11464 Aug  4  1994 server
+-r--r--r--   1 sysadm   wheel        8040 Mar 23  1992 server.c
+-r--r--r--   1 sysadm   wheel        2290 Nov 19  1987 sex.6
+-rwxr-xr-x   1 sysadm   wheel       10956 Aug  4  1994 sorted-doc
+-r--r--r--   1 sysadm   wheel        4930 Jun  4  1988 sorted-doc.c
+-r--r--r--   1 sysadm   wheel         733 Mar 25  1988 spook.lines
+-r--r--r--   1 sysadm   wheel       58225 Mar 12  1992 termcap.dat
+-r--r--r--   1 sysadm   wheel      130192 Apr 12  1991 termcap.ucb
+-rwxr-xr-x   1 sysadm   wheel       11016 Aug  4  1994 test-distrib
+-r--r--r--   1 sysadm   wheel        1427 May 22  1987 test-distrib.c
+-r--r--r--   1 sysadm   wheel         222 Apr 24  1985 testfile
+-r--r--r--   1 sysadm   wheel        1221 Mar 19  1988 ulimit.hack
+-r--r--r--   1 sysadm   wheel       21604 Jan  9  1991 vipcard.tex
+-r--r--r--   1 sysadm   wheel          53 Mar 20  1987 vmslink.opt
+-rwxr-xr-x   1 sysadm   wheel       12500 Aug  4  1994 wakeup
+-r--r--r--   1 sysadm   wheel         656 Jul 30  1991 wakeup.c
+-r--r--r--   1 sysadm   wheel         489 Feb 18  1990 xmouse.doc
+-rwxr-xr-x   1 sysadm   wheel       11808 Aug  4  1994 yow
+-r--r--r--   1 sysadm   wheel        1830 Apr 13  1988 yow.c
+-r--r--r--   1 sysadm   wheel       38353 Mar  3  1987 yow.lines
+
+gnu-udo/lib/emacs/info:
+total 6498
+-r--r--r--   1 sysadm   wheel        5810 Feb  1  1994 as.info
+-r--r--r--   1 sysadm   wheel       50497 Feb  1  1994 as.info-1
+-r--r--r--   1 sysadm   wheel       49889 Feb  1  1994 as.info-2
+-r--r--r--   1 sysadm   wheel       51032 Feb  1  1994 as.info-3
+-r--r--r--   1 sysadm   wheel       36805 Feb  1  1994 as.info-4
+-r--r--r--   1 sysadm   wheel       20320 Feb  1  1994 as.info-5
+-r--r--r--   1 sysadm   wheel       36152 Feb  1  1994 as.info-6
+-r--r--r--   1 sysadm   wheel       16493 Jun 13  1994 atc
+-r--r--r--   1 sysadm   wheel        2034 Jan 19  1994 bfd.info
+-r--r--r--   1 sysadm   wheel       49201 Jan 19  1994 bfd.info-1
+-r--r--r--   1 sysadm   wheel       50291 Jan 19  1994 bfd.info-2
+-r--r--r--   1 sysadm   wheel       30683 Jan 19  1994 bfd.info-3
+-r--r--r--   1 sysadm   wheel       27924 Jan 19  1994 bfd.info-4
+-r--r--r--   1 sysadm   wheel       50458 Jun 13  1994 binutils.info
+-r--r--r--   1 sysadm   wheel        3658 Dec  4  1993 bison.info
+-r--r--r--   1 sysadm   wheel       50267 Dec  4  1993 bison.info-1
+-r--r--r--   1 sysadm   wheel       47596 Dec  4  1993 bison.info-2
+-r--r--r--   1 sysadm   wheel       51100 Dec  4  1993 bison.info-3
+-r--r--r--   1 sysadm   wheel       51168 Dec  4  1993 bison.info-4
+-r--r--r--   1 sysadm   wheel       28507 Jun 13  1994 cfg-paper.info
+-r--r--r--   1 sysadm   wheel        2013 Sep  1  1994 cpp.info
+-r--r--r--   1 sysadm   wheel       50641 Sep  1  1994 cpp.info-1
+-r--r--r--   1 sysadm   wheel       49768 Sep  1  1994 cpp.info-2
+-r--r--r--   1 sysadm   wheel        4898 Sep  1  1994 cpp.info-3
+-r--r--r--   1 sysadm   wheel       11137 Dec  7  1993 dc.info
+-r--r--r--   1 sysadm   wheel        3631 Dec  6  1993 diff.info
+-r--r--r--   1 sysadm   wheel       47362 Dec  6  1993 diff.info-1
+-r--r--r--   1 sysadm   wheel       50802 Dec  6  1993 diff.info-2
+-r--r--r--   1 sysadm   wheel       46992 Dec  6  1993 diff.info-3
+-r--r--r--   1 sysadm   wheel        7636 Dec  6  1993 diff.info-4
+-rw-r--r--   1 sysadm   wheel        2755 Nov  9  1994 dir
+-rw-r--r--   1 sysadm   wheel        2755 Nov  9  1994 dir.sav
+-r--r--r--   1 sysadm   wheel        9780 Oct 31  1992 emacs
+-r--r--r--   1 sysadm   wheel       48773 Oct 31  1992 emacs-1
+-r--r--r--   1 sysadm   wheel       48603 Oct 31  1992 emacs-10
+-r--r--r--   1 sysadm   wheel       50028 Oct 31  1992 emacs-11
+-r--r--r--   1 sysadm   wheel       49967 Oct 31  1992 emacs-12
+-r--r--r--   1 sysadm   wheel       50760 Oct 31  1992 emacs-13
+-r--r--r--   1 sysadm   wheel       50741 Oct 31  1992 emacs-14
+-r--r--r--   1 sysadm   wheel       24586 Oct 31  1992 emacs-15
+-r--r--r--   1 sysadm   wheel       32237 Oct 31  1992 emacs-16
+-r--r--r--   1 sysadm   wheel       28473 Oct 31  1992 emacs-17
+-r--r--r--   1 sysadm   wheel       50344 Oct 31  1992 emacs-18
+-r--r--r--   1 sysadm   wheel       22898 Oct 31  1992 emacs-19
+-r--r--r--   1 sysadm   wheel       48966 Oct 31  1992 emacs-2
+-r--r--r--   1 sysadm   wheel       51047 Oct 31  1992 emacs-3
+-r--r--r--   1 sysadm   wheel       47893 Oct 31  1992 emacs-4
+-r--r--r--   1 sysadm   wheel       50756 Oct 31  1992 emacs-5
+-r--r--r--   1 sysadm   wheel       50620 Oct 31  1992 emacs-6
+-r--r--r--   1 sysadm   wheel       47936 Oct 31  1992 emacs-7
+-r--r--r--   1 sysadm   wheel       51007 Oct 31  1992 emacs-8
+-r--r--r--   1 sysadm   wheel       49905 Oct 31  1992 emacs-9
+-r--r--r--   1 sysadm   wheel         761 Dec  5  1993 flex.info
+-r--r--r--   1 sysadm   wheel       50090 Dec  5  1993 flex.info-1
+-r--r--r--   1 sysadm   wheel       23140 Dec  5  1993 flex.info-2
+-r--r--r--   1 sysadm   wheel        5657 Dec  7  1993 gawk.info
+-r--r--r--   1 sysadm   wheel       48248 Dec  7  1993 gawk.info-1
+-r--r--r--   1 sysadm   wheel       50881 Dec  7  1993 gawk.info-2
+-r--r--r--   1 sysadm   wheel       49723 Dec  7  1993 gawk.info-3
+-r--r--r--   1 sysadm   wheel       50175 Dec  7  1993 gawk.info-4
+-r--r--r--   1 sysadm   wheel       48775 Dec  7  1993 gawk.info-5
+-r--r--r--   1 sysadm   wheel       48923 Dec  7  1993 gawk.info-6
+-r--r--r--   1 sysadm   wheel       50434 Dec  7  1993 gawk.info-7
+-r--r--r--   1 sysadm   wheel       40885 Dec  7  1993 gawk.info-8
+-r--r--r--   1 sysadm   wheel       18667 Dec  7  1993 gawk.info-9
+-r--r--r--   1 sysadm   wheel        7951 Sep  1  1994 gcc.info
+-r--r--r--   1 sysadm   wheel       49956 Sep  1  1994 gcc.info-1
+-r--r--r--   1 sysadm   wheel       38438 Sep  1  1994 gcc.info-10
+-r--r--r--   1 sysadm   wheel       50670 Sep  1  1994 gcc.info-11
+-r--r--r--   1 sysadm   wheel       44791 Sep  1  1994 gcc.info-12
+-r--r--r--   1 sysadm   wheel       50751 Sep  1  1994 gcc.info-13
+-r--r--r--   1 sysadm   wheel       32901 Sep  1  1994 gcc.info-14
+-r--r--r--   1 sysadm   wheel       48972 Sep  1  1994 gcc.info-15
+-r--r--r--   1 sysadm   wheel       46867 Sep  1  1994 gcc.info-16
+-r--r--r--   1 sysadm   wheel       50729 Sep  1  1994 gcc.info-17
+-r--r--r--   1 sysadm   wheel       48510 Sep  1  1994 gcc.info-18
+-r--r--r--   1 sysadm   wheel       50407 Sep  1  1994 gcc.info-19
+-r--r--r--   1 sysadm   wheel       42779 Sep  1  1994 gcc.info-2
+-r--r--r--   1 sysadm   wheel       48564 Sep  1  1994 gcc.info-20
+-r--r--r--   1 sysadm   wheel       36938 Sep  1  1994 gcc.info-21
+-r--r--r--   1 sysadm   wheel       22796 Sep  1  1994 gcc.info-22
+-r--r--r--   1 sysadm   wheel       99684 Sep  1  1994 gcc.info-23
+-r--r--r--   1 sysadm   wheel       45963 Sep  1  1994 gcc.info-3
+-r--r--r--   1 sysadm   wheel       41447 Sep  1  1994 gcc.info-4
+-r--r--r--   1 sysadm   wheel       50107 Sep  1  1994 gcc.info-5
+-r--r--r--   1 sysadm   wheel       50725 Sep  1  1994 gcc.info-6
+-r--r--r--   1 sysadm   wheel       49999 Sep  1  1994 gcc.info-7
+-r--r--r--   1 sysadm   wheel       50680 Sep  1  1994 gcc.info-8
+-r--r--r--   1 sysadm   wheel       40573 Sep  1  1994 gcc.info-9
+-r--r--r--   1 sysadm   wheel        5589 Jan 19  1994 gdb.info
+-r--r--r--   1 sysadm   wheel       50863 Jan 19  1994 gdb.info-1
+-r--r--r--   1 sysadm   wheel       48552 Jan 19  1994 gdb.info-2
+-r--r--r--   1 sysadm   wheel       48243 Jan 19  1994 gdb.info-3
+-r--r--r--   1 sysadm   wheel       50133 Jan 19  1994 gdb.info-4
+-r--r--r--   1 sysadm   wheel       50430 Jan 19  1994 gdb.info-5
+-r--r--r--   1 sysadm   wheel       46880 Jan 19  1994 gdb.info-6
+-r--r--r--   1 sysadm   wheel       46085 Jan 19  1994 gdb.info-7
+-r--r--r--   1 sysadm   wheel       34216 Jan 19  1994 gdb.info-8
+-r--r--r--   1 sysadm   wheel       24226 Nov  9  1994 gdbm.info
+-r--r--r--   1 sysadm   wheel       51808 Jan 19  1994 gperf.info
+-r--r--r--   1 sysadm   wheel       41236 Jun 13  1994 gprof.info
+-r--r--r--   1 sysadm   wheel       35587 Dec  6  1993 gzip.info
+-r--r--r--   1 sysadm   wheel       43428 Dec  5  1993 indent.info
+-r--r--r--   1 sysadm   wheel       27227 Nov 28  1991 info
+-r--r--r--   1 sysadm   wheel       53542 Dec  5  1993 info-stnd.info
+-r--r--r--   1 sysadm   wheel       31400 Dec  5  1993 info.info
+-r--r--r--   1 sysadm   wheel       25745 Dec  5  1993 ispell.info
+-r--r--r--   1 sysadm   wheel        1704 Jun 13  1994 ld.info
+-r--r--r--   1 sysadm   wheel       50583 Jun 13  1994 ld.info-1
+-r--r--r--   1 sysadm   wheel       41952 Jun 13  1994 ld.info-2
+-r--r--r--   1 sysadm   wheel        2170 Jan 19  1994 libg++.info
+-r--r--r--   1 sysadm   wheel       41016 Jan 19  1994 libg++.info-1
+-r--r--r--   1 sysadm   wheel       50499 Jan 19  1994 libg++.info-2
+-r--r--r--   1 sysadm   wheel       50230 Jan 19  1994 libg++.info-3
+-r--r--r--   1 sysadm   wheel       51061 Jan 19  1994 libg++.info-4
+-r--r--r--   1 sysadm   wheel        3661 Jan 19  1994 libg++.info-5
+-r--r--r--   1 sysadm   wheel        2392 Jan 15  1994 m4.info
+-r--r--r--   1 sysadm   wheel       50427 Jan 15  1994 m4.info-1
+-r--r--r--   1 sysadm   wheel       37883 Jan 15  1994 m4.info-2
+-r--r--r--   1 sysadm   wheel        4566 Apr 28  1994 make.info
+-r--r--r--   1 sysadm   wheel       50842 Apr 28  1994 make.info-1
+-r--r--r--   1 sysadm   wheel       49994 Apr 28  1994 make.info-2
+-r--r--r--   1 sysadm   wheel       49254 Apr 28  1994 make.info-3
+-r--r--r--   1 sysadm   wheel       50451 Apr 28  1994 make.info-4
+-r--r--r--   1 sysadm   wheel       49060 Apr 28  1994 make.info-5
+-r--r--r--   1 sysadm   wheel       47845 Apr 28  1994 make.info-6
+-r--r--r--   1 sysadm   wheel       17211 Apr 28  1994 make.info-7
+-r--r--r--   1 sysadm   wheel       48164 Apr 28  1994 make.info-8
+-r--r--r--   1 sysadm   wheel        8247 Dec  5  1993 makeinfo.info
+-r--r--r--   1 sysadm   wheel      119268 Dec  5  1993 regex.info
+-r--r--r--   1 sysadm   wheel       23653 Jan 25  1991 regexp
+-r--r--r--   1 sysadm   wheel        3849 Dec  7  1993 screen.info
+-r--r--r--   1 sysadm   wheel       50478 Dec  7  1993 screen.info-1
+-r--r--r--   1 sysadm   wheel       49830 Dec  7  1993 screen.info-2
+-r--r--r--   1 sysadm   wheel       35936 Dec  7  1993 screen.info-3
+-r--r--r--   1 sysadm   wheel       77754 Dec  6  1993 standards.info
+-r--r--r--   1 sysadm   wheel        2011 Oct 31  1992 termcap
+-r--r--r--   1 sysadm   wheel       49023 Oct 31  1992 termcap-1
+-r--r--r--   1 sysadm   wheel       44372 Oct 31  1992 termcap-2
+-r--r--r--   1 sysadm   wheel       48414 Oct 31  1992 termcap-3
+-r--r--r--   1 sysadm   wheel        8393 Dec  5  1993 texi.info
+-r--r--r--   1 sysadm   wheel       50585 Dec  5  1993 texi.info-1
+-r--r--r--   1 sysadm   wheel       43599 Dec  5  1993 texi.info-10
+-r--r--r--   1 sysadm   wheel       24680 Dec  5  1993 texi.info-11
+-r--r--r--   1 sysadm   wheel       50855 Dec  5  1993 texi.info-2
+-r--r--r--   1 sysadm   wheel       49835 Dec  5  1993 texi.info-3
+-r--r--r--   1 sysadm   wheel       49510 Dec  5  1993 texi.info-4
+-r--r--r--   1 sysadm   wheel       50874 Dec  5  1993 texi.info-5
+-r--r--r--   1 sysadm   wheel       40960 Dec  5  1993 texi.info-6
+-r--r--r--   1 sysadm   wheel       50629 Dec  5  1993 texi.info-7
+-r--r--r--   1 sysadm   wheel       42671 Dec  5  1993 texi.info-8
+-r--r--r--   1 sysadm   wheel       47096 Dec  5  1993 texi.info-9
+-r--r--r--   1 sysadm   wheel        4027 Jan 10  1991 texinfo
+-r--r--r--   1 sysadm   wheel       48681 Jan 10  1991 texinfo-1
+-r--r--r--   1 sysadm   wheel       49559 Jan 10  1991 texinfo-2
+-r--r--r--   1 sysadm   wheel       48741 Jan 10  1991 texinfo-3
+-r--r--r--   1 sysadm   wheel       34536 Jan 10  1991 texinfo-4
+-r--r--r--   1 sysadm   wheel       23867 Dec  5  1993 tput.info
+-r--r--r--   1 sysadm   wheel        3005 Jul 15  1993 uucp.info
+-r--r--r--   1 sysadm   wheel       48720 Jul 15  1993 uucp.info-1
+-r--r--r--   1 sysadm   wheel       50534 Jul 15  1993 uucp.info-2
+-r--r--r--   1 sysadm   wheel       50839 Jul 15  1993 uucp.info-3
+-r--r--r--   1 sysadm   wheel       43654 Jul 15  1993 uucp.info-4
+-r--r--r--   1 sysadm   wheel       20218 Jul 15  1993 uucp.info-5
+-r--r--r--   1 sysadm   wheel        1955 Jan 10  1991 vip
+-r--r--r--   1 sysadm   wheel       49472 Jan 10  1991 vip-1
+-r--r--r--   1 sysadm   wheel       24898 Jan 10  1991 vip-2
+
+gnu-udo/lib/emacs/lisp:
+total 3520
+-r--r--r--   1 sysadm   wheel       12488 Jan 27  1992 COPYING
+-r--r--r--   1 sysadm   wheel      168884 Oct 31  1992 ChangeLog
+-r--r--r--   1 sysadm   wheel        9436 Jan  9  1991 abbrev.el
+-r--r--r--   1 sysadm   wheel        7437 Jan  9  1991 abbrev.elc
+-r--r--r--   1 sysadm   wheel        1691 Jan  9  1991 abbrevlist.el
+-r--r--r--   1 sysadm   wheel         457 Jan  9  1991 abbrevlist.elc
+-r--r--r--   1 sysadm   wheel       19512 Apr  9  1988 ada.el
+-r--r--r--   1 sysadm   wheel       16382 Jan  9  1991 ada.elc
+-r--r--r--   1 sysadm   wheel        3240 Feb  3  1992 add-log.el
+-r--r--r--   1 sysadm   wheel        1552 Feb  3  1992 add-log.elc
+-r--r--r--   1 sysadm   wheel        3527 Jan  9  1991 autoinsert.el
+-r--r--r--   1 sysadm   wheel       11763 Jan  9  1991 backquote.el
+-r--r--r--   1 sysadm   wheel        3718 Jan  9  1991 backquote.elc
+-r--r--r--   1 sysadm   wheel       11011 Jan  9  1991 bg-mouse.el
+-r--r--r--   1 sysadm   wheel       14328 May 17  1988 bibtex.el
+-r--r--r--   1 sysadm   wheel       11087 Jan  9  1991 bibtex.elc
+-r--r--r--   1 sysadm   wheel        5820 Jun 30  1987 blackbox.el
+-r--r--r--   1 sysadm   wheel        4404 Jan  9  1991 blackbox.elc
+-r--r--r--   1 sysadm   wheel        9386 Jan  9  1991 buff-menu.el
+-r--r--r--   1 sysadm   wheel        7306 Jan  9  1991 buff-menu.elc
+-r--r--r--   1 sysadm   wheel       41177 Oct 24  1991 bytecomp.el
+-r--r--r--   1 sysadm   wheel       29155 Oct 25  1991 bytecomp.elc
+-r--r--r--   1 sysadm   wheel        8836 Jul 18  1988 c-fill.el
+-r--r--r--   1 sysadm   wheel        3309 Jan  9  1991 c-fill.elc
+-r--r--r--   1 sysadm   wheel       24155 Sep 23  1992 c-mode.el
+-r--r--r--   1 sysadm   wheel       12459 Oct 23  1992 c-mode.elc
+-r--r--r--   1 sysadm   wheel       10075 Jun 23  1992 cal.el
+-r--r--r--   1 sysadm   wheel        5054 Aug 29  1992 cal.elc
+-r--r--r--   1 sysadm   wheel        5892 Jan  9  1991 chistory.el
+-r--r--r--   1 sysadm   wheel        4185 Jan  9  1991 chistory.elc
+-r--r--r--   1 sysadm   wheel       19071 Jan  9  1991 cl-indent.el
+-r--r--r--   1 sysadm   wheel        5841 Jan  9  1991 cl-indent.elc
+-r--r--r--   1 sysadm   wheel       90566 Jan  9  1991 cl.el
+-r--r--r--   1 sysadm   wheel       46948 Jul 21  1992 cl.elc
+-r--r--r--   1 sysadm   wheel        1563 May 31  1989 cmacexp.el
+-r--r--r--   1 sysadm   wheel        2008 Jan  9  1991 compare-w.el
+-r--r--r--   1 sysadm   wheel         659 Jan  9  1991 compare-w.elc
+-r--r--r--   1 sysadm   wheel       12054 Aug 14  1992 compile.el
+-r--r--r--   1 sysadm   wheel        6602 Aug 29  1992 compile.elc
+-r--r--r--   1 sysadm   wheel        8631 Jan  9  1991 dabbrev.el
+-r--r--r--   1 sysadm   wheel        3375 Jan  9  1991 dabbrev.elc
+-r--r--r--   1 sysadm   wheel        6206 May 30  1992 dbx.el
+-r--r--r--   1 sysadm   wheel        4515 May 30  1992 dbx.elc
+-r--r--r--   1 sysadm   wheel        8934 Jan  9  1991 debug.el
+-r--r--r--   1 sysadm   wheel        6098 Jan  9  1991 debug.elc
+-rw-r--r--   1 sysadm   wheel        2372 Aug  4  1994 default.el
+-r--r--r--   1 sysadm   wheel       22467 Oct 21  1992 dired.el
+-r--r--r--   1 sysadm   wheel       16161 Oct 23  1992 dired.elc
+-r--r--r--   1 sysadm   wheel       12248 Jan  9  1991 disass.el
+-r--r--r--   1 sysadm   wheel        6599 Jan  9  1991 disass.elc
+-r--r--r--   1 sysadm   wheel        2992 Jan  9  1991 dissociate.el
+-r--r--r--   1 sysadm   wheel        1198 Jan  9  1991 dissociate.elc
+-r--r--r--   1 sysadm   wheel        6529 Jan  9  1991 doctex.el
+-r--r--r--   1 sysadm   wheel       50995 Jan  9  1991 doctor.el
+-r--r--r--   1 sysadm   wheel       43542 Jan  9  1991 doctor.elc
+-r--r--r--   1 sysadm   wheel        9027 Jan  9  1991 ebuff-menu.el
+-r--r--r--   1 sysadm   wheel        7038 Jan  9  1991 ebuff-menu.elc
+-r--r--r--   1 sysadm   wheel        6628 Jan  9  1991 echistory.el
+-r--r--r--   1 sysadm   wheel        5590 Jan  9  1991 echistory.elc
+-r--r--r--   1 sysadm   wheel        5879 May 29  1987 edt-doc.el
+-r--r--r--   1 sysadm   wheel       15910 Jan  9  1991 edt.el
+-r--r--r--   1 sysadm   wheel       12296 Jan  9  1991 edt.elc
+-r--r--r--   1 sysadm   wheel       11745 Jan  9  1991 ehelp.el
+-r--r--r--   1 sysadm   wheel        7393 Jan  9  1991 ehelp.elc
+-r--r--r--   1 sysadm   wheel        6596 Jan  9  1991 electric.el
+-r--r--r--   1 sysadm   wheel        2376 Jan  9  1991 electric.elc
+-r--r--r--   1 sysadm   wheel        1568 Jan  9  1991 emacsbug.el
+-r--r--r--   1 sysadm   wheel       41640 Oct 11  1992 files.el
+-r--r--r--   1 sysadm   wheel       31068 Oct 23  1992 files.elc
+-r--r--r--   1 sysadm   wheel       10481 May 15  1992 fill.el
+-r--r--r--   1 sysadm   wheel        4406 Aug 29  1992 fill.elc
+-r--r--r--   1 sysadm   wheel       10420 Jan 21  1987 flame.el
+-r--r--r--   1 sysadm   wheel        9125 Jan  9  1991 flame.elc
+-r--r--r--   1 sysadm   wheel       15496 Feb  1  1992 float.el
+-r--r--r--   1 sysadm   wheel        8128 Feb  1  1992 float.elc
+-r--r--r--   1 sysadm   wheel       27316 Jan  9  1991 fortran.el
+-r--r--r--   1 sysadm   wheel       20924 Jan  9  1991 fortran.elc
+-r--r--r--   1 sysadm   wheel       13507 May  7  1992 ftp.el
+-r--r--r--   1 sysadm   wheel        8730 Aug 29  1992 ftp.elc
+-r--r--r--   1 sysadm   wheel       14070 Jan  9  1991 gdb.el
+-r--r--r--   1 sysadm   wheel        7626 Jan  9  1991 gdb.elc
+-r--r--r--   1 sysadm   wheel        3580 Jan  9  1991 gosmacs.el
+-r--r--r--   1 sysadm   wheel        1190 Jan  9  1991 grow-vers.el
+-r--r--r--   1 sysadm   wheel        5453 May 30  1988 hanoi.el
+-r--r--r--   1 sysadm   wheel        2236 Jan  9  1991 hanoi.elc
+-r--r--r--   1 sysadm   wheel       10144 Jan  9  1991 help.el
+-r--r--r--   1 sysadm   wheel        8434 Jan  9  1991 help.elc
+-r--r--r--   1 sysadm   wheel        4980 Jan  9  1991 helper.el
+-r--r--r--   1 sysadm   wheel        3044 Jan  9  1991 helper.elc
+-r--r--r--   1 sysadm   wheel       32348 Jul 20  1989 hideif.el
+-r--r--r--   1 sysadm   wheel       17884 Jan  9  1991 hideif.elc
+-r--r--r--   1 sysadm   wheel       19627 Jan  9  1991 icon.el
+-r--r--r--   1 sysadm   wheel       10882 Jan  9  1991 icon.elc
+-r--r--r--   1 sysadm   wheel        1907 Sep 15  1991 inc-vers.el
+-r--r--r--   1 sysadm   wheel        7378 Jan  9  1991 indent.el
+-r--r--r--   1 sysadm   wheel        4961 Jan  9  1991 indent.elc
+-r--r--r--   1 sysadm   wheel       24088 Aug 20  1992 info.el
+-r--r--r--   1 sysadm   wheel       16140 Aug 29  1992 info.elc
+-r--r--r--   1 sysadm   wheel       13609 Jan  9  1991 informat.el
+-r--r--r--   1 sysadm   wheel        6734 Jan  9  1991 informat.elc
+-r--r--r--   1 sysadm   wheel       14216 Sep 24  1991 isearch.el
+-r--r--r--   1 sysadm   wheel        4780 Oct  8  1991 isearch.elc
+-r--r--r--   1 sysadm   wheel        8480 Jan  9  1991 kermit.el
+-r--r--r--   1 sysadm   wheel        5799 Jan  9  1991 keypad.el
+-r--r--r--   1 sysadm   wheel        2451 Jan  9  1991 keypad.elc
+-r--r--r--   1 sysadm   wheel        4660 Jan  9  1991 ledit.el
+-r--r--r--   1 sysadm   wheel       10168 Jan  9  1991 life.el
+-r--r--r--   1 sysadm   wheel        5219 Jan  9  1991 life.elc
+-r--r--r--   1 sysadm   wheel       22232 Jan  9  1991 lisp-mode.el
+-r--r--r--   1 sysadm   wheel       11917 Jan  9  1991 lisp-mode.elc
+-r--r--r--   1 sysadm   wheel        7578 Jan  9  1991 lisp.el
+-r--r--r--   1 sysadm   wheel        5285 Jan  9  1991 lisp.elc
+-r--r--r--   1 sysadm   wheel       72300 Jan 27  1992 loaddefs.el
+-r--r--r--   1 sysadm   wheel        4996 May 13  1992 loadup.el
+-r--r--r--   1 sysadm   wheel        2674 Oct 21  1992 lpr.el
+-r--r--r--   1 sysadm   wheel        1548 Oct 23  1992 lpr.elc
+-r--r--r--   1 sysadm   wheel        3878 Jan  9  1991 macros.el
+-r--r--r--   1 sysadm   wheel        2356 Jan  9  1991 macros.elc
+-r--r--r--   1 sysadm   wheel        7557 Dec 26  1991 mail-utils.el
+-r--r--r--   1 sysadm   wheel        3317 Jan 16  1992 mail-utils.elc
+-r--r--r--   1 sysadm   wheel        5685 Jan  9  1991 mailalias.el
+-r--r--r--   1 sysadm   wheel        2037 Jan  9  1991 mailalias.elc
+-r--r--r--   1 sysadm   wheel        2918 Sep 18  1986 mailpost.el
+-r--r--r--   1 sysadm   wheel        3489 Jan  9  1991 makesum.el
+-r--r--r--   1 sysadm   wheel        1285 Jan  9  1991 makesum.elc
+-r--r--r--   1 sysadm   wheel        5244 Jan  9  1991 man.el
+-r--r--r--   1 sysadm   wheel        2143 Jan  9  1991 man.elc
+-r--r--r--   1 sysadm   wheel        3922 Jan  9  1991 medit.el
+-r--r--r--   1 sysadm   wheel        2763 Jan  9  1991 medit.elc
+-r--r--r--   1 sysadm   wheel         599 May 20  1988 meese.el
+-r--r--r--   1 sysadm   wheel      100520 Jan 21  1992 mh-e.el
+-r--r--r--   1 sysadm   wheel       72020 Jan 30  1992 mh-e.elc
+-r--r--r--   1 sysadm   wheel       35876 Jan  9  1991 mim-mode.el
+-r--r--r--   1 sysadm   wheel       20097 Jan  9  1991 mim-mode.elc
+-r--r--r--   1 sysadm   wheel        3083 Jan  9  1991 mim-syntax.el
+-r--r--r--   1 sysadm   wheel        1276 Jan  9  1991 mim-syntax.elc
+-r--r--r--   1 sysadm   wheel        9892 Jan  9  1991 mlconvert.el
+-r--r--r--   1 sysadm   wheel        9065 Jan  9  1991 mlconvert.elc
+-r--r--r--   1 sysadm   wheel       11488 Jan  9  1991 mlsupport.el
+-r--r--r--   1 sysadm   wheel       10191 Jan  9  1991 mlsupport.elc
+-r--r--r--   1 sysadm   wheel       11820 May 30  1988 modula2.el
+-r--r--r--   1 sysadm   wheel        9910 Jan  9  1991 modula2.elc
+-r--r--r--   1 sysadm   wheel        3984 Jan  9  1991 novice.el
+-r--r--r--   1 sysadm   wheel        6897 Jan  9  1991 nroff-mode.el
+-r--r--r--   1 sysadm   wheel        4631 Jan  9  1991 nroff-mode.elc
+-r--r--r--   1 sysadm   wheel        3989 Jan  9  1991 options.el
+-r--r--r--   1 sysadm   wheel        2742 Jan  9  1991 options.elc
+-r--r--r--   1 sysadm   wheel       11806 Jan  9  1991 outline.el
+-r--r--r--   1 sysadm   wheel        9516 Jan  9  1991 outline.elc
+-r--r--r--   1 sysadm   wheel        4137 Jan  9  1991 page.el
+-r--r--r--   1 sysadm   wheel        2186 Jan  9  1991 page.elc
+-r--r--r--   1 sysadm   wheel        7076 Jan  9  1991 paragraphs.el
+-r--r--r--   1 sysadm   wheel        4416 Jan  9  1991 paragraphs.elc
+-r--r--r--   1 sysadm   wheel        5325 Jul 23  1992 paths.el
+-r--r--r--   1 sysadm   wheel       22856 Oct 12  1992 picture.el
+-r--r--r--   1 sysadm   wheel       19654 Oct 23  1992 picture.elc
+-r--r--r--   1 sysadm   wheel        9220 Jan  9  1991 prolog.el
+-r--r--r--   1 sysadm   wheel        6261 Jan  9  1991 prolog.elc
+-r--r--r--   1 sysadm   wheel        7412 Mar  5  1992 rect.el
+-r--r--r--   1 sysadm   wheel        5003 Aug 29  1992 rect.elc
+-r--r--r--   1 sysadm   wheel        6374 Jan  9  1991 register.el
+-r--r--r--   1 sysadm   wheel        4126 Jan  9  1991 register.elc
+-r--r--r--   1 sysadm   wheel       10641 Nov 15  1991 replace.el
+-r--r--r--   1 sysadm   wheel        6083 Jan 16  1992 replace.elc
+-r--r--r--   1 sysadm   wheel       10130 Jan  9  1991 rfc822.el
+-r--r--r--   1 sysadm   wheel        4324 Jan  9  1991 rfc822.elc
+-r--r--r--   1 sysadm   wheel       50978 Sep 19  1992 rmail.el
+-r--r--r--   1 sysadm   wheel       30112 Sep 19  1992 rmail.elc
+-r--r--r--   1 sysadm   wheel        3835 Jan  9  1991 rmailedit.el
+-r--r--r--   1 sysadm   wheel        2258 Jan  9  1991 rmailedit.elc
+-r--r--r--   1 sysadm   wheel        9218 Jan  9  1991 rmailkwd.el
+-r--r--r--   1 sysadm   wheel        4576 Jan  9  1991 rmailkwd.elc
+-r--r--r--   1 sysadm   wheel        1714 Jan  9  1991 rmailmsc.el
+-r--r--r--   1 sysadm   wheel         728 Jan  9  1991 rmailmsc.elc
+-r--r--r--   1 sysadm   wheel        4678 Feb  9  1991 rmailout.el
+-r--r--r--   1 sysadm   wheel        2296 Sep 13  1991 rmailout.elc
+-r--r--r--   1 sysadm   wheel       14763 Jan  9  1991 rmailsum.el
+-r--r--r--   1 sysadm   wheel        9655 Jan  9  1991 rmailsum.elc
+-r--r--r--   1 sysadm   wheel       35491 Sep 13  1991 rnews.el
+-r--r--r--   1 sysadm   wheel       23722 Sep 13  1991 rnews.elc
+-r--r--r--   1 sysadm   wheel       15045 Sep 15  1991 rnewspost.el
+-r--r--r--   1 sysadm   wheel        8941 Oct  8  1991 rnewspost.elc
+-r--r--r--   1 sysadm   wheel        8684 Aug 15  1988 saveconf.el
+-r--r--r--   1 sysadm   wheel       18627 Jan  9  1991 scheme.el
+-r--r--r--   1 sysadm   wheel       10747 Jan  9  1991 scheme.elc
+-r--r--r--   1 sysadm   wheel       10656 Jan  9  1991 scribe.el
+-r--r--r--   1 sysadm   wheel        7839 Jan  9  1991 scribe.elc
+-r--r--r--   1 sysadm   wheel       16342 Mar 25  1992 sendmail.el
+-r--r--r--   1 sysadm   wheel        9885 Aug 29  1992 sendmail.elc
+-r--r--r--   1 sysadm   wheel       10819 Sep  3  1991 server.el
+-r--r--r--   1 sysadm   wheel        5497 Sep 13  1991 server.elc
+-r--r--r--   1 sysadm   wheel       16272 Sep  4  1992 shell.el
+-r--r--r--   1 sysadm   wheel       12048 Sep 19  1992 shell.elc
+-r--r--r--   1 sysadm   wheel       49979 Apr 15  1992 simple.el
+-r--r--r--   1 sysadm   wheel       36869 Apr 15  1992 simple.elc
+-r--r--r--   1 sysadm   wheel        5320 Aug 15  1988 simula.defns
+-r--r--r--   1 sysadm   wheel       29155 Jan  9  1991 simula.el
+-r--r--r--   1 sysadm   wheel       17293 Jan  9  1991 simula.elc
+-r--r--r--   1 sysadm   wheel       12991 Jan  9  1991 sort.el
+-r--r--r--   1 sysadm   wheel        8884 Jan  9  1991 sort.elc
+-r--r--r--   1 sysadm   wheel        4605 Jan  9  1991 spell.el
+-r--r--r--   1 sysadm   wheel        2616 Jan 26  1992 spell.elc
+-r--r--r--   1 sysadm   wheel        3628 Feb  5  1991 spook.el
+-r--r--r--   1 sysadm   wheel        9125 Apr 19  1992 startup.el
+-r--r--r--   1 sysadm   wheel        4319 Aug 29  1992 startup.elc
+-r--r--r--   1 sysadm   wheel        1320 Sep 12  1986 studly.el
+-r--r--r--   1 sysadm   wheel         774 Jan  9  1991 studly.elc
+-r--r--r--   1 sysadm   wheel        8460 May 20  1992 subr.el
+-r--r--r--   1 sysadm   wheel        5669 Aug 29  1992 subr.elc
+-r--r--r--   1 sysadm   wheel        6762 Jan  9  1991 sun-cursors.el
+-r--r--r--   1 sysadm   wheel       29210 Oct 21  1992 sun-fns.el
+-r--r--r--   1 sysadm   wheel       25003 Oct 23  1992 sun-fns.elc
+-r--r--r--   1 sysadm   wheel        2542 Jan  9  1991 sun-keys.el
+-r--r--r--   1 sysadm   wheel       28098 Oct 21  1992 sun-mouse.el
+-r--r--r--   1 sysadm   wheel       19797 Oct 23  1992 sun-mouse.elc
+-r--r--r--   1 sysadm   wheel        6295 Jan  9  1991 sup-mouse.el
+-r--r--r--   1 sysadm   wheel        3036 Jan  9  1991 sup-mouse.elc
+-r--r--r--   1 sysadm   wheel        1875 Jan  9  1991 tabify.el
+-r--r--r--   1 sysadm   wheel         786 Jan  9  1991 tabify.elc
+-r--r--r--   1 sysadm   wheel       10266 Jul  2  1992 tags.el
+-r--r--r--   1 sysadm   wheel        7375 Aug 29  1992 tags.elc
+-r--r--r--   1 sysadm   wheel        8057 Oct 16  1992 telnet.el
+-r--r--r--   1 sysadm   wheel        5416 Oct 23  1992 telnet.elc
+drwxr-xr-x   2 sysadm   wheel        1024 Apr 26  1994 term
+-r--r--r--   1 sysadm   wheel       39192 Jan  9  1991 terminal.el
+-r--r--r--   1 sysadm   wheel       23792 Jan  9  1991 terminal.elc
+-r--r--r--   1 sysadm   wheel       16658 Jan  9  1991 tex-mode.el
+-r--r--r--   1 sysadm   wheel       12135 Jan  9  1991 tex-mode.elc
+-r--r--r--   1 sysadm   wheel         467 Aug 11  1986 tex-start.el
+-r--r--r--   1 sysadm   wheel       42506 Dec  8  1991 texinfmt.el
+-r--r--r--   1 sysadm   wheel       37533 Jan 16  1992 texinfmt.elc
+-r--r--r--   1 sysadm   wheel        6779 Oct  5  1991 texinfo.el
+-r--r--r--   1 sysadm   wheel        5652 Oct  8  1991 texinfo.elc
+-r--r--r--   1 sysadm   wheel        4406 Jan  9  1991 text-mode.el
+-r--r--r--   1 sysadm   wheel        3041 Jan  9  1991 text-mode.elc
+-r--r--r--   1 sysadm   wheel        4384 Oct  5  1991 time.el
+-r--r--r--   1 sysadm   wheel        2230 Oct  8  1991 time.elc
+-r--r--r--   1 sysadm   wheel        1189 Sep 20  1990 uncompress.el
+-r--r--r--   1 sysadm   wheel        1725 Jan  9  1991 underline.el
+-r--r--r--   1 sysadm   wheel         739 Jan  9  1991 underline.elc
+-r--r--r--   1 sysadm   wheel        3716 Jan  9  1991 undigest.el
+-r--r--r--   1 sysadm   wheel        1380 Jan  9  1991 undigest.elc
+-r--r--r--   1 sysadm   wheel        1083 Dec 14  1985 unused.el
+-r--r--r--   1 sysadm   wheel        4577 Jan  9  1991 userlock.el
+-r--r--r--   1 sysadm   wheel        3234 Jan  9  1991 userlock.elc
+-rw-r--r--   1 sysadm   wheel        1630 Aug  4  1994 version.el
+-r--r--r--   1 sysadm   wheel       57540 Aug 17  1990 vi.el
+-r--r--r--   1 sysadm   wheel       48241 Jan  9  1991 vi.elc
+-r--r--r--   1 sysadm   wheel       14803 May 13  1991 view.el
+-r--r--r--   1 sysadm   wheel       12843 May 13  1991 view.elc
+-r--r--r--   1 sysadm   wheel       98097 Feb 25  1991 vip.el
+-r--r--r--   1 sysadm   wheel       69338 Sep 13  1991 vip.elc
+-r--r--r--   1 sysadm   wheel        3314 Apr 14  1991 vms-patch.el
+-r--r--r--   1 sysadm   wheel        1972 Sep 13  1991 vms-patch.elc
+-r--r--r--   1 sysadm   wheel        4018 Jan  9  1991 vmsproc.el
+-r--r--r--   1 sysadm   wheel        2255 Jan  9  1991 vmsproc.elc
+-r--r--r--   1 sysadm   wheel        1887 Jan  9  1991 window.el
+-r--r--r--   1 sysadm   wheel        1161 Jan  9  1991 window.elc
+-r--r--r--   1 sysadm   wheel        5146 Jan  9  1991 x-menu.el
+-r--r--r--   1 sysadm   wheel        3126 Jan  9  1991 x-menu.elc
+-r--r--r--   1 sysadm   wheel       11225 Mar 14  1992 x-mouse.el
+-r--r--r--   1 sysadm   wheel        9230 Aug 29  1992 x-mouse.elc
+-r--r--r--   1 sysadm   wheel       30793 Jan  9  1991 xscheme.el
+-r--r--r--   1 sysadm   wheel       25651 Jan  9  1991 xscheme.elc
+-r--r--r--   1 sysadm   wheel        2889 Jan  9  1991 yow.el
+-r--r--r--   1 sysadm   wheel        1233 Jan  9  1991 yow.elc
+
+gnu-udo/lib/emacs/lisp/term:
+total 78
+-r--r--r--   1 sysadm   wheel       12488 Apr  5  1991 COPYING
+-r--r--r--   1 sysadm   wheel        2106 Apr 25  1994 ansipc.el
+-r--r--r--   1 sysadm   wheel          20 Apr 18  1988 apollo.el
+-r--r--r--   1 sysadm   wheel        3533 May  2  1991 at386.el
+-r--r--r--   1 sysadm   wheel          44 Apr  7  1989 bbn.el
+-r--r--r--   1 sysadm   wheel         237 Apr  7  1989 bg.el
+-r--r--r--   1 sysadm   wheel          44 Apr  7  1989 bgnv.el
+-r--r--r--   1 sysadm   wheel          44 Apr  7  1989 bgrv.el
+-r--r--r--   1 sysadm   wheel         321 Jan 31  1986 bobcat.el
+-r--r--r--   1 sysadm   wheel        4985 Dec  3  1991 s4.el
+-r--r--r--   1 sysadm   wheel       13455 Oct 21  1992 sun.el
+-r--r--r--   1 sysadm   wheel        2852 Jan 21  1987 supdup.el
+-r--r--r--   1 sysadm   wheel        5497 Aug 30  1987 unixpc.el
+-r--r--r--   1 sysadm   wheel        2008 Feb 18  1987 vt100.el
+-r--r--r--   1 sysadm   wheel          47 Mar 12  1992 vt101.el
+-r--r--r--   1 sysadm   wheel          47 Mar 12  1992 vt102.el
+-r--r--r--   1 sysadm   wheel          47 Jan 31  1988 vt125.el
+-r--r--r--   1 sysadm   wheel          47 Mar 12  1992 vt131.el
+-r--r--r--   1 sysadm   wheel        2647 Feb 11  1988 vt200.el
+-r--r--r--   1 sysadm   wheel          47 Dec 14  1985 vt220.el
+-r--r--r--   1 sysadm   wheel          47 Jan 31  1988 vt240.el
+-r--r--r--   1 sysadm   wheel          47 Mar 12  1992 vt300.el
+-r--r--r--   1 sysadm   wheel        7829 Jan  9  1991 x-win.el
+-r--r--r--   1 sysadm   wheel        1476 Apr 26  1994 xterm.el
+
+gnu-udo/lib/emacs/lock:
+total 0
+
+gnu-udo/lib/emacs/site-lisp:
+total 283
+-r--r--r--   1 sysadm   wheel        4989 Dec 22  1993 animals.el
+-r--r--r--   1 sysadm   wheel       19978 Feb  2  1993 atc.el
+-r--r--r--   1 sysadm   wheel        2655 Dec 22  1993 boss.el
+-r--r--r--   1 sysadm   wheel        4077 Apr 25  1994 calc.el
+-r--r--r--   1 sysadm   wheel        2156 Jun 28  1993 dun-batch.el
+-r--r--r--   1 sysadm   wheel       32652 Jun 28  1993 dun-commands.e
+-r--r--r--   1 sysadm   wheel        2389 Jun 25  1993 dun-dos.el
+-r--r--r--   1 sysadm   wheel       42360 Jun 28  1993 dun-globals.el
+-r--r--r--   1 sysadm   wheel        2574 Jun 14  1994 dun-main.el
+-r--r--r--   1 sysadm   wheel        3479 Jun 28  1993 dun-save.el
+-r--r--r--   1 sysadm   wheel       14344 Jun 28  1993 dun-unix.el
+-r--r--r--   1 sysadm   wheel        7561 Jun 27  1993 dun-util.el
+-r--r--r--   1 sysadm   wheel       14750 Jun 13  1994 getris.el
+-r--r--r--   1 sysadm   wheel       17646 Dec  5  1993 ispell.el
+-r--r--r--   1 sysadm   wheel        8886 Dec 22  1993 mastermind.el
+-r--r--r--   1 sysadm   wheel       67612 Dec 22  1993 purity.el
+drwxr-xr-x   2 sysadm   wheel        1024 Jun 13  1994 sok-screens
+-r--r--r--   1 sysadm   wheel       21570 Jun 13  1994 sokoban.el
+-r--r--r--   1 sysadm   wheel         937 Dec 22  1993 twirl.el
+
+gnu-udo/lib/emacs/site-lisp/sok-screens:
+total 50
+-r--r--r--   1 sysadm   wheel         193 Dec 29  1991 screen.1
+-r--r--r--   1 sysadm   wheel         351 Dec 29  1991 screen.10
+-r--r--r--   1 sysadm   wheel         254 Dec 29  1991 screen.11
+-r--r--r--   1 sysadm   wheel         257 Dec 29  1991 screen.12
+-r--r--r--   1 sysadm   wheel         267 Dec 29  1991 screen.13
+-r--r--r--   1 sysadm   wheel         315 Dec 29  1991 screen.14
+-r--r--r--   1 sysadm   wheel         260 Dec 29  1991 screen.15
+-r--r--r--   1 sysadm   wheel         216 Dec 29  1991 screen.16
+-r--r--r--   1 sysadm   wheel         243 Dec 29  1991 screen.17
+-r--r--r--   1 sysadm   wheel         280 Dec 29  1991 screen.18
+-r--r--r--   1 sysadm   wheel         289 Dec 29  1991 screen.19
+-r--r--r--   1 sysadm   wheel         178 Dec 29  1991 screen.2
+-r--r--r--   1 sysadm   wheel         334 Dec 29  1991 screen.20
+-r--r--r--   1 sysadm   wheel         240 Dec 29  1991 screen.21
+-r--r--r--   1 sysadm   wheel         342 Dec 29  1991 screen.22
+-r--r--r--   1 sysadm   wheel         285 Dec 29  1991 screen.23
+-r--r--r--   1 sysadm   wheel         337 Dec 29  1991 screen.24
+-r--r--r--   1 sysadm   wheel         326 Dec 29  1991 screen.25
+-r--r--r--   1 sysadm   wheel         208 Dec 29  1991 screen.26
+-r--r--r--   1 sysadm   wheel         279 Dec 29  1991 screen.27
+-r--r--r--   1 sysadm   wheel         289 Dec 29  1991 screen.28
+-r--r--r--   1 sysadm   wheel         259 Dec 29  1991 screen.29
+-r--r--r--   1 sysadm   wheel         194 Dec 29  1991 screen.3
+-r--r--r--   1 sysadm   wheel         301 Dec 29  1991 screen.30
+-r--r--r--   1 sysadm   wheel         267 Dec 29  1991 screen.31
+-r--r--r--   1 sysadm   wheel         220 Dec 29  1991 screen.32
+-r--r--r--   1 sysadm   wheel         226 Dec 29  1991 screen.33
+-r--r--r--   1 sysadm   wheel         234 Dec 29  1991 screen.34
+-r--r--r--   1 sysadm   wheel         329 Dec 29  1991 screen.35
+-r--r--r--   1 sysadm   wheel         320 Dec 29  1991 screen.36
+-r--r--r--   1 sysadm   wheel         303 Dec 29  1991 screen.37
+-r--r--r--   1 sysadm   wheel         150 Dec 29  1991 screen.38
+-r--r--r--   1 sysadm   wheel         322 Dec 29  1991 screen.39
+-r--r--r--   1 sysadm   wheel         260 Dec 29  1991 screen.4
+-r--r--r--   1 sysadm   wheel         279 Dec 29  1991 screen.40
+-r--r--r--   1 sysadm   wheel         317 Dec 29  1991 screen.41
+-r--r--r--   1 sysadm   wheel         264 Dec 29  1991 screen.42
+-r--r--r--   1 sysadm   wheel         243 Dec 29  1991 screen.43
+-r--r--r--   1 sysadm   wheel         288 Dec 29  1991 screen.44
+-r--r--r--   1 sysadm   wheel         234 Dec 29  1991 screen.45
+-r--r--r--   1 sysadm   wheel         252 Dec 29  1991 screen.46
+-r--r--r--   1 sysadm   wheel         213 Dec 29  1991 screen.47
+-r--r--r--   1 sysadm   wheel         255 Dec 29  1991 screen.48
+-r--r--r--   1 sysadm   wheel         266 Dec 29  1991 screen.49
+-r--r--r--   1 sysadm   wheel         253 Dec 29  1991 screen.5
+-r--r--r--   1 sysadm   wheel         338 Dec 29  1991 screen.50
+-r--r--r--   1 sysadm   wheel         172 Dec 29  1991 screen.6
+-r--r--r--   1 sysadm   wheel         183 Dec 29  1991 screen.7
+-r--r--r--   1 sysadm   wheel         256 Dec 29  1991 screen.8
+-r--r--r--   1 sysadm   wheel         270 Dec 29  1991 screen.9
+
+gnu-udo/lib/g++-include:
+total 380
+-rw-r--r--   1 sysadm   wheel        2178 May 20  1994 ACG.h
+-rw-r--r--   1 sysadm   wheel        1679 May 20  1994 AllocRing.h
+-rw-r--r--   1 sysadm   wheel        1546 May 20  1994 Binomial.h
+-rw-r--r--   1 sysadm   wheel        8860 May 20  1994 BitSet.h
+-rw-r--r--   1 sysadm   wheel       20270 May 20  1994 BitString.h
+-rw-r--r--   1 sysadm   wheel        6776 May 20  1994 Complex.h
+-rw-r--r--   1 sysadm   wheel       13708 May 20  1994 CursesW.h
+-rw-r--r--   1 sysadm   wheel        4072 May 20  1994 DLList.h
+-rw-r--r--   1 sysadm   wheel        1860 May 20  1994 DiscUnif.h
+-rw-r--r--   1 sysadm   wheel        1891 May 20  1994 Erlang.h
+-rw-r--r--   1 sysadm   wheel       10021 May 20  1994 Fix.h
+-rw-r--r--   1 sysadm   wheel       13861 May 20  1994 Fix16.h
+-rw-r--r--   1 sysadm   wheel       13339 May 20  1994 Fix24.h
+-rw-r--r--   1 sysadm   wheel        1419 May 20  1994 Geom.h
+-rw-r--r--   1 sysadm   wheel        4872 May 20  1994 GetOpt.h
+-rw-r--r--   1 sysadm   wheel        1970 May 20  1994 HypGeom.h
+-rw-r--r--   1 sysadm   wheel         372 May 20  1994 Incremental.h
+-rw-r--r--   1 sysadm   wheel       26916 May 20  1994 Integer.h
+-rw-r--r--   1 sysadm   wheel        2098 May 20  1994 LogNorm.h
+-rw-r--r--   1 sysadm   wheel        1831 May 20  1994 MLCG.h
+-rw-r--r--   1 sysadm   wheel        1508 May 20  1994 NegExp.h
+-rw-r--r--   1 sysadm   wheel        1838 May 20  1994 Normal.h
+-rw-r--r--   1 sysadm   wheel        4398 May 20  1994 Obstack.h
+-rw-r--r--   1 sysadm   wheel          59 May 20  1994 Pix.h
+-rw-r--r--   1 sysadm   wheel        3178 May 20  1994 PlotFile.h
+-rw-r--r--   1 sysadm   wheel        1400 May 20  1994 Poisson.h
+-rw-r--r--   1 sysadm   wheel        1742 May 20  1994 RNG.h
+-rw-r--r--   1 sysadm   wheel        1365 May 20  1994 Random.h
+-rw-r--r--   1 sysadm   wheel        7925 May 20  1994 Rational.h
+-rw-r--r--   1 sysadm   wheel        2615 May 20  1994 Regex.h
+-rw-r--r--   1 sysadm   wheel        4484 May 20  1994 RndInt.h
+-rw-r--r--   1 sysadm   wheel        1852 May 20  1994 SFile.h
+-rw-r--r--   1 sysadm   wheel        3922 May 20  1994 SLList.h
+-rw-r--r--   1 sysadm   wheel        1967 May 20  1994 SmplHist.h
+-rw-r--r--   1 sysadm   wheel        2014 May 20  1994 SmplStat.h
+-rw-r--r--   1 sysadm   wheel       36233 May 20  1994 String.h
+-rw-r--r--   1 sysadm   wheel        1802 May 20  1994 Uniform.h
+-rw-r--r--   1 sysadm   wheel        1813 May 20  1994 Weibull.h
+-rw-r--r--   1 sysadm   wheel        1243 May 20  1994 _G_config.h
+-rw-r--r--   1 sysadm   wheel         285 May 20  1994 bool.h
+-rw-r--r--   1 sysadm   wheel        3409 May 20  1994 builtin.h
+-rw-r--r--   1 sysadm   wheel        2269 May 20  1994 builtinbuf.h
+-rw-r--r--   1 sysadm   wheel        2199 May 20  1994 compare.h
+-rw-r--r--   1 sysadm   wheel         121 May 20  1994 complex.h
+-rw-r--r--   1 sysadm   wheel        6831 May 20  1994 editbuf.h
+-rw-r--r--   1 sysadm   wheel        2199 May 20  1994 floatio.h
+-rw-r--r--   1 sysadm   wheel        3192 May 20  1994 fstream.h
+drwxr-xr-x   2 sysadm   wheel        3072 May 20  1994 gen
+-rw-r--r--   1 sysadm   wheel        1786 May 20  1994 generic.h
+-rw-r--r--   1 sysadm   wheel         471 May 20  1994 getpagesize.h
+-rw-r--r--   1 sysadm   wheel        2815 May 20  1994 indstream.h
+-rw-r--r--   1 sysadm   wheel        2327 May 20  1994 iolibio.h
+-rw-r--r--   1 sysadm   wheel        4797 May 20  1994 iomanip.h
+-rw-r--r--   1 sysadm   wheel        3294 May 20  1994 iostdio.h
+-rw-r--r--   1 sysadm   wheel        8207 May 20  1994 iostream.h
+-rw-r--r--   1 sysadm   wheel        1357 May 20  1994 iostreamP.h
+-rw-r--r--   1 sysadm   wheel        1118 May 20  1994 istream.h
+-rw-r--r--   1 sysadm   wheel          20 May 20  1994 libc.h
+-rw-r--r--   1 sysadm   wheel        7593 May 20  1994 libio.h
+-rw-r--r--   1 sysadm   wheel       10780 May 20  1994 libioP.h
+-rw-r--r--   1 sysadm   wheel        2477 May 20  1994 minmax.h
+-rw-r--r--   1 sysadm   wheel         798 May 20  1994 new.h
+-rw-r--r--   1 sysadm   wheel         237 May 20  1994 osfcn.h
+-rw-r--r--   1 sysadm   wheel        1118 May 20  1994 ostream.h
+-rw-r--r--   1 sysadm   wheel        5374 May 20  1994 parsestream.h
+-rw-r--r--   1 sysadm   wheel        2234 May 20  1994 pfstream.h
+-rw-r--r--   1 sysadm   wheel        1604 May 20  1994 procbuf.h
+-rw-r--r--   1 sysadm   wheel        9985 May 20  1994 regex.h
+-rw-r--r--   1 sysadm   wheel        1156 May 20  1994 std.h
+-rw-r--r--   1 sysadm   wheel        1841 May 20  1994 stdiostream.h
+-rw-r--r--   1 sysadm   wheel          96 May 20  1994 strclass.h
+-rw-r--r--   1 sysadm   wheel        1868 May 20  1994 stream.h
+-rw-r--r--   1 sysadm   wheel       16232 May 20  1994 streambuf.h
+-rw-r--r--   1 sysadm   wheel        1546 May 20  1994 strfile.h
+-rw-r--r--   1 sysadm   wheel        4297 May 20  1994 strstream.h
+-rw-r--r--   1 sysadm   wheel         133 May 20  1994 swap.h
+-rw-r--r--   1 sysadm   wheel         268 May 20  1994 typemacros.h
+
+gnu-udo/lib/g++-include/gen:
+total 545
+-rw-r--r--   1 sysadm   wheel       12955 May 20  1994 AVLMap.ccP
+-rw-r--r--   1 sysadm   wheel        3297 May 20  1994 AVLMap.hP
+-rw-r--r--   1 sysadm   wheel       17496 May 20  1994 AVLSet.ccP
+-rw-r--r--   1 sysadm   wheel        3357 May 20  1994 AVLSet.hP
+-rw-r--r--   1 sysadm   wheel        8174 May 20  1994 AVec.ccP
+-rw-r--r--   1 sysadm   wheel        3584 May 20  1994 AVec.hP
+-rw-r--r--   1 sysadm   wheel        7255 May 20  1994 BSTSet.ccP
+-rw-r--r--   1 sysadm   wheel        3333 May 20  1994 BSTSet.hP
+-rw-r--r--   1 sysadm   wheel        1678 May 20  1994 Bag.ccP
+-rw-r--r--   1 sysadm   wheel        2359 May 20  1994 Bag.hP
+-rw-r--r--   1 sysadm   wheel        4353 May 20  1994 CHBag.ccP
+-rw-r--r--   1 sysadm   wheel        1853 May 20  1994 CHBag.hP
+-rw-r--r--   1 sysadm   wheel        3744 May 20  1994 CHMap.ccP
+-rw-r--r--   1 sysadm   wheel        2467 May 20  1994 CHMap.hP
+-rw-r--r--   1 sysadm   wheel         902 May 20  1994 CHNode.ccP
+-rw-r--r--   1 sysadm   wheel        1370 May 20  1994 CHNode.hP
+-rw-r--r--   1 sysadm   wheel        6101 May 20  1994 CHSet.ccP
+-rw-r--r--   1 sysadm   wheel        2110 May 20  1994 CHSet.hP
+-rw-r--r--   1 sysadm   wheel          71 May 20  1994 DLDeque.ccP
+-rw-r--r--   1 sysadm   wheel        2532 May 20  1994 DLDeque.hP
+-rw-r--r--   1 sysadm   wheel        5759 May 20  1994 DLList.ccP
+-rw-r--r--   1 sysadm   wheel        3807 May 20  1994 DLList.hP
+-rw-r--r--   1 sysadm   wheel         176 May 20  1994 Deque.ccP
+-rw-r--r--   1 sysadm   wheel        1739 May 20  1994 Deque.hP
+-rw-r--r--   1 sysadm   wheel          71 May 20  1994 FPQueue.ccP
+-rw-r--r--   1 sysadm   wheel        2368 May 20  1994 FPQueue.hP
+-rw-r--r--   1 sysadm   wheel          71 May 20  1994 FPStack.ccP
+-rw-r--r--   1 sysadm   wheel        2377 May 20  1994 FPStack.hP
+-rw-r--r--   1 sysadm   wheel        3980 May 20  1994 FPlex.ccP
+-rw-r--r--   1 sysadm   wheel        6101 May 20  1994 FPlex.hP
+-rw-r--r--   1 sysadm   wheel       17493 May 20  1994 List.ccP
+-rw-r--r--   1 sysadm   wheel        6052 May 20  1994 List.hP
+-rw-r--r--   1 sysadm   wheel       16890 May 20  1994 MPlex.ccP
+-rw-r--r--   1 sysadm   wheel       10589 May 20  1994 MPlex.hP
+-rw-r--r--   1 sysadm   wheel        1475 May 20  1994 Map.ccP
+-rw-r--r--   1 sysadm   wheel        2464 May 20  1994 Map.hP
+-rw-r--r--   1 sysadm   wheel        3535 May 20  1994 OSLBag.ccP
+-rw-r--r--   1 sysadm   wheel        2071 May 20  1994 OSLBag.hP
+-rw-r--r--   1 sysadm   wheel        5589 May 20  1994 OSLSet.ccP
+-rw-r--r--   1 sysadm   wheel        2336 May 20  1994 OSLSet.hP
+-rw-r--r--   1 sysadm   wheel        4743 May 20  1994 OXPBag.ccP
+-rw-r--r--   1 sysadm   wheel        1273 May 20  1994 OXPBag.hP
+-rw-r--r--   1 sysadm   wheel        5662 May 20  1994 OXPSet.ccP
+-rw-r--r--   1 sysadm   wheel        2404 May 20  1994 OXPSet.hP
+-rw-r--r--   1 sysadm   wheel        7473 May 20  1994 PHPQ.ccP
+-rw-r--r--   1 sysadm   wheel        2468 May 20  1994 PHPQ.hP
+-rw-r--r--   1 sysadm   wheel        1478 May 20  1994 PQ.ccP
+-rw-r--r--   1 sysadm   wheel        2373 May 20  1994 PQ.hP
+-rw-r--r--   1 sysadm   wheel        1110 May 20  1994 PSList.hP
+-rw-r--r--   1 sysadm   wheel        2573 May 20  1994 PVec.hP
+-rw-r--r--   1 sysadm   wheel        4207 May 20  1994 Plex.ccP
+-rw-r--r--   1 sysadm   wheel       13020 May 20  1994 Plex.hP
+-rw-r--r--   1 sysadm   wheel         196 May 20  1994 Queue.ccP
+-rw-r--r--   1 sysadm   wheel        1506 May 20  1994 Queue.hP
+-rw-r--r--   1 sysadm   wheel       14389 May 20  1994 RAVLMap.ccP
+-rw-r--r--   1 sysadm   wheel        3509 May 20  1994 RAVLMap.hP
+-rw-r--r--   1 sysadm   wheel       10187 May 20  1994 RPlex.ccP
+-rw-r--r--   1 sysadm   wheel        6532 May 20  1994 RPlex.hP
+-rw-r--r--   1 sysadm   wheel        2165 May 20  1994 SLBag.ccP
+-rw-r--r--   1 sysadm   wheel        2130 May 20  1994 SLBag.hP
+-rw-r--r--   1 sysadm   wheel        5241 May 20  1994 SLList.ccP
+-rw-r--r--   1 sysadm   wheel        3279 May 20  1994 SLList.hP
+-rw-r--r--   1 sysadm   wheel          71 May 20  1994 SLQueue.ccP
+-rw-r--r--   1 sysadm   wheel        2204 May 20  1994 SLQueue.hP
+-rw-r--r--   1 sysadm   wheel        1685 May 20  1994 SLSet.ccP
+-rw-r--r--   1 sysadm   wheel        1973 May 20  1994 SLSet.hP
+-rw-r--r--   1 sysadm   wheel          71 May 20  1994 SLStack.ccP
+-rw-r--r--   1 sysadm   wheel        2212 May 20  1994 SLStack.hP
+-rw-r--r--   1 sysadm   wheel        2463 May 20  1994 Set.ccP
+-rw-r--r--   1 sysadm   wheel        2468 May 20  1994 Set.hP
+-rw-r--r--   1 sysadm   wheel        6571 May 20  1994 SkipBag.ccP
+-rw-r--r--   1 sysadm   wheel        3831 May 20  1994 SkipBag.hP
+-rw-r--r--   1 sysadm   wheel        6608 May 20  1994 SkipMap.ccP
+-rw-r--r--   1 sysadm   wheel        4115 May 20  1994 SkipMap.hP
+-rw-r--r--   1 sysadm   wheel        7853 May 20  1994 SkipSet.ccP
+-rw-r--r--   1 sysadm   wheel        4180 May 20  1994 SkipSet.hP
+-rw-r--r--   1 sysadm   wheel        8379 May 20  1994 SplayBag.ccP
+-rw-r--r--   1 sysadm   wheel        3658 May 20  1994 SplayBag.hP
+-rw-r--r--   1 sysadm   wheel        7948 May 20  1994 SplayMap.ccP
+-rw-r--r--   1 sysadm   wheel        3588 May 20  1994 SplayMap.hP
+-rw-r--r--   1 sysadm   wheel         905 May 20  1994 SplayNode.ccP
+-rw-r--r--   1 sysadm   wheel        1424 May 20  1994 SplayNode.hP
+-rw-r--r--   1 sysadm   wheel        9926 May 20  1994 SplayPQ.ccP
+-rw-r--r--   1 sysadm   wheel        2663 May 20  1994 SplayPQ.hP
+-rw-r--r--   1 sysadm   wheel        9320 May 20  1994 SplaySet.ccP
+-rw-r--r--   1 sysadm   wheel        3215 May 20  1994 SplaySet.hP
+-rw-r--r--   1 sysadm   wheel         176 May 20  1994 Stack.ccP
+-rw-r--r--   1 sysadm   wheel        1516 May 20  1994 Stack.hP
+-rw-r--r--   1 sysadm   wheel        6269 May 20  1994 VHBag.ccP
+-rw-r--r--   1 sysadm   wheel        1984 May 20  1994 VHBag.hP
+-rw-r--r--   1 sysadm   wheel        5073 May 20  1994 VHMap.ccP
+-rw-r--r--   1 sysadm   wheel        2082 May 20  1994 VHMap.hP
+-rw-r--r--   1 sysadm   wheel        6001 May 20  1994 VHSet.ccP
+-rw-r--r--   1 sysadm   wheel        2245 May 20  1994 VHSet.hP
+-rw-r--r--   1 sysadm   wheel        7290 May 20  1994 VOHSet.ccP
+-rw-r--r--   1 sysadm   wheel        2260 May 20  1994 VOHSet.hP
+-rw-r--r--   1 sysadm   wheel        2144 May 20  1994 VQueue.ccP
+-rw-r--r--   1 sysadm   wheel        2746 May 20  1994 VQueue.hP
+-rw-r--r--   1 sysadm   wheel        1804 May 20  1994 VStack.ccP
+-rw-r--r--   1 sysadm   wheel        2523 May 20  1994 VStack.hP
+-rw-r--r--   1 sysadm   wheel       12305 May 20  1994 Vec.ccP
+-rw-r--r--   1 sysadm   wheel        3433 May 20  1994 Vec.hP
+-rw-r--r--   1 sysadm   wheel        1772 May 20  1994 XPBag.ccP
+-rw-r--r--   1 sysadm   wheel        2237 May 20  1994 XPBag.hP
+-rw-r--r--   1 sysadm   wheel          71 May 20  1994 XPDeque.ccP
+-rw-r--r--   1 sysadm   wheel        2707 May 20  1994 XPDeque.hP
+-rw-r--r--   1 sysadm   wheel        2962 May 20  1994 XPPQ.ccP
+-rw-r--r--   1 sysadm   wheel        2293 May 20  1994 XPPQ.hP
+-rw-r--r--   1 sysadm   wheel          71 May 20  1994 XPQueue.ccP
+-rw-r--r--   1 sysadm   wheel        2396 May 20  1994 XPQueue.hP
+-rw-r--r--   1 sysadm   wheel        1572 May 20  1994 XPSet.ccP
+-rw-r--r--   1 sysadm   wheel        2049 May 20  1994 XPSet.hP
+-rw-r--r--   1 sysadm   wheel          71 May 20  1994 XPStack.ccP
+-rw-r--r--   1 sysadm   wheel        2394 May 20  1994 XPStack.hP
+-rw-r--r--   1 sysadm   wheel        8142 May 20  1994 XPlex.ccP
+-rw-r--r--   1 sysadm   wheel        6031 May 20  1994 XPlex.hP
+-rw-r--r--   1 sysadm   wheel        1736 May 20  1994 defs.hP
+-rw-r--r--   1 sysadm   wheel        1095 May 20  1994 intSList.hP
+-rw-r--r--   1 sysadm   wheel        2522 May 20  1994 intVec.hP
+
+gnu-udo/lib/gcc-lib:
+total 1
+drwxr-xr-x   3 sysadm   wheel        1024 Sep 23  1994 i386-coh
+
+gnu-udo/lib/gcc-lib/i386-coh:
+total 1
+drwxr-xr-x   3 sysadm   wheel        1024 Apr 27  1995 2.5.8
+
+gnu-udo/lib/gcc-lib/i386-coh/2.5.8:
+total 3461
+-rw-r--r--   1 sysadm   wheel       87952 Sep  1  1994 SYSCALLS.c.X
+-rwxr-xr-x   1 sysadm   wheel      998696 Sep  1  1994 cc1
+-rwxr-xr-x   1 sysadm   wheel     1054616 Sep  1  1994 cc1obj
+-rwxr-xr-x   1 sysadm   wheel     1286584 Sep  1  1994 cc1plus
+-rwxr-xr-x   1 sysadm   wheel      101016 Sep  1  1994 cpp
+-rw-r--r--   1 sysadm   wheel         684 Sep  3  1994 crt1.o
+-rw-r--r--   1 sysadm   wheel         790 Sep  1  1994 crtbegin.o
+-rw-r--r--   1 sysadm   wheel         753 Sep  1  1994 crtend.o
+drwxr-xr-x   3 sysadm   wheel        1024 Sep  1  1994 include
+-rw-r--r--   1 sysadm   wheel      129592 Sep  1  1994 libgcc.a
+-rw-r--r--   1 sysadm   wheel       87150 Sep  1  1994 libobjc.a
+-rw-r--r--   2 sysadm   wheel         372 Sep  1  1994 specs
+-rw-r--r--   1 sysadm   wheel         364 Sep 27  1994 specs.nondp
+-rw-r--r--   2 sysadm   wheel         372 Sep  1  1994 specs.orig
+
+gnu-udo/lib/gcc-lib/i386-coh/2.5.8/include:
+total 1
+drwxr-xr-x   2 sysadm   wheel        1024 Aug 25  1994 objc
+
+gnu-udo/lib/gcc-lib/i386-coh/2.5.8/include/objc:
+total 53
+-r--r--r--   1 sysadm   wheel        3464 Aug 25  1994 Object.h
+-r--r--r--   1 sysadm   wheel        1843 Aug 25  1994 Protocol.h
+-r--r--r--   1 sysadm   wheel        2505 Aug 25  1994 encoding.h
+-r--r--r--   1 sysadm   wheel        6249 Aug 25  1994 hash.h
+-r--r--r--   1 sysadm   wheel        3442 Aug 25  1994 list.h
+-r--r--r--   1 sysadm   wheel       15016 Aug 25  1994 objc-api.h
+-r--r--r--   1 sysadm   wheel        5905 Aug 25  1994 objc.h
+-r--r--r--   1 sysadm   wheel        5931 Aug 25  1994 sarray.h
+-r--r--r--   1 sysadm   wheel        4297 Aug 25  1994 typedstream.h
+
+gnu-udo/lib/ghostscript:
+total 262
+-r--r--r--   1 sysadm   wheel       11272 Jan 11  1994 Fontmap
+-r--r--r--   1 sysadm   wheel       13660 Jan 11  1994 README
+-r--r--r--   1 sysadm   wheel       22789 Jan 11  1994 bdftops.ps
+-r--r--r--   1 sysadm   wheel         295 Jan 11  1994 decrypt.ps
+drwxr-xr-x   2 sysadm   wheel        1024 Jan 11  1994 doc
+drwxr-xr-x   2 sysadm   wheel        1024 Jan 11  1994 examples
+-r--r--r--   1 sysadm   wheel       14070 Jan 11  1994 font2c.ps
+drwxr-xr-x   2 sysadm   wheel        2048 Dec 24  1993 fonts
+-r--r--r--   1 sysadm   wheel        2949 Jan 11  1994 gs_dbt_e.ps
+-r--r--r--   1 sysadm   wheel        9888 Jan 11  1994 gs_dps1.ps
+-r--r--r--   1 sysadm   wheel       21251 Jan 11  1994 gs_fonts.ps
+-r--r--r--   1 sysadm   wheel       28150 Jan 11  1994 gs_init.ps
+-r--r--r--   1 sysadm   wheel       10719 Jan 11  1994 gs_lev2.ps
+-r--r--r--   1 sysadm   wheel        8008 Jan 11  1994 gs_statd.ps
+-r--r--r--   1 sysadm   wheel        3750 Jan 11  1994 gs_sym_e.ps
+-r--r--r--   1 sysadm   wheel        1810 Jan 11  1994 gs_type0.ps
+-r--r--r--   1 sysadm   wheel       13894 Jan 11  1994 gslp.ps
+-r--r--r--   1 sysadm   wheel        5681 Jan 11  1994 impath.ps
+-r--r--r--   1 sysadm   wheel        1455 Jan 11  1994 landscap.ps
+-r--r--r--   1 sysadm   wheel          56 Jan 11  1994 level1.ps
+-r--r--r--   1 sysadm   wheel        2368 Jan 11  1994 prfont.ps
+-r--r--r--   1 sysadm   wheel       12225 Jan 11  1994 ps2ascii.ps
+-r--r--r--   1 sysadm   wheel        6074 Jan 11  1994 ps2epsi.ps
+-r--r--r--   1 sysadm   wheel        6133 Jan 11  1994 ps2image.ps
+-r--r--r--   1 sysadm   wheel        7343 Jan 11  1994 pstoppm.ps
+-r--r--r--   1 sysadm   wheel           5 Jan 11  1994 quit.ps
+-r--r--r--   1 sysadm   wheel           9 Jan 11  1994 showpage.ps
+-r--r--r--   1 sysadm   wheel        6829 Jan 11  1994 type1ops.ps
+-r--r--r--   1 sysadm   wheel       22643 Jan 11  1994 uglyr.gsf
+-r--r--r--   1 sysadm   wheel        9517 Jan 11  1994 wrfont.ps
+
+gnu-udo/lib/ghostscript/doc:
+total 297
+-r--r--r--   1 sysadm   wheel       74791 Jan 11  1994 NEWS
+-r--r--r--   1 sysadm   wheel         910 Jan 11  1994 ansi2knr.1
+-r--r--r--   1 sysadm   wheel       13974 Jan 11  1994 devices.doc
+-r--r--r--   1 sysadm   wheel       28251 Jan 11  1994 drivers.doc
+-r--r--r--   1 sysadm   wheel       12036 Jan 11  1994 fonts.doc
+-r--r--r--   1 sysadm   wheel       10005 Jan 11  1994 gs.1
+-r--r--r--   1 sysadm   wheel       11176 Jan 11  1994 hershey.doc
+-r--r--r--   1 sysadm   wheel       46468 Jan 11  1994 history.doc
+-r--r--r--   1 sysadm   wheel        2509 Jan 11  1994 humor.doc
+-r--r--r--   1 sysadm   wheel       15200 Jan 11  1994 language.doc
+-r--r--r--   1 sysadm   wheel        3723 Jan 11  1994 lib.doc
+-r--r--r--   1 sysadm   wheel       26726 Jan 11  1994 make.doc
+-r--r--r--   1 sysadm   wheel        2517 Jan 11  1994 ps2epsi.doc
+-r--r--r--   1 sysadm   wheel        5279 Jan 11  1994 psfiles.doc
+-r--r--r--   1 sysadm   wheel        3557 Jan 11  1994 readme.doc
+-r--r--r--   1 sysadm   wheel       25117 Jan 11  1994 use.doc
+-r--r--r--   1 sysadm   wheel        6679 Jan 11  1994 xfonts.doc
+
+gnu-udo/lib/ghostscript/examples:
+total 182
+-r--r--r--   1 sysadm   wheel       58877 Jan 11  1994 cheq.ps
+-r--r--r--   1 sysadm   wheel        3047 Jan 11  1994 chess.ps
+-r--r--r--   1 sysadm   wheel        1815 Jan 11  1994 colorcir.ps
+-r--r--r--   1 sysadm   wheel       10520 Jan 11  1994 escher.ps
+-r--r--r--   1 sysadm   wheel       25499 Jan 11  1994 golfer.ps
+-r--r--r--   1 sysadm   wheel        2071 Jan 11  1994 snowflak.ps
+-r--r--r--   1 sysadm   wheel       78519 Jan 11  1994 tiger.ps
+
+gnu-udo/lib/ghostscript/fonts:
+total 3369
+-r--r--r--   1 sysadm   wheel       21626 Apr 25  1992 bchb.afm
+-r--r--r--   1 sysadm   wheel       52032 May 26  1992 bchb.gsf
+-r--r--r--   1 sysadm   wheel       22099 Apr 25  1992 bchbi.afm
+-r--r--r--   1 sysadm   wheel       54791 May 26  1992 bchbi.gsf
+-r--r--r--   1 sysadm   wheel       19764 Apr 25  1992 bchr.afm
+-r--r--r--   1 sysadm   wheel       53462 May 26  1992 bchr.gsf
+-r--r--r--   1 sysadm   wheel       19927 Apr 25  1992 bchri.afm
+-r--r--r--   1 sysadm   wheel       54602 May 26  1992 bchri.gsf
+-r--r--r--   1 sysadm   wheel       35905 Sep  4  1992 cyr.gsf
+-r--r--r--   1 sysadm   wheel       44432 Sep  4  1992 cyri.gsf
+-r--r--r--   1 sysadm   wheel       12621 Nov 21  1992 hrge_r.gsf
+-r--r--r--   1 sysadm   wheel         109 Nov 20  1992 hrge_rb.gsf
+-r--r--r--   1 sysadm   wheel         114 Nov 20  1992 hrge_ro.gsf
+-r--r--r--   1 sysadm   wheel        8889 Nov 21  1992 hrgk_c.gsf
+-r--r--r--   1 sysadm   wheel        6961 Nov 21  1992 hrgk_s.gsf
+-r--r--r--   1 sysadm   wheel       13145 Nov 21  1992 hrgr_r.gsf
+-r--r--r--   1 sysadm   wheel         107 Nov 20  1992 hrgr_rb.gsf
+-r--r--r--   1 sysadm   wheel         112 Nov 20  1992 hrgr_ro.gsf
+-r--r--r--   1 sysadm   wheel       11167 Nov 21  1992 hrit_r.gsf
+-r--r--r--   1 sysadm   wheel         109 Nov 20  1992 hrit_rb.gsf
+-r--r--r--   1 sysadm   wheel         114 Nov 20  1992 hrit_ro.gsf
+-r--r--r--   1 sysadm   wheel        8964 Nov 21  1992 hrpl_r.gsf
+-r--r--r--   1 sysadm   wheel          91 Nov 20  1992 hrpl_rb.gsf
+-r--r--r--   1 sysadm   wheel          96 Nov 20  1992 hrpl_ro.gsf
+-r--r--r--   1 sysadm   wheel        6675 Nov 21  1992 hrpl_s.gsf
+-r--r--r--   1 sysadm   wheel         107 Nov 20  1992 hrpl_sb.gsf
+-r--r--r--   1 sysadm   wheel         117 Nov 20  1992 hrpl_sbo.gsf
+-r--r--r--   1 sysadm   wheel         112 Nov 20  1992 hrpl_so.gsf
+-r--r--r--   1 sysadm   wheel       11852 Nov 21  1992 hrpl_t.gsf
+-r--r--r--   1 sysadm   wheel         107 Nov 20  1992 hrpl_tb.gsf
+-r--r--r--   1 sysadm   wheel         116 Nov 20  1992 hrpl_tbi.gsf
+-r--r--r--   1 sysadm   wheel       11852 Nov 21  1992 hrpl_ti.gsf
+-r--r--r--   1 sysadm   wheel        9597 Nov 21  1992 hrsc_c.gsf
+-r--r--r--   1 sysadm   wheel         109 Nov 20  1992 hrsc_cb.gsf
+-r--r--r--   1 sysadm   wheel         114 Nov 20  1992 hrsc_co.gsf
+-r--r--r--   1 sysadm   wheel        8097 Nov 21  1992 hrsc_s.gsf
+-r--r--r--   1 sysadm   wheel         109 Nov 20  1992 hrsc_sb.gsf
+-r--r--r--   1 sysadm   wheel         114 Nov 20  1992 hrsc_so.gsf
+-r--r--r--   1 sysadm   wheel       13602 Nov 21  1992 hrsy_r.gsf
+-r--r--r--   1 sysadm   wheel       13603 Oct  2  1992 n019003l.afm
+-r--r--r--   1 sysadm   wheel       58388 May  7  1993 n019003l.gsf
+-r--r--r--   1 sysadm   wheel       13738 Oct  2  1992 n021003l.afm
+-r--r--r--   1 sysadm   wheel       77752 May  7  1993 n021003l.gsf
+-r--r--r--   1 sysadm   wheel       97891 May 26  1992 ncrb.gsf
+-r--r--r--   1 sysadm   wheel       96987 May 26  1992 ncrbi.gsf
+-r--r--r--   1 sysadm   wheel       97281 May 26  1992 ncrr.gsf
+-r--r--r--   1 sysadm   wheel       94824 May 26  1992 ncrri.gsf
+-r--r--r--   1 sysadm   wheel       33020 Nov 26  1991 pagd.gsf
+-r--r--r--   1 sysadm   wheel       35624 Nov 26  1991 pagdo.gsf
+-r--r--r--   1 sysadm   wheel       55105 Nov 26  1991 pagk.gsf
+-r--r--r--   1 sysadm   wheel       36778 Nov 26  1991 pagko.gsf
+-r--r--r--   1 sysadm   wheel       36435 Nov 26  1991 pbkd.gsf
+-r--r--r--   1 sysadm   wheel       36365 Nov 26  1991 pbkdi.gsf
+-r--r--r--   1 sysadm   wheel       36048 Nov 26  1991 pbkl.gsf
+-r--r--r--   1 sysadm   wheel       38419 Nov 26  1991 pbkli.gsf
+-r--r--r--   1 sysadm   wheel       70304 Nov 26  1991 phvb.gsf
+-r--r--r--   1 sysadm   wheel       80025 Nov 26  1991 phvbo.gsf
+-r--r--r--   1 sysadm   wheel       71002 Dec  3  1991 phvr.gsf
+-r--r--r--   1 sysadm   wheel       80885 Nov 26  1991 phvro.gsf
+-r--r--r--   1 sysadm   wheel       42625 Nov 26  1991 phvrrn.gsf
+-r--r--r--   1 sysadm   wheel       72960 Nov 26  1991 pncb.gsf
+-r--r--r--   1 sysadm   wheel       82520 Nov 26  1991 pncbi.gsf
+-r--r--r--   1 sysadm   wheel       83588 Nov 26  1991 pncr.gsf
+-r--r--r--   1 sysadm   wheel       93295 Nov 26  1991 pncri.gsf
+-r--r--r--   1 sysadm   wheel       34877 Nov 26  1991 pplb.gsf
+-r--r--r--   1 sysadm   wheel       37031 Nov 26  1991 pplbi.gsf
+-r--r--r--   1 sysadm   wheel       56242 Nov 26  1991 pplr.gsf
+-r--r--r--   1 sysadm   wheel       37727 Nov 26  1991 pplri.gsf
+-r--r--r--   1 sysadm   wheel       61593 Nov 26  1991 psyr.gsf
+-r--r--r--   1 sysadm   wheel       77812 Nov 26  1991 ptmb.gsf
+-r--r--r--   1 sysadm   wheel       85909 Nov 26  1991 ptmbi.gsf
+-r--r--r--   1 sysadm   wheel       78972 Nov 26  1991 ptmr.gsf
+-r--r--r--   1 sysadm   wheel       87136 Nov 26  1991 ptmri.gsf
+-r--r--r--   1 sysadm   wheel       60932 May 26  1992 putb.gsf
+-r--r--r--   1 sysadm   wheel       63677 May 26  1992 putbi.gsf
+-r--r--r--   1 sysadm   wheel       60720 May 26  1992 putr.gsf
+-r--r--r--   1 sysadm   wheel       63057 May 26  1992 putri.gsf
+-r--r--r--   1 sysadm   wheel        9317 Dec 29  1991 pzdr.afm
+-r--r--r--   1 sysadm   wheel       84801 Feb 29  1992 pzdr.gsf
+-r--r--r--   1 sysadm   wheel       19656 May  6  1993 u003043t.afm
+-r--r--r--   1 sysadm   wheel       77158 May  7  1993 u003043t.gsf
+-r--r--r--   1 sysadm   wheel       19506 May  6  1993 u004006t.afm
+-r--r--r--   1 sysadm   wheel       59411 May  7  1993 u004006t.gsf
+-r--r--r--   1 sysadm   wheel       71922 Nov 26  1991 zcb.gsf
+-r--r--r--   1 sysadm   wheel       67154 Nov 26  1991 zcr.gsf
+-r--r--r--   1 sysadm   wheel       82792 Nov 26  1991 zcro.gsf
+
+gnu-udo/lib/groff:
+total 3
+-rw-r--r--   1 sysadm   wheel         620 May 20  1994 eign
+drwxr-xr-x  10 sysadm   wheel        1024 Jan 19  1994 font
+drwxr-xr-x   4 sysadm   wheel        1024 May 20  1994 tmac
+
+gnu-udo/lib/groff/font:
+total 8
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 devX100
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 devX100-12
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 devX75
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 devX75-12
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 devascii
+drwxr-xr-x   3 sysadm   wheel        1024 May 20  1994 devdvi
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 devlatin1
+drwxr-xr-x   3 sysadm   wheel        1024 May 20  1994 devps
+
+gnu-udo/lib/groff/font/devX100:
+total 69
+-rw-r--r--   1 sysadm   wheel        3188 May 20  1994 CB
+-rw-r--r--   1 sysadm   wheel        3190 May 20  1994 CBI
+-rw-r--r--   1 sysadm   wheel        3184 May 20  1994 CI
+-rw-r--r--   1 sysadm   wheel        3185 May 20  1994 CR
+-rw-r--r--   1 sysadm   wheel         117 May 20  1994 DESC
+-rw-r--r--   1 sysadm   wheel        3289 May 20  1994 HB
+-rw-r--r--   1 sysadm   wheel        3286 May 20  1994 HBI
+-rw-r--r--   1 sysadm   wheel        3287 May 20  1994 HI
+-rw-r--r--   1 sysadm   wheel        3274 May 20  1994 HR
+-rw-r--r--   1 sysadm   wheel        3311 May 20  1994 NB
+-rw-r--r--   1 sysadm   wheel        3319 May 20  1994 NBI
+-rw-r--r--   1 sysadm   wheel        3292 May 20  1994 NI
+-rw-r--r--   1 sysadm   wheel        3295 May 20  1994 NR
+-rw-r--r--   1 sysadm   wheel        3317 May 20  1994 S
+-rw-r--r--   1 sysadm   wheel        3292 May 20  1994 TB
+-rw-r--r--   1 sysadm   wheel        3287 May 20  1994 TBI
+-rw-r--r--   1 sysadm   wheel        3285 May 20  1994 TI
+-rw-r--r--   1 sysadm   wheel        3284 May 20  1994 TR
+
+gnu-udo/lib/groff/font/devX100-12:
+total 69
+-rw-r--r--   1 sysadm   wheel        3438 May 20  1994 CB
+-rw-r--r--   1 sysadm   wheel        3437 May 20  1994 CBI
+-rw-r--r--   1 sysadm   wheel        3436 May 20  1994 CI
+-rw-r--r--   1 sysadm   wheel        3435 May 20  1994 CR
+-rw-r--r--   1 sysadm   wheel         117 May 20  1994 DESC
+-rw-r--r--   1 sysadm   wheel        3340 May 20  1994 HB
+-rw-r--r--   1 sysadm   wheel        3343 May 20  1994 HBI
+-rw-r--r--   1 sysadm   wheel        3316 May 20  1994 HI
+-rw-r--r--   1 sysadm   wheel        3319 May 20  1994 HR
+-rw-r--r--   1 sysadm   wheel        3370 May 20  1994 NB
+-rw-r--r--   1 sysadm   wheel        3360 May 20  1994 NBI
+-rw-r--r--   1 sysadm   wheel        3340 May 20  1994 NI
+-rw-r--r--   1 sysadm   wheel        3330 May 20  1994 NR
+-rw-r--r--   1 sysadm   wheel        3366 May 20  1994 S
+-rw-r--r--   1 sysadm   wheel        3307 May 20  1994 TB
+-rw-r--r--   1 sysadm   wheel        3323 May 20  1994 TBI
+-rw-r--r--   1 sysadm   wheel        3313 May 20  1994 TI
+-rw-r--r--   1 sysadm   wheel        3302 May 20  1994 TR
+
+gnu-udo/lib/groff/font/devX75:
+total 69
+-rw-r--r--   1 sysadm   wheel        3110 May 20  1994 CB
+-rw-r--r--   1 sysadm   wheel        3107 May 20  1994 CBI
+-rw-r--r--   1 sysadm   wheel        3104 May 20  1994 CI
+-rw-r--r--   1 sysadm   wheel        3106 May 20  1994 CR
+-rw-r--r--   1 sysadm   wheel         116 May 20  1994 DESC
+-rw-r--r--   1 sysadm   wheel        3127 May 20  1994 HB
+-rw-r--r--   1 sysadm   wheel        3126 May 20  1994 HBI
+-rw-r--r--   1 sysadm   wheel        3132 May 20  1994 HI
+-rw-r--r--   1 sysadm   wheel        3125 May 20  1994 HR
+-rw-r--r--   1 sysadm   wheel        3123 May 20  1994 NB
+-rw-r--r--   1 sysadm   wheel        3128 May 20  1994 NBI
+-rw-r--r--   1 sysadm   wheel        3122 May 20  1994 NI
+-rw-r--r--   1 sysadm   wheel        3124 May 20  1994 NR
+-rw-r--r--   1 sysadm   wheel        3188 May 20  1994 S
+-rw-r--r--   1 sysadm   wheel        3130 May 20  1994 TB
+-rw-r--r--   1 sysadm   wheel        3129 May 20  1994 TBI
+-rw-r--r--   1 sysadm   wheel        3125 May 20  1994 TI
+-rw-r--r--   1 sysadm   wheel        3120 May 20  1994 TR
+
+gnu-udo/lib/groff/font/devX75-12:
+total 69
+-rw-r--r--   1 sysadm   wheel        3133 May 20  1994 CB
+-rw-r--r--   1 sysadm   wheel        3131 May 20  1994 CBI
+-rw-r--r--   1 sysadm   wheel        3134 May 20  1994 CI
+-rw-r--r--   1 sysadm   wheel        3134 May 20  1994 CR
+-rw-r--r--   1 sysadm   wheel         116 May 20  1994 DESC
+-rw-r--r--   1 sysadm   wheel        3165 May 20  1994 HB
+-rw-r--r--   1 sysadm   wheel        3159 May 20  1994 HBI
+-rw-r--r--   1 sysadm   wheel        3156 May 20  1994 HI
+-rw-r--r--   1 sysadm   wheel        3163 May 20  1994 HR
+-rw-r--r--   1 sysadm   wheel        3161 May 20  1994 NB
+-rw-r--r--   1 sysadm   wheel        3165 May 20  1994 NBI
+-rw-r--r--   1 sysadm   wheel        3138 May 20  1994 NI
+-rw-r--r--   1 sysadm   wheel        3147 May 20  1994 NR
+-rw-r--r--   1 sysadm   wheel        3218 May 20  1994 S
+-rw-r--r--   1 sysadm   wheel        3140 May 20  1994 TB
+-rw-r--r--   1 sysadm   wheel        3146 May 20  1994 TBI
+-rw-r--r--   1 sysadm   wheel        3138 May 20  1994 TI
+-rw-r--r--   1 sysadm   wheel        3128 May 20  1994 TR
+
+gnu-udo/lib/groff/font/devascii:
+total 9
+-rw-r--r--   1 sysadm   wheel        1507 May 20  1994 B
+-rw-r--r--   1 sysadm   wheel        1508 May 20  1994 BI
+-rw-r--r--   1 sysadm   wheel          88 May 20  1994 DESC
+-rw-r--r--   1 sysadm   wheel        1507 May 20  1994 I
+-rw-r--r--   1 sysadm   wheel        1492 May 20  1994 R
+
+gnu-udo/lib/groff/font/devdvi:
+total 77
+-rw-r--r--   1 sysadm   wheel        5924 May 20  1994 B
+-rw-r--r--   1 sysadm   wheel        7298 May 20  1994 BI
+-rw-r--r--   1 sysadm   wheel        3439 May 20  1994 CW
+-rw-r--r--   1 sysadm   wheel         229 May 20  1994 DESC
+-rw-r--r--   1 sysadm   wheel        4849 May 20  1994 EX
+-rw-r--r--   1 sysadm   wheel        5363 May 20  1994 H
+-rw-r--r--   1 sysadm   wheel        5371 May 20  1994 HB
+-rw-r--r--   1 sysadm   wheel        6318 May 20  1994 HI
+-rw-r--r--   1 sysadm   wheel        7285 May 20  1994 I
+-rw-r--r--   1 sysadm   wheel        4073 May 20  1994 MI
+-rw-r--r--   1 sysadm   wheel        6756 May 20  1994 R
+-rw-r--r--   1 sysadm   wheel        4055 May 20  1994 S
+-rw-r--r--   1 sysadm   wheel        4813 May 20  1994 SA
+-rw-r--r--   1 sysadm   wheel        4264 May 20  1994 SB
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 generate
+
+gnu-udo/lib/groff/font/devdvi/generate:
+total 16
+-rw-r--r--   1 sysadm   wheel         416 May 20  1994 CompileFonts
+-rw-r--r--   1 sysadm   wheel        2728 May 20  1994 Makefile
+-rw-r--r--   1 sysadm   wheel        1916 May 20  1994 msam.map
+-rw-r--r--   1 sysadm   wheel        1487 May 20  1994 msbm.map
+-rw-r--r--   1 sysadm   wheel         823 May 20  1994 texb.map
+-rw-r--r--   1 sysadm   wheel        1525 May 20  1994 texex.map
+-rw-r--r--   1 sysadm   wheel         832 May 20  1994 texi.map
+-rw-r--r--   1 sysadm   wheel         200 May 20  1994 texmi.map
+-rw-r--r--   1 sysadm   wheel         868 May 20  1994 texr.map
+-rw-r--r--   1 sysadm   wheel         679 May 20  1994 texsy.map
+-rw-r--r--   1 sysadm   wheel         788 May 20  1994 textt.map
+
+gnu-udo/lib/groff/font/devlatin1:
+total 17
+-rw-r--r--   1 sysadm   wheel        3683 May 20  1994 B
+-rw-r--r--   1 sysadm   wheel        3684 May 20  1994 BI
+-rw-r--r--   1 sysadm   wheel          88 May 20  1994 DESC
+-rw-r--r--   1 sysadm   wheel        3683 May 20  1994 I
+-rw-r--r--   1 sysadm   wheel        3668 May 20  1994 R
+
+gnu-udo/lib/groff/font/devps:
+total 361
+-rw-r--r--   1 sysadm   wheel        8817 May 20  1994 AB
+-rw-r--r--   1 sysadm   wheel       11373 May 20  1994 ABI
+-rw-r--r--   1 sysadm   wheel       11369 May 20  1994 AI
+-rw-r--r--   1 sysadm   wheel        8822 May 20  1994 AR
+-rw-r--r--   1 sysadm   wheel        7794 May 20  1994 BMB
+-rw-r--r--   1 sysadm   wheel       10299 May 20  1994 BMBI
+-rw-r--r--   1 sysadm   wheel       10243 May 20  1994 BMI
+-rw-r--r--   1 sysadm   wheel        7678 May 20  1994 BMR
+-rw-r--r--   1 sysadm   wheel        6999 May 20  1994 CB
+-rw-r--r--   1 sysadm   wheel        9389 May 20  1994 CBI
+-rw-r--r--   1 sysadm   wheel        9364 May 20  1994 CI
+-rw-r--r--   1 sysadm   wheel        7007 May 20  1994 CR
+-rw-r--r--   1 sysadm   wheel         190 May 20  1994 DESC
+-rw-r--r--   1 sysadm   wheel        8737 May 20  1994 HB
+-rw-r--r--   1 sysadm   wheel       11312 May 20  1994 HBI
+-rw-r--r--   1 sysadm   wheel       12074 May 20  1994 HI
+-rw-r--r--   1 sysadm   wheel        8697 May 20  1994 HNB
+-rw-r--r--   1 sysadm   wheel       11231 May 20  1994 HNBI
+-rw-r--r--   1 sysadm   wheel       12010 May 20  1994 HNI
+-rw-r--r--   1 sysadm   wheel        9472 May 20  1994 HNR
+-rw-r--r--   1 sysadm   wheel        9502 May 20  1994 HR
+-rw-r--r--   1 sysadm   wheel        7959 May 20  1994 NB
+-rw-r--r--   1 sysadm   wheel       10160 May 20  1994 NBI
+-rw-r--r--   1 sysadm   wheel        9980 May 20  1994 NI
+-rw-r--r--   1 sysadm   wheel        7993 May 20  1994 NR
+-rw-r--r--   1 sysadm   wheel        8105 May 20  1994 PB
+-rw-r--r--   1 sysadm   wheel       10140 May 20  1994 PBI
+-rw-r--r--   1 sysadm   wheel       10100 May 20  1994 PI
+-rw-r--r--   1 sysadm   wheel        8146 May 20  1994 PR
+-rw-r--r--   1 sysadm   wheel        5900 May 20  1994 S
+-rw-r--r--   1 sysadm   wheel        7696 May 20  1994 SS
+-rw-r--r--   1 sysadm   wheel        8673 May 20  1994 TB
+-rw-r--r--   1 sysadm   wheel       10597 May 20  1994 TBI
+-rw-r--r--   1 sysadm   wheel       10823 May 20  1994 TI
+-rw-r--r--   1 sysadm   wheel        8564 May 20  1994 TR
+-rw-r--r--   1 sysadm   wheel       10803 May 20  1994 ZCMI
+-rw-r--r--   1 sysadm   wheel        4777 May 20  1994 ZD
+-rw-r--r--   1 sysadm   wheel        4787 May 20  1994 ZDR
+-rw-r--r--   1 sysadm   wheel         118 May 20  1994 download
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 generate
+-rw-r--r--   1 sysadm   wheel        2713 May 20  1994 prologue
+-rw-r--r--   1 sysadm   wheel         592 May 20  1994 symbolsl.pfa
+-rw-r--r--   1 sysadm   wheel        2438 May 20  1994 text.enc
+-rw-r--r--   1 sysadm   wheel        4320 May 20  1994 zapfdr.pfa
+
+gnu-udo/lib/groff/font/devps/generate:
+total 29
+-rw-r--r--   1 sysadm   wheel        5744 May 20  1994 Makefile
+-rw-r--r--   1 sysadm   wheel        1580 May 20  1994 afmname
+-rw-r--r--   1 sysadm   wheel          14 May 20  1994 dingbatsmap
+-rw-r--r--   1 sysadm   wheel           7 May 20  1994 dingbatsrmap
+-rw-r--r--   1 sysadm   wheel         234 May 20  1994 lgreekmap
+-rw-r--r--   1 sysadm   wheel         982 May 20  1994 symbol.sed
+-rw-r--r--   1 sysadm   wheel         534 May 20  1994 symbolchars
+-rw-r--r--   1 sysadm   wheel        9407 May 20  1994 symbolsl.afm
+-rw-r--r--   1 sysadm   wheel        5692 May 20  1994 textmap
+
+gnu-udo/lib/groff/tmac:
+total 328
+-rw-r--r--   1 sysadm   wheel        1245 May 20  1994 eqnrc
+-rw-r--r--   1 sysadm   wheel       27414 May 20  1994 hyphen.us
+-rw-r--r--   1 sysadm   wheel          88 Jan 19  1994 man.local
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 mdoc
+drwxr-xr-x   2 sysadm   wheel        1024 May 20  1994 mm
+-rw-r--r--   1 sysadm   wheel        1475 May 20  1994 tmac.X
+-rw-r--r--   1 sysadm   wheel        1272 May 20  1994 tmac.Xps
+-rw-r--r--   1 sysadm   wheel        6246 May 20  1994 tmac.an
+-rw-r--r--   1 sysadm   wheel         159 May 20  1994 tmac.andoc
+-rw-r--r--   1 sysadm   wheel       51615 May 20  1994 tmac.doc
+-rw-r--r--   1 sysadm   wheel       36437 May 20  1994 tmac.doc.old
+-rw-r--r--   1 sysadm   wheel        4038 May 20  1994 tmac.dvi
+-rw-r--r--   1 sysadm   wheel       19723 May 20  1994 tmac.e
+-rw-r--r--   1 sysadm   wheel       57639 May 20  1994 tmac.gm
+-rw-r--r--   1 sysadm   wheel       57639 May 20  1994 tmac.gmse
+-r--r--r--   1 sysadm   wheel       32721 May 20  1994 tmac.gs
+-rw-r--r--   1 sysadm   wheel        2645 May 20  1994 tmac.latin1
+-rw-r--r--   1 sysadm   wheel         101 May 20  1994 tmac.pic
+-rw-r--r--   1 sysadm   wheel        1366 May 20  1994 tmac.ps
+-rw-r--r--   1 sysadm   wheel        1061 May 20  1994 tmac.psatk
+-rw-r--r--   1 sysadm   wheel         807 May 20  1994 tmac.psnew
+-rw-r--r--   1 sysadm   wheel        1861 May 20  1994 tmac.psold
+-rw-r--r--   1 sysadm   wheel        1167 May 20  1994 tmac.pspic
+-rw-r--r--   1 sysadm   wheel         907 May 20  1994 tmac.tty
+-rw-r--r--   1 sysadm   wheel        4108 May 20  1994 tmac.tty-char
+-rw-r--r--   1 sysadm   wheel         802 May 20  1994 troffrc
+
+gnu-udo/lib/groff/tmac/mdoc:
+total 27
+-rw-r--r--   1 sysadm   wheel       10171 May 20  1994 doc-common
+-rw-r--r--   1 sysadm   wheel        5276 May 20  1994 doc-ditroff
+-rw-r--r--   1 sysadm   wheel        4493 May 20  1994 doc-nroff
+-rw-r--r--   1 sysadm   wheel        5981 May 20  1994 doc-syms
+
+gnu-udo/lib/groff/tmac/mm:
+total 8
+-rw-r--r--   1 sysadm   wheel        2329 May 20  1994 0.MT
+-rw-r--r--   1 sysadm   wheel         881 May 20  1994 4.MT
+-rw-r--r--   1 sysadm   wheel         530 May 20  1994 5.MT
+-rw-r--r--   1 sysadm   wheel           0 Jan 19  1994 locale
+-rw-r--r--   1 sysadm   wheel        1239 May 20  1994 ms.cov
+-rw-r--r--   1 sysadm   wheel           0 Jan 19  1994 se_locale
+-rw-r--r--   1 sysadm   wheel          39 May 20  1994 se_ms.cov
+
+gnu-udo/lib/ispell:
+total 504
+-rw-r--r--   1 sysadm   wheel      156348 Dec  5  1993 ispell.dict
+-rw-r--r--   1 sysadm   wheel      354325 Dec  5  1993 ispell.words
+
+gnu-udo/lib/locate:
+total 23
+-rwxr-xr-x   1 sysadm   wheel        8584 Feb  7  1994 bigram
+-rwxr-xr-x   1 sysadm   wheel       10488 Feb  7  1994 code
+-rw-r--r--   1 sysadm   wheel           0 Oct  9 16:20 find.codes
+-rwxr-xr-x   1 sysadm   wheel        2133 Feb  8  1994 updatedb
+
+gnu-udo/lib/perl:
+total 104
+-rw-r--r--   1 sysadm   wheel         551 May 13  1994 abbrev.pl
+-rw-r--r--   1 sysadm   wheel        1265 May 13  1994 assert.pl
+-rw-r--r--   1 sysadm   wheel        6665 May 13  1994 bigfloat.pl
+-rw-r--r--   1 sysadm   wheel        7575 May 13  1994 bigint.pl
+-rw-r--r--   1 sysadm   wheel        4206 May 13  1994 bigrat.pl
+-rw-r--r--   1 sysadm   wheel         785 May 13  1994 cacheout.pl
+-rw-r--r--   1 sysadm   wheel        8692 May 13  1994 chat2.pl
+-rw-r--r--   1 sysadm   wheel        2855 May 13  1994 complete.pl
+-rw-r--r--   1 sysadm   wheel        1733 May 13  1994 ctime.pl
+-rw-r--r--   1 sysadm   wheel         820 May 13  1994 dumpvar.pl
+-rw-r--r--   1 sysadm   wheel        1500 May 13  1994 exceptions.pl
+-rw-r--r--   1 sysadm   wheel         754 May 13  1994 fastcwd.pl
+-rw-r--r--   1 sysadm   wheel        2395 May 13  1994 find.pl
+-rw-r--r--   1 sysadm   wheel        2393 May 13  1994 finddepth.pl
+-rw-r--r--   1 sysadm   wheel         368 May 13  1994 flush.pl
+-rw-r--r--   1 sysadm   wheel        1133 May 13  1994 getcwd.pl
+-rw-r--r--   1 sysadm   wheel        1046 May 13  1994 getopt.pl
+-rw-r--r--   1 sysadm   wheel         955 May 13  1994 getopts.pl
+-rw-r--r--   1 sysadm   wheel         347 May 13  1994 importenv.pl
+-rw-r--r--   1 sysadm   wheel        1024 May 13  1994 look.pl
+-rw-r--r--   1 sysadm   wheel        7685 May 13  1994 newgetopt.pl
+-rw-r--r--   1 sysadm   wheel        1549 May 13  1994 open2.pl
+-rw-r--r--   1 sysadm   wheel       16281 May 13  1994 perldb.pl
+-rw-r--r--   1 sysadm   wheel        1488 May 13  1994 pwd.pl
+-rw-r--r--   1 sysadm   wheel         888 May 13  1994 shellwords.pl
+-rw-r--r--   1 sysadm   wheel         650 May 13  1994 stat.pl
+-rw-r--r--   1 sysadm   wheel        5996 May 13  1994 syslog.pl
+-rw-r--r--   1 sysadm   wheel        3653 May 13  1994 termcap.pl
+-rw-r--r--   1 sysadm   wheel        2581 May 13  1994 timelocal.pl
+-rw-r--r--   1 sysadm   wheel        3795 May 13  1994 validate.pl
+
+gnu-udo/man:
+total 11
+drwxr-xr-x   2 sysadm   wheel        3072 Nov  9  1994 GNU
+-rw-r--r--   1 sysadm   wheel        7181 Nov  9  1994 gnu.index
+
+gnu-udo/man/GNU:
+total 2057
+-rw-r--r--   1 sysadm   wheel        7255 Jun 13  1994 a2p
+-rw-r--r--   1 sysadm   wheel        2997 Jun 13  1994 addftinfo
+-rw-r--r--   1 sysadm   wheel        7168 Jun 13  1994 afmtodit
+-rw-r--r--   1 sysadm   wheel       12237 Jun 13  1994 ar
+-rw-r--r--   1 sysadm   wheel        7708 Jun 13  1994 as
+-rw-r--r--   1 sysadm   wheel        1042 Jun 13  1994 basename
+-rw-r--r--   1 sysadm   wheel      175144 Jun 13  1994 bash
+-rw-r--r--   1 sysadm   wheel       42374 Jun 13  1994 bc
+-rw-r--r--   1 sysadm   wheel        7721 Jun 13  1994 bison
+-rw-r--r--   1 sysadm   wheel        4103 Jun 13  1994 c++filt
+-rw-r--r--   1 sysadm   wheel        2048 Jun 13  1994 cat
+-rw-r--r--   1 sysadm   wheel       19723 Sep  1  1994 cccp
+-rw-r--r--   1 sysadm   wheel        1496 Jun 13  1994 chgrp
+-rw-r--r--   1 sysadm   wheel        4305 Jun 13  1994 chmod
+-rw-r--r--   1 sysadm   wheel        2281 Jun 13  1994 chown
+-rw-r--r--   1 sysadm   wheel        1446 Jun 13  1994 cksum
+-rw-r--r--   1 sysadm   wheel        1267 Jun 13  1994 comm
+-rw-r--r--   1 sysadm   wheel        5345 Jun 13  1994 configure
+-rw-r--r--   1 sysadm   wheel        6350 Jun 13  1994 cp
+-rw-r--r--   1 sysadm   wheel       15518 Jun 13  1994 cpio
+-rw-r--r--   1 sysadm   wheel        6918 Jun 13  1994 csplit
+-rw-r--r--   1 sysadm   wheel        3138 Jun 13  1994 cut
+-rw-r--r--   1 sysadm   wheel        4555 Jun 13  1994 date
+-rw-r--r--   1 sysadm   wheel        3878 Jun 13  1994 dd
+-rw-r--r--   1 sysadm   wheel        4138 Jun 13  1994 df
+-rw-r--r--   1 sysadm   wheel         926 Jun 13  1994 dirname
+-rw-r--r--   1 sysadm   wheel        3589 Jun 13  1994 du
+-rw-r--r--   1 sysadm   wheel        1728 Jun 13  1994 echo
+-rw-r--r--   1 sysadm   wheel       19199 Jun 13  1994 emacs
+-rw-r--r--   1 sysadm   wheel        1971 Jun 13  1994 env
+-rw-r--r--   1 sysadm   wheel        2085 Jun 13  1994 expand
+-rw-r--r--   1 sysadm   wheel        5080 Jun 13  1994 expr
+-rw-r--r--   1 sysadm   wheel        1070 Jun 13  1994 false
+-rw-r--r--   1 sysadm   wheel       21268 Jun 13  1994 find
+-rw-r--r--   1 sysadm   wheel       38141 Jun 13  1994 flex
+-rw-r--r--   1 sysadm   wheel      110267 Jun 13  1994 flexdoc
+-rw-r--r--   1 sysadm   wheel        1971 Jun 13  1994 fold
+-rw-r--r--   1 sysadm   wheel       26950 Sep  1  1994 g++
+-rw-r--r--   1 sysadm   wheel       57841 Jun 13  1994 gawk
+-rw-r--r--   1 sysadm   wheel      149399 Sep  1  1994 gcc
+-rw-r--r--   1 sysadm   wheel       10156 Jun 13  1994 gdb
+-rw-r--r--   1 sysadm   wheel       20387 Nov  9  1994 gdbm
+-rw-r--r--   1 sysadm   wheel       32003 Jun 13  1994 geqn
+-rw-r--r--   1 sysadm   wheel       60411 Jun 13  1994 ghostview
+-rw-r--r--   1 sysadm   wheel        4646 Jun 13  1994 gindxbib
+-rw-r--r--   1 sysadm   wheel        1633 Jun 13  1994 glookbib
+-rw-r--r--   1 sysadm   wheel        1026 Jun 13  1994 gnroff
+-rw-r--r--   1 sysadm   wheel       15503 Jun 13  1994 gnuchess
+-rw-r--r--   1 sysadm   wheel        1085 Jun 13  1994 gperf
+-rw-r--r--   1 sysadm   wheel       20716 Jun 13  1994 gpic
+-rw-r--r--   1 sysadm   wheel        8810 Jun 13  1994 gprof
+-rw-r--r--   1 sysadm   wheel       44374 Jun 13  1994 grefer
+-rw-r--r--   1 sysadm   wheel       10965 Jun 13  1994 grep
+-rw-r--r--   1 sysadm   wheel        4982 Jun 13  1994 grodvi
+-rw-r--r--   1 sysadm   wheel        8507 Jun 13  1994 groff
+-rw-r--r--   1 sysadm   wheel       24924 Jun 13  1994 groff_char
+-rw-r--r--   1 sysadm   wheel       10924 Jun 13  1994 groff_font
+-rw-r--r--   1 sysadm   wheel        6903 Jun 13  1994 groff_me
+-rw-r--r--   1 sysadm   wheel       27573 Jun 13  1994 groff_mm
+-rw-r--r--   1 sysadm   wheel        1242 Jun 13  1994 groff_mmse
+-rw-r--r--   1 sysadm   wheel        6442 Jun 13  1994 groff_ms
+-rw-r--r--   1 sysadm   wheel        7610 Jun 13  1994 groff_out
+-rw-r--r--   1 sysadm   wheel        1397 Jun 13  1994 grog
+-rw-r--r--   1 sysadm   wheel       22273 Jun 13  1994 grops
+-rw-r--r--   1 sysadm   wheel        5308 Jun 13  1994 grotty
+-rw-r--r--   1 sysadm   wheel        1216 Jun 13  1994 groups
+-rw-r--r--   1 sysadm   wheel       14090 Jun 13  1994 gs
+-rw-r--r--   1 sysadm   wheel         945 Jun 13  1994 gsoelim
+-rw-r--r--   1 sysadm   wheel        4009 Jun 13  1994 gtbl
+-rw-r--r--   1 sysadm   wheel       61679 Jun 13  1994 gtroff
+-rw-r--r--   1 sysadm   wheel        1789 Jun 13  1994 gzexe
+-rw-r--r--   1 sysadm   wheel       19161 Jun 13  1994 gzip
+-rw-r--r--   1 sysadm   wheel        1991 Jun 13  1994 head
+-rw-r--r--   1 sysadm   wheel        1883 Jun 13  1994 id
+-rw-r--r--   1 sysadm   wheel       36477 Jun 13  1994 indent
+-rw-r--r--   1 sysadm   wheel        7058 Jun 13  1994 info
+-rw-r--r--   1 sysadm   wheel        3211 Jun 13  1994 install
+-rw-r--r--   1 sysadm   wheel        3779 Jun 13  1994 ispell
+-rw-r--r--   1 sysadm   wheel        3800 Jun 13  1994 join
+-rw-r--r--   1 sysadm   wheel       24320 Jun 13  1994 ld
+-rw-r--r--   1 sysadm   wheel       55572 Dec  8  1994 less
+-rw-r--r--   1 sysadm   wheel        8404 Dec  8  1994 lesskey
+-rw-r--r--   1 sysadm   wheel        2100 Jun 13  1994 lkbib
+-rw-r--r--   1 sysadm   wheel        4159 Jun 13  1994 ln
+-rw-r--r--   1 sysadm   wheel        2344 Jun 13  1994 locate
+-rw-r--r--   1 sysadm   wheel        1006 Jun 13  1994 logname
+-rw-r--r--   1 sysadm   wheel       10114 Jun 13  1994 ls
+-rw-r--r--   1 sysadm   wheel       10261 Jun 13  1994 make
+-rw-r--r--   1 sysadm   wheel        1473 Jun 13  1994 mkdir
+-rw-r--r--   1 sysadm   wheel        1114 Jun 13  1994 mkfifo
+-rw-r--r--   1 sysadm   wheel        1570 Jun 13  1994 mknod
+-rw-r--r--   1 sysadm   wheel        4265 Jun 13  1994 mv
+-rw-r--r--   1 sysadm   wheel        6027 Jun 13  1994 nl
+-rw-r--r--   1 sysadm   wheel        6570 Jun 13  1994 nm
+-rw-r--r--   1 sysadm   wheel        6180 Jun 13  1994 objcopy
+-rw-r--r--   1 sysadm   wheel        8590 Jun 13  1994 objdump
+-rw-r--r--   1 sysadm   wheel        8079 Jun 13  1994 od
+-rw-r--r--   1 sysadm   wheel        1480 Jun 13  1994 paste
+-rw-r--r--   1 sysadm   wheel       22019 Jun 13  1994 patch
+-rw-r--r--   1 sysadm   wheel        1663 Jun 13  1994 pathchk
+-rw-r--r--   1 sysadm   wheel      265026 Jun 13  1994 perl
+-rw-r--r--   1 sysadm   wheel        1056 Jun 13  1994 pfbtops
+-rw-r--r--   1 sysadm   wheel        5190 Jun 13  1994 pr
+-rw-r--r--   1 sysadm   wheel        1127 Jun 13  1994 printenv
+-rw-r--r--   1 sysadm   wheel        1650 Jun 13  1994 printf
+-rw-r--r--   1 sysadm   wheel         881 Jun 13  1994 psbb
+-rw-r--r--   1 sysadm   wheel        2260 Jun 13  1994 ranlib
+-rw-r--r--   1 sysadm   wheel        2786 Jun 13  1994 rm
+-rw-r--r--   1 sysadm   wheel        1096 Jun 13  1994 rmdir
+-rw-r--r--   1 sysadm   wheel        2212 Jun 13  1994 s2p
+-rw-r--r--   1 sysadm   wheel      111778 Jun 13  1994 screen
+-rw-r--r--   1 sysadm   wheel        4093 Jun 13  1994 size
+-rw-r--r--   1 sysadm   wheel        1024 Jun 13  1994 sleep
+-rw-r--r--   1 sysadm   wheel        9697 Jun 13  1994 sort
+-rw-r--r--   1 sysadm   wheel        3091 Jun 13  1994 split
+-rw-r--r--   1 sysadm   wheel        4244 Jun 13  1994 strings
+-rw-r--r--   1 sysadm   wheel        4520 Jun 13  1994 strip
+-rw-r--r--   1 sysadm   wheel       12100 Jun 13  1994 stty
+-rw-r--r--   1 sysadm   wheel        4695 Jun 13  1994 su
+-rw-r--r--   1 sysadm   wheel        1869 Jun 13  1994 sum
+-rw-r--r--   1 sysadm   wheel        1561 Jun 13  1994 tac
+-rw-r--r--   1 sysadm   wheel        3361 Jun 13  1994 tail
+-rw-r--r--   1 sysadm   wheel        1370 Jun 13  1994 tee
+-rw-r--r--   1 sysadm   wheel        4930 Jun 13  1994 test
+-rw-r--r--   1 sysadm   wheel        4780 Jun 13  1994 tfmtodit
+-rw-r--r--   1 sysadm   wheel        3056 Jun 13  1994 touch
+-rw-r--r--   1 sysadm   wheel       11088 Jun 13  1994 tr
+-rw-r--r--   1 sysadm   wheel        1127 Jun 13  1994 true
+-rw-r--r--   1 sysadm   wheel        1177 Jun 13  1994 tty
+-rw-r--r--   1 sysadm   wheel        1638 Jun 13  1994 uname
+-rw-r--r--   1 sysadm   wheel        2225 Jun 13  1994 unexpand
+-rw-r--r--   1 sysadm   wheel        3431 Jun 13  1994 uniq
+-rw-r--r--   1 sysadm   wheel        1831 Jun 13  1994 wc
+-rw-r--r--   1 sysadm   wheel        2795 Jun 13  1994 who
+-rw-r--r--   1 sysadm   wheel         877 Jun 13  1994 whoami
+-rw-r--r--   1 sysadm   wheel        5835 Jun 13  1994 xargs
+-rw-r--r--   1 sysadm   wheel        1054 Jun 13  1994 yes
+-rw-r--r--   1 sysadm   wheel        1195 Jun 13  1994 zdiff
+-rw-r--r--   1 sysadm   wheel         912 Jun 13  1994 zforce
+-rw-r--r--   1 sysadm   wheel        1409 Jun 13  1994 zgrep
+-rw-r--r--   1 sysadm   wheel        5610 Jun 13  1994 zmore
+-rw-r--r--   1 sysadm   wheel        1454 Jun 13  1994 znew
+
+gnu-udo/src:
+total 27791
+-rw-r--r--   1 sysadm   wheel      950178 Oct  9 13:37 bash1.13.5.tgz
+-rw-r--r--   1 sysadm   wheel       80867 Oct  9 13:35 bc-1.02.tgz
+-rw-r--r--   1 sysadm   wheel     1871023 Oct  9 13:35 binut-2.4.tgz
+-rw-r--r--   1 sysadm   wheel      261028 Oct  9 13:31 bison-1.22.tgz
+-rw-r--r--   1 sysadm   wheel      702888 Oct  9 13:06 chess-4.0.tgz
+-rw-r--r--   1 sysadm   wheel      116449 Oct  9 13:30 cpio-2.3.tgz
+-rw-r--r--   1 sysadm   wheel       74156 Oct  9 13:30 dc-0.2.tgz
+-rw-r--r--   1 sysadm   wheel      298124 Oct  9 13:30 diffut-2.6.tgz
+-rw-r--r--   1 sysadm   wheel      265488 Oct  9 13:29 elvis1.8.4.tgz
+-rw-r--r--   1 sysadm   wheel     3128941 Oct  9 13:28 emacs18.59.tgz
+-rw-r--r--   1 sysadm   wheel      364278 Oct  9 13:24 f2c-930428.tgz
+-rw-r--r--   1 sysadm   wheel       18589 Oct  9 13:23 fgrep-1.1.tgz
+-rw-r--r--   1 sysadm   wheel      195514 Oct  9 13:22 fileut-3.9.tgz
+-rw-r--r--   1 sysadm   wheel      157860 Oct  9 13:21 find-3.8.tgz
+-rw-r--r--   1 sysadm   wheel      307955 Oct  9 13:21 flex-2.4.3.tgz
+-rw-r--r--   1 sysadm   wheel     1923368 Oct  9 13:20 gas-2.2.tgz
+-rw-r--r--   1 sysadm   wheel      482328 Oct  9 13:18 gawk2.15.3.tgz
+-rw-r--r--   1 sysadm   wheel     6024622 Oct  9 13:16 gcc-2.5.8.tgz
+-rw-r--r--   1 sysadm   wheel     3019170 Oct  9 13:10 gdb-4.9.tgz
+-rw-r--r--   1 sysadm   wheel       88281 Oct  9 13:07 gdbm-1.7.3.tgz
+-rw-r--r--   1 sysadm   wheel      137986 Oct  9 13:06 ghostv-1.4.tgz
+-rw-r--r--   1 sysadm   wheel      129529 Oct  9 13:05 grep-2.0.tgz
+-rw-r--r--   1 sysadm   wheel      833186 Oct  9 13:05 groff-1.08.tgz
+-rw-r--r--   1 sysadm   wheel      991058 Oct  9 13:03 gs261.tgz
+-rw-r--r--   1 sysadm   wheel      227083 Oct  9 13:02 gzip-1.2.4.tgz
+-rw-r--r--   1 sysadm   wheel      150332 Oct  9 13:02 indent-1.8.tgz
+-rw-r--r--   1 sysadm   wheel      191510 Oct  9 13:01 ispell-4.0.tgz
+-rw-r--r--   1 sysadm   wheel      159462 Oct  9 13:01 less-252.tgz
+-rw-r--r--   1 sysadm   wheel     1532196 Oct  9 12:59 libg++253.tgz
+-rw-r--r--   1 sysadm   wheel      265976 Oct  9 12:57 m4-1.1.tgz
+-rw-r--r--   1 sysadm   wheel      438255 Oct  9 12:57 make-3.70.tgz
+-rw-r--r--   1 sysadm   wheel       40113 Oct  9 12:56 mtools207.tgz
+-rw-r--r--   1 sysadm   wheel      361022 Oct  9 12:56 p2c-1.20.tgz
+-rw-r--r--   1 sysadm   wheel       74839 Oct  9 12:55 patch-2.1.tgz
+-rw-r--r--   1 sysadm   wheel      766062 Oct  9 12:55 perl-4.036.tgz
+drwxr-xr-x   4 sysadm   wheel        1024 Dec  5  1993 regex-0.12
+-rw-r--r--   1 sysadm   wheel      274139 Oct  9 12:53 scre-3.5.2.tgz
+-rw-r--r--   1 sysadm   wheel      117225 Oct  9 12:53 sed-2.03.tgz
+-rw-r--r--   1 sysadm   wheel      192065 Oct  9 12:51 shutil-1.9.tgz
+-rw-r--r--   1 sysadm   wheel      214497 Oct  9 12:50 tar-1.11.2.tgz
+-rw-r--r--   1 sysadm   wheel      533425 Oct  9 12:49 texinf-3.1.tgz
+-rw-r--r--   1 sysadm   wheel      255391 Oct  9 12:48 textut-1.9.tgz
+-rw-r--r--   1 sysadm   wheel       40167 Oct  9 12:47 tput-1.0.tgz
+-rw-r--r--   1 sysadm   wheel       30931 Oct  9 12:46 xinfo-1.01.tgz
+
+gnu-udo/src/regex-0.12:
+total 400
+-r--r--r--   1 sysadm   wheel         408 Sep 20  1992 AUTHORS
+-r--r--r--   1 sysadm   wheel       17982 Jun  2  1991 COPYING
+-r--r--r--   1 sysadm   wheel      139627 Apr  3  1993 ChangeLog
+-r--r--r--   1 sysadm   wheel        5733 Jan 22  1993 INSTALL
+-rw-r--r--   1 sysadm   wheel        2930 Dec  5  1993 Makefile
+-r--r--r--   1 sysadm   wheel        2874 Apr  3  1993 Makefile.in
+-r--r--r--   1 sysadm   wheel        2024 Apr  3  1993 NEWS
+-r--r--r--   1 sysadm   wheel        2271 Nov 21  1992 README
+-rwxr-xr-x   1 sysadm   wheel        1572 Dec  5  1993 config.status
+-rwxr-xr-x   1 sysadm   wheel       12190 Feb  8  1993 configure
+-r--r--r--   1 sysadm   wheel         439 Jan 14  1993 configure.in
+drwxr-xr-x   2 sysadm   wheel        1024 Dec  5  1993 doc
+-r--r--r--   1 sysadm   wheel      161730 Apr  3  1993 regex.c
+-r--r--r--   1 sysadm   wheel       18702 Apr  3  1993 regex.h
+-rw-r--r--   1 sysadm   wheel       28466 Dec  5  1993 regex.o
+drwxr-xr-x   2 sysadm   wheel        1024 Dec  5  1993 test
+
+gnu-udo/src/regex-0.12/doc:
+total 495
+-rw-r--r--   1 sysadm   wheel        2469 Dec  5  1993 Makefile
+-r--r--r--   1 sysadm   wheel        2447 Nov 21  1992 Makefile.in
+-r--r--r--   1 sysadm   wheel         645 Sep 20  1992 include.awk
+-r--r--r--   1 sysadm   wheel        6096 Apr  3  1993 regex.aux
+-r--r--r--   1 sysadm   wheel        5783 Apr  3  1993 regex.cps
+-r--r--r--   1 sysadm   wheel      119268 Apr  3  1993 regex.info
+-r--r--r--   1 sysadm   wheel      119680 Apr  3  1993 regex.texi
+-r--r--r--   1 sysadm   wheel      128926 Mar 23  1993 texinfo.tex
+-r--r--r--   1 sysadm   wheel      114026 Apr  3  1993 xregex.texi
+
+gnu-udo/src/regex-0.12/test:
+total 288
+-r--r--r--   1 sysadm   wheel        2481 Apr  2  1993 ChangeLog
+-rw-r--r--   1 sysadm   wheel        4740 Dec  5  1993 Makefile
+-r--r--r--   1 sysadm   wheel        4708 Dec 12  1992 Makefile.in
+-r--r--r--   1 sysadm   wheel        9586 Apr  3  1993 TAGS
+-r--r--r--   1 sysadm   wheel        5327 Jul  3  1992 alloca.c
+-r--r--r--   1 sysadm   wheel         824 Sep 16  1992 bsd-interf.c
+-r--r--r--   1 sysadm   wheel        5863 Apr  2  1993 debugmalloc.c
+-r--r--r--   1 sysadm   wheel       21379 Jun  2  1992 emacsmalloc.c
+-r--r--r--   1 sysadm   wheel        1662 Sep 20  1992 fileregex.c
+-r--r--r--   1 sysadm   wheel       34715 Dec  3  1991 g++malloc.c
+-r--r--r--   1 sysadm   wheel         416 Aug  9  1991 getpagesize.h
+-r--r--r--   1 sysadm   wheel        3164 Apr  2  1993 iregex.c
+-r--r--r--   1 sysadm   wheel         819 Jun 28  1992 main.c
+-r--r--r--   1 sysadm   wheel         929 Nov 10  1991 malloc-test.c
+-r--r--r--   1 sysadm   wheel       19577 Sep 16  1992 other.c
+-r--r--r--   1 sysadm   wheel         229 Jun 28  1992 printchar.c
+-r--r--r--   1 sysadm   wheel        9063 Sep  8  1992 psx-basic.c
+-r--r--r--   1 sysadm   wheel       42094 Sep 13  1992 psx-extend.c
+-r--r--r--   1 sysadm   wheel       11301 Jun 28  1992 psx-generic.c
+-r--r--r--   1 sysadm   wheel       19112 Jan  4  1992 psx-group.c
+-r--r--r--   1 sysadm   wheel       18939 Nov 21  1992 psx-interf.c
+-r--r--r--   1 sysadm   wheel        6310 Jun 28  1992 psx-interv.c
+-r--r--r--   1 sysadm   wheel          69 Mar  5  1992 regexcpp.sed
+-r--r--r--   1 sysadm   wheel        1585 Sep  8  1992 syntax.skel
+-r--r--r--   1 sysadm   wheel       22359 Sep  8  1992 test.c
+-r--r--r--   1 sysadm   wheel        4210 Jun 28  1992 test.h
+-r--r--r--   1 sysadm   wheel       18247 Dec 14  1992 tregress.c
+-r--r--r--   1 sysadm   wheel        1712 Jun 28  1992 upcase.c
+-r--r--r--   1 sysadm   wheel         303 Sep 16  1992 xmalloc.c
+
+gnu-udo/test:
+total 1
+drwxr-xr-x   4 sysadm   wheel        1024 Oct  9 13:57 obj-c
+
+gnu-udo/test/obj-c:
+total 2
+drwxr-xr-x   2 sysadm   wheel        1024 Oct  9 13:57 string
+drwxr-xr-x   2 sysadm   wheel        1024 Oct  9 13:54 testsuite
+
+gnu-udo/test/obj-c/string:
+total 4
+-rw-r--r--   1 sysadm   wheel         215 Oct  8 23:49 Makefile
+-rw-r--r--   1 sysadm   wheel         209 Oct  7 20:46 String.h
+-rw-r--r--   1 sysadm   wheel         606 Oct  7 20:46 String.m
+-rw-r--r--   1 sysadm   wheel         139 Oct  7 20:53 test.m
+
+gnu-udo/test/obj-c/testsuite:
+total 32
+-rw-r--r--   1 sysadm   wheel        1231 Feb  3  1994 Makefile
+-rw-r--r--   1 sysadm   wheel         321 Apr 10  1993 README
+-rw-r--r--   1 sysadm   wheel          79 Sep 27  1994 archtest.data
+-rw-r--r--   1 sysadm   wheel        1487 Apr 26  1993 archtest.m
+-rw-r--r--   1 sysadm   wheel         214 Apr 13  1993 category.m
+-rw-r--r--   1 sysadm   wheel         697 May  6  1993 conformsto.m
+-rw-r--r--   1 sysadm   wheel        1072 Apr 10  1993 forward.m
+-rw-r--r--   1 sysadm   wheel         403 May  6  1993 hello-test.m
+-rw-r--r--   1 sysadm   wheel         467 May  6  1993 initialize.m
+-rw-r--r--   1 sysadm   wheel         368 Apr 10  1993 proto.m
+-rw-r--r--   1 sysadm   wheel         567 May  5  1993 protowarn.m
+-rw-r--r--   1 sysadm   wheel        2965 Apr 10  1993 richards.h
+-rw-r--r--   1 sysadm   wheel       14141 Apr 10  1993 richards.m
+
+mwcbbs:
+total 1632
+-rw-r--r--   1 sysadm   wheel       20703 Jan 13 14:01 00INDEX
+drwxr-xr-x  63 sysadm   wheel        2048 Jan 11 23:54 386
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 16:35 acronym
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:00 adf
+-r--r--r--   1 sysadm   wheel        3133 Sep 10 15:54 admshot.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:01 advent
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:02 afio
+-r--r--r--   1 sysadm   wheel        2283 Sep 10 15:54 alarm.tar.Z
+-r--r--r--   1 sysadm   wheel       17113 Sep 10 15:54 almanac.tar.Z
+-r--r--r--   1 sysadm   wheel       21096 Sep 10 15:54 arcwtmp.tar.Z
+-r--r--r--   1 sysadm   wheel       17971 Sep 10 15:54 banner.c.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:05 basic
+-r--r--r--   1 sysadm   wheel       34198 Sep 10 15:54 battle.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:07 bbs
+-r--r--r--   1 sysadm   wheel        1644 Sep 10 15:54 beuucp.c.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:09 bgmn
+-r--r--r--   1 sysadm   wheel        1369 Sep 10 15:54 bkup2.Z
+-r--r--r--   1 sysadm   wheel       30494 Sep 10 15:54 booz.tar.Z
+-r--r--r--   1 sysadm   wheel       48963 Sep 10 15:54 browser.tar.Z
+-r--r--r--   1 sysadm   wheel       24826 Sep 10 15:54 bsnews.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:12 cards
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:13 castle
+-r--r--r--   1 sysadm   wheel        4340 Sep 10 15:54 cdiff.tar.Z
+-r--r--r--   1 sysadm   wheel       46886 Sep 10 15:54 cee.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:14 chess
+-r--r--r--   1 sysadm   wheel        3206 Sep 10 15:54 choose.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:24 ckermit
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:27 clam141
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:28 clambin
+-r--r--r--   1 sysadm   wheel       28560 Sep 10 15:54 clife.tar.Z
+-r--r--r--   1 sysadm   wheel       18870 Sep 10 15:54 clock.tar.Z
+-r--r--r--   1 sysadm   wheel       16860 Sep 10 15:54 cls.tar.Z
+-r--r--r--   1 sysadm   wheel       35387 Sep 10 15:54 cmenu.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:37 cnews
+-r--r--r--   1 sysadm   wheel      105169 Sep 10 15:54 cohnews.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:38 comb
+-r--r--r--   1 sysadm   wheel       43198 Sep 10 15:54 comb4.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:40 cproto
+-r--r--r--   1 sysadm   wheel       34436 Sep 10 15:54 cu.tar.Z
+-r--r--r--   1 sysadm   wheel       15983 Sep 10 15:54 cursive.sh.Z
+-r--r--r--   1 sysadm   wheel       14594 Sep 10 15:54 cut.sh.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:47 dash
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:48 deliver
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 17:50 des
+-r--r--r--   1 sysadm   wheel        3715 Sep 10 15:54 dj500.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:00 dmake
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:02 dos
+-r--r--r--   1 sysadm   wheel         995 Sep 10 15:54 dowk.c.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:04 dte
+-r--r--r--   1 sysadm   wheel       19668 Sep 10 15:54 dtree.tar.Z
+-r--r--r--   1 sysadm   wheel         924 Sep 10 15:54 dumpscreen.c.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:10 elle
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:14 elvis
+-r--r--r--   1 sysadm   wheel       12816 Sep 10 15:54 emacs.tar.Z
+-r--r--r--   1 sysadm   wheel       49538 Sep 10 15:54 ff.tar.Z
+-r--r--r--   1 sysadm   wheel       29922 Sep 10 15:54 finger.tar.Z
+-r--r--r--   1 sysadm   wheel       13360 Sep 10 15:54 focal.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:16 forth
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:20 fortunes
+-r--r--r--   1 sysadm   wheel       32708 Sep 10 15:54 gnews.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:21 gnugo
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:24 gnutar
+-r--r--r--   1 sysadm   wheel       32322 Sep 10 15:54 gomoku.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:25 hex
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:27 hotel
+-r--r--r--   1 sysadm   wheel        4021 Sep 10 15:54 howdy.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:28 kernel
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:29 lander
+-r--r--r--   1 sysadm   wheel       58408 Sep 10 15:54 lander.tar.Z
+-r--r--r--   1 sysadm   wheel        3223 Sep 10 15:54 laser.c.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:32 less2
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:33 lharc
+-r--r--r--   1 sysadm   wheel       27564 Sep 10 15:54 libndir.tar.Z
+-r--r--r--   1 sysadm   wheel        7066 Sep 10 15:54 llesh.c.Z
+-r--r--r--   1 sysadm   wheel       12182 Sep 10 15:54 lock.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:34 lotto
+-r--r--r--   1 sysadm   wheel       22146 Sep 10 15:54 ltr.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:35 make
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:36 maze
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:37 mc
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:39 mcomm
+-r--r--r--   1 sysadm   wheel       13200 Sep 10 15:54 mdf.tar.Z
+-r--r--r--   1 sysadm   wheel        8947 Sep 10 15:54 menu.tar.Z
+-r--r--r--   1 sysadm   wheel       14965 Sep 10 15:54 menu2.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:40 miles
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:41 minicom
+-r--r--r--   1 sysadm   wheel        2461 Sep 10 15:54 minimenu.tar.Z
+-r--r--r--   1 sysadm   wheel       29696 Sep 10 15:54 mo.tar
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:42 month
+-r--r--r--   1 sysadm   wheel       33785 Sep 10 15:54 mtalk.tar.Z
+-r--r--r--   1 sysadm   wheel       13465 Sep 10 15:54 mterm.c.Z
+-r--r--r--   1 sysadm   wheel        3257 Sep 10 15:54 mwdl.tar.Z
+-r--r--r--   1 sysadm   wheel       48604 Sep 10 15:54 mycalc.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:52 news
+-r--r--r--   1 sysadm   wheel       44056 Sep 10 15:54 ogre.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:55 origami
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:57 othello
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 18:58 patch
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:00 path
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:01 pclist
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:02 pcmail
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:07 pcmlsrc
+-r--r--r--   1 sysadm   wheel       26873 Sep 10 15:54 postcrpt.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:10 prolog
+-r--r--r--   1 sysadm   wheel        2383 Sep 10 15:54 qq.c.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:14 quebbs
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:22 rcs
+-r--r--r--   1 sysadm   wheel       26896 Sep 10 15:54 reap.tar.Z
+-r--r--r--   1 sysadm   wheel       17462 Sep 10 15:54 retab.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:27 rn
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:30 rogue
+-r--r--r--   1 sysadm   wheel       14737 Sep 10 15:54 romfngr.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:32 sc
+-r--r--r--   1 sysadm   wheel        3044 Sep 10 15:54 screen.tar.Z
+-r--r--r--   1 sysadm   wheel        4435 Sep 10 15:54 scripts.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:33 sdbm
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:35 shar
+-r--r--r--   1 sysadm   wheel        1928 Sep 10 15:54 shells.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:37 smail
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:38 smiley
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:38 sokoban
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:39 tass
+-r--r--r--   1 sysadm   wheel       21201 Sep 10 15:54 tassgn.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:40 tetris
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:44 toolbox
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:46 trek
+-r--r--r--   1 sysadm   wheel       21306 Sep 10 15:54 tset.tar.Z
+-r--r--r--   1 sysadm   wheel        6920 Sep 10 15:54 twoup.tar.Z
+-r--r--r--   1 sysadm   wheel       40995 Sep 10 15:54 umodem.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:47 unzip
+-r--r--r--   1 sysadm   wheel         828 Sep 10 15:54 uptime.c.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:52 utree
+-r--r--r--   1 sysadm   wheel       42931 Sep 10 15:54 uustat1.shar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:54 vn
+-r--r--r--   1 sysadm   wheel       27582 Sep 10 15:54 vtree.tar.Z
+-r--r--r--   1 sysadm   wheel        1245 Sep 10 15:54 which.tar.Z
+-r--r--r--   1 sysadm   wheel         481 Sep 10 15:54 whodo.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:57 window
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 19:59 wish
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 20:01 wmail
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 20:03 wnews
+-r--r--r--   1 sysadm   wheel        2000 Sep 10 15:54 xargs.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 20:05 xcmalt
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 20:07 xlisp
+-r--r--r--   1 sysadm   wheel       37747 Sep 10 15:54 xo.tar.Z
+-r--r--r--   1 sysadm   wheel       34031 Sep 10 15:54 xtalk.tar.Z
+-r--r--r--   1 sysadm   wheel        4328 Sep 10 15:54 xuucp.tar.Z
+-r--r--r--   1 sysadm   wheel        4120 Sep 10 15:54 xxu.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 20:09 yawl
+-r--r--r--   1 sysadm   wheel       28468 Sep 10 15:54 zman.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 20:11 zmodem
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 10 20:14 zoo
+
+mwcbbs/386:
+total 827
+-r--r--r--   1 sysadm   wheel        2209 Sep 10 15:59 40bootdsk.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 15:55 ae
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 15:56 arc
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 15:58 basic
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:05 bbs
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:18 bison119
+-r--r--r--   1 sysadm   wheel        5447 Sep 10 15:59 bm.tar.Z
+-r--r--r--   1 sysadm   wheel       33523 Sep 10 16:00 bsterm.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:19 byacc
+-r--r--r--   1 sysadm   wheel       94552 Sep 10 16:01 cawf.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:21 dink
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:24 dte
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:28 dungeon
+-r--r--r--   1 sysadm   wheel       96351 Sep 10 16:04 ee.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:37 elm
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:49 elm42
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 16:52 empire
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:00 f2c
+-r--r--r--   1 sysadm   wheel       11960 Sep 10 15:58 fcp.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:03 fm
+-r--r--r--   1 sysadm   wheel       52759 Sep 10 15:59 freeze.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:07 graphica
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:11 grep
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:21 gzip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:26 hack
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:28 ice
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:29 indent
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:31 infocomp
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:42 jove
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:50 k5jb
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 17:59 kermit
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 18:07 kermit188
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 18:09 kit
+-r--r--r--   1 sysadm   wheel       35721 Sep 10 16:05 lander.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 18:13 larn
+-r--r--r--   1 sysadm   wheel        4455 Sep 10 15:59 last.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 18:15 less
+-r--r--r--   1 sysadm   wheel       64982 Sep 10 16:02 lharc.zip
+-r--r--r--   1 sysadm   wheel       34773 Sep 10 16:05 login.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 18:40 mgr
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 18:56 nhack
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:03 nn
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:05 patch
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:06 pclist
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:11 rcs
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:16 rn
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:21 sc
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:26 screen
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:34 smail
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:43 ss
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 19:47 tar
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 20:09 tay104
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 20:22 tay104g
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 20:35 tcp
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 20:47 tcsh
+-r--r--r--   1 sysadm   wheel       32535 Sep 10 16:02 tex2roff.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 20:51 tin
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 20:56 tin118
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 21:01 tin119
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 21:07 tree
+-r--r--r--   1 sysadm   wheel       90963 Sep 10 16:06 tua.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 21:14 ue
+-r--r--r--   1 sysadm   wheel       34580 Sep 10 15:59 unarj.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 21:26 uucp
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 21:46 uucp104
+-r--r--r--   1 sysadm   wheel       23081 Sep 10 16:07 uutraf.zip
+-r--r--r--   1 sysadm   wheel       21668 Sep 10 16:03 vga.zip
+-r--r--r--   1 sysadm   wheel       39938 Sep 10 16:07 vgif.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 21:51 vi
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 21:54 wander
+-r--r--r--   1 sysadm   wheel       44280 Sep 10 15:58 wanderer.tar.Z
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 22:03 warp
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 22:07 world
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 22:09 xc
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 22:11 xc41
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 22:13 xscheme
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 22:17 zip
+-r--r--r--   1 sysadm   wheel       35585 Sep 10 16:03 zman.zip
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 22:21 zoo
+drwxr-xr-x   2 sysadm   wheel        1024 Sep 11 22:26 zork
+
+mwcbbs/386/ae:
+total 76
+-r--r--r--   1 sysadm   wheel       76433 Sep 11 15:55 ae.tar.Z
+
+mwcbbs/386/arc:
+total 77
+-r--r--r--   1 sysadm   wheel       77403 Sep 11 15:56 arc.tar.Z
+
+mwcbbs/386/basic:
+total 135
+-r--r--r--   1 sysadm   wheel      136195 Sep 11 15:58 basic.zip
+
+mwcbbs/386/bbs:
+total 359
+-r--r--r--   1 sysadm   wheel      364186 Sep 11 16:05 exp4.bbs.zip
+
+mwcbbs/386/bison119:
+total 319
+-r--r--r--   1 sysadm   wheel      322705 Sep 11 16:18 bison119.zip
+
+mwcbbs/386/byacc:
+total 99
+-r--r--r--   1 sysadm   wheel      100319 Sep 11 16:19 byacc.tar.Z
+
+mwcbbs/386/dink:
+total 173
+-r--r--r--   1 sysadm   wheel      175386 Sep 11 16:21 dink213.zip
+
+mwcbbs/386/dte:
+total 156
+-r--r--r--   1 sysadm   wheel      158292 Sep 11 16:24 dte.zip
+
+mwcbbs/386/dungeon:
+total 293
+-r--r--r--   1 sysadm   wheel      296949 Sep 11 16:28 dungeon.zip
+
+mwcbbs/386/elm:
+total 661
+-r--r--r--   1 sysadm   wheel      672266 Sep 11 16:37 elm.zip
+
+mwcbbs/386/elm42:
+total 913
+-r--r--r--   1 sysadm   wheel      929282 Sep 11 16:49 elm42.zip
+
+mwcbbs/386/empire:
+total 167
+-r--r--r--   1 sysadm   wheel      169496 Sep 11 16:52 empire.tar.Z
+
+mwcbbs/386/f2c:
+total 525
+-r--r--r--   1 sysadm   wheel      534471 Sep 11 17:00 f2c.zip
+
+mwcbbs/386/fm:
+total 180
+-r--r--r--   1 sysadm   wheel      182311 Sep 11 17:03 fmdemo.tar.Z
+
+mwcbbs/386/graphica:
+total 232
+-r--r--r--   1 sysadm   wheel      235890 Sep 11 17:07 graphica.zip
+
+mwcbbs/386/grep:
+total 232
+-r--r--r--   1 sysadm   wheel      235809 Sep 11 17:11 grep.tar.Z
+
+mwcbbs/386/gzip:
+total 298
+-r--r--r--   1 sysadm   wheel      301596 Sep 11 17:21 gzip.tar.Z
+
+mwcbbs/386/hack:
+total 347
+-r--r--r--   1 sysadm   wheel      351340 Sep 11 17:26 hack.zip
+
+mwcbbs/386/ice:
+total 122
+-r--r--r--   1 sysadm   wheel      123741 Sep 11 17:28 icedemo.tar.Z
+
+mwcbbs/386/indent:
+total 79
+-r--r--r--   1 sysadm   wheel       79317 Sep 11 17:29 indent.tar.Z
+
+mwcbbs/386/infocomp:
+total 133
+-r--r--r--   1 sysadm   wheel      134324 Sep 11 17:31 infocom.zip
+
+mwcbbs/386/jove:
+total 585
+-r--r--r--   1 sysadm   wheel      593949 Sep 11 17:42 jove.tar.Z
+
+mwcbbs/386/k5jb:
+total 567
+-r--r--r--   1 sysadm   wheel      576250 Sep 11 17:50 k5jb.zip
+
+mwcbbs/386/kermit:
+total 604
+-r--r--r--   1 sysadm   wheel      614348 Sep 11 17:59 ckermit.zip
+
+mwcbbs/386/kermit188:
+total 606
+-r--r--r--   1 sysadm   wheel      615841 Sep 11 18:07 ckermit188.zip
+
+mwcbbs/386/kit:
+total 167
+-r--r--r--   1 sysadm   wheel      169740 Sep 11 18:09 kit.zip
+
+mwcbbs/386/larn:
+total 275
+-r--r--r--   1 sysadm   wheel      278194 Sep 11 18:13 ularn.tar.Z
+
+mwcbbs/386/less:
+total 154
+-r--r--r--   1 sysadm   wheel      155843 Sep 11 18:15 less.zip
+
+mwcbbs/386/mgr:
+total 1769
+-r--r--r--   1 sysadm   wheel     1802966 Sep 11 18:40 mgr.zip
+
+mwcbbs/386/nhack:
+total 1129
+-r--r--r--   1 sysadm   wheel     1149550 Sep 11 18:56 nethack.zip
+
+mwcbbs/386/nn:
+total 563
+-r--r--r--   1 sysadm   wheel      571603 Sep 11 19:03 nn.tar.Z
+
+mwcbbs/386/patch:
+total 98
+-r--r--r--   1 sysadm   wheel       98547 Sep 11 19:05 patch201.zip
+
+mwcbbs/386/pclist:
+total 63
+-r--r--r--   1 sysadm   wheel       62711 Sep 11 19:06 pcl302.tar.Z
+
+mwcbbs/386/rcs:
+total 404
+-r--r--r--   1 sysadm   wheel      410385 Sep 11 19:11 rcs.zip
+
+mwcbbs/386/rn:
+total 352
+-r--r--r--   1 sysadm   wheel      357315 Sep 11 19:16 rn.zip
+
+mwcbbs/386/sc:
+total 331
+-r--r--r--   1 sysadm   wheel      335515 Sep 11 19:21 sc616.tar.Z
+
+mwcbbs/386/screen:
+total 385
+-r--r--r--   1 sysadm   wheel      390664 Sep 11 19:26 screen.tar.Z
+
+mwcbbs/386/smail:
+total 563
+-r--r--r--   1 sysadm   wheel      571523 Sep 11 19:34 smail3.zip
+
+mwcbbs/386/ss:
+total 345
+-r--r--r--   1 sysadm   wheel      349993 Sep 11 19:43 ss12b.zip
+
+mwcbbs/386/tar:
+total 320
+-r--r--r--   1 sysadm   wheel      323602 Sep 11 19:47 tar1112.zip
+
+mwcbbs/386/tay104:
+total 1462
+-r--r--r--   1 sysadm   wheel     1489161 Sep 11 20:09 tay104.tar.Z
+
+mwcbbs/386/tay104g:
+total 938
+-r--r--r--   1 sysadm   wheel      955264 Sep 11 20:22 taylor104g.zip
+
+mwcbbs/386/tcp:
+total 950
+-r--r--r--   1 sysadm   wheel      967168 Sep 11 20:35 ka9q.tar
+
+mwcbbs/386/tcsh:
+total 822
+-r--r--r--   1 sysadm   wheel      836499 Sep 11 20:47 tcsh.zip
+
+mwcbbs/386/tin:
+total 327
+-r--r--r--   1 sysadm   wheel      331635 Sep 11 20:51 tin117.tar.Z
+
+mwcbbs/386/tin118:
+total 345
+-r--r--r--   1 sysadm   wheel      349942 Sep 11 20:56 tin118.zip
+
+mwcbbs/386/tin119:
+total 349
+-r--r--r--   1 sysadm   wheel      353659 Sep 11 21:01 tin119.zip
+
+mwcbbs/386/tree:
+total 436
+-r--r--r--   1 sysadm   wheel      443193 Sep 11 21:07 utree.tar.Z
+
+mwcbbs/386/ue:
+total 529
+-r--r--r--   1 sysadm   wheel      536957 Sep 11 21:14 ue310.zip
+
+mwcbbs/386/uucp:
+total 842
+-r--r--r--   1 sysadm   wheel      856480 Sep 11 21:26 uucp.zip
+
+mwcbbs/386/uucp104:
+total 1408
+-r--r--r--   1 sysadm   wheel     1433835 Sep 11 21:46 tay104.zip
+
+mwcbbs/386/vi:
+total 360
+-r--r--r--   1 sysadm   wheel      364705 Sep 11 21:52 elvis.tar.Z
+
+mwcbbs/386/wander:
+total 109
+-r--r--r--   1 sysadm   wheel      109671 Sep 11 21:54 wanderer.zip
+
+mwcbbs/386/warp:
+total 227
+-r--r--r--   1 sysadm   wheel      230765 Sep 11 22:03 warp.tar.Z
+
+mwcbbs/386/world:
+total 304
+-r--r--r--   1 sysadm   wheel      307891 Sep 11 22:07 world.tar.Z
+
+mwcbbs/386/xc:
+total 112
+-r--r--r--   1 sysadm   wheel      113571 Sep 11 22:09 xcomm33.zip
+
+mwcbbs/386/xc41:
+total 152
+-r--r--r--   1 sysadm   wheel      154171 Sep 11 22:11 xc41.zip
+
+mwcbbs/386/xscheme:
+total 114
+-r--r--r--   1 sysadm   wheel      114928 Sep 11 22:13 xscheme.zip
+
+mwcbbs/386/zip:
+total 339
+-r--r--r--   1 sysadm   wheel      112053 Sep 11 22:14 unzip.tar.Z
+-r--r--r--   1 sysadm   wheel      231489 Sep 11 22:17 zip.tar.Z
+
+mwcbbs/386/zoo:
+total 296
+-r--r--r--   1 sysadm   wheel      299739 Sep 11 22:21 zoo.tar.Z
+
+mwcbbs/386/zork:
+total 357
+-r--r--r--   1 sysadm   wheel      362493 Sep 11 22:26 zork.zip
+
+mwcbbs/acronym:
+total 94
+-r--r--r--   1 sysadm   wheel       94861 Sep 10 16:35 acronyms.tar.Z
+
+mwcbbs/adf:
+total 1797
+-r--r--r--   1 sysadm   wheel     1830947 Sep 10 17:00 ADF.tar.Z
+
+mwcbbs/advent:
+total 86
+-r--r--r--   1 sysadm   wheel       86482 Sep 10 17:01 advent.tar.Z
+
+mwcbbs/afio:
+total 62
+-r--r--r--   1 sysadm   wheel       61509 Sep 10 17:02 afio.tar.Z
+
+mwcbbs/basic:
+total 200
+-r--r--r--   1 sysadm   wheel      203234 Sep 10 17:05 basic.tar.Z
+
+mwcbbs/bbs:
+total 154
+-r--r--r--   1 sysadm   wheel      156276 Sep 10 17:07 bbs_src.tar.Z
+
+mwcbbs/bgmn:
+total 149
+-r--r--r--   1 sysadm   wheel      150864 Sep 10 17:09 bkgmon.tar.Z
+
+mwcbbs/cards:
+total 215
+-r--r--r--   1 sysadm   wheel       71674 Sep 10 17:10 canfield.tar.Z
+-r--r--r--   1 sysadm   wheel       66786 Sep 10 17:11 chlng.tar.Z
+-r--r--r--   1 sysadm   wheel       77264 Sep 10 17:12 choice.tar.Z
+
+mwcbbs/castle:
+total 130
+-r--r--r--   1 sysadm   wheel      131155 Sep 10 17:13 castle.tar.Z
+
+mwcbbs/chess:
+total 79
+-r--r--r--   1 sysadm   wheel       79500 Sep 10 17:14 chess.tar.Z
+
+mwcbbs/ckermit:
+total 712
+-r--r--r--   1 sysadm   wheel      724931 Sep 10 17:24 kermit.tar.Z
+
+mwcbbs/clam141:
+total 198
+-r--r--r--   1 sysadm   wheel      176828 Sep 10 17:26 clam141.tar.Z
+-r--r--r--   1 sysadm   wheel       23040 Sep 10 17:27 patches.tar.Z
+
+mwcbbs/clambin:
+total 126
+-r--r--r--   1 sysadm   wheel      127812 Sep 10 17:28 clambin.tar.Z
+
+mwcbbs/cnews:
+total 645
+-r--r--r--   1 sysadm   wheel      656301 Sep 10 17:37 cnews.tar.Z
+
+mwcbbs/comb:
+total 96
+-r--r--r--   1 sysadm   wheel       97156 Sep 10 17:38 comb132.tar.Z
+
+mwcbbs/cproto:
+total 145
+-r--r--r--   1 sysadm   wheel      147179 Sep 10 17:40 cproto.tar.Z
+
+mwcbbs/dash:
+total 473
+-r--r--r--   1 sysadm   wheel      480825 Sep 10 17:47 dash10.tar.Z
+
+mwcbbs/deliver:
+total 126
+-r--r--r--   1 sysadm   wheel      127951 Sep 10 17:48 deliver.tar.Z
+
+mwcbbs/des:
+total 140
+-r--r--r--   1 sysadm   wheel      141592 Sep 10 17:50 des.tar.Z
+
+mwcbbs/dmake:
+total 695
+-r--r--r--   1 sysadm   wheel      707419 Sep 10 18:00 dmake.tar.Z
+
+mwcbbs/dos:
+total 176
+-r--r--r--   1 sysadm   wheel      178772 Sep 10 18:02 mtools.tar.Z
+
+mwcbbs/dte:
+total 143
+-r--r--r--   1 sysadm   wheel      144634 Sep 10 18:04 dte.tar.Z
+
+mwcbbs/elle:
+total 400
+-r--r--r--   1 sysadm   wheel      406093 Sep 10 18:10 elle.tar.Z
+
+mwcbbs/elvis:
+total 292
+-r--r--r--   1 sysadm   wheel      295474 Sep 10 18:14 elvis14.tar.Z
+
+mwcbbs/forth:
+total 138
+-r--r--r--   1 sysadm   wheel      147905 Sep 10 18:16 forth.tar.Z
+
+mwcbbs/fortunes:
+total 342
+-r--r--r--   1 sysadm   wheel      346729 Sep 10 18:20 fortunes.Z
+
+mwcbbs/gnugo:
+total 83
+-r--r--r--   1 sysadm   wheel       83367 Sep 10 18:21 gnugo.tar.Z
+
+mwcbbs/gnutar:
+total 192
+-r--r--r--   1 sysadm   wheel      195395 Sep 10 18:24 gnutar.tar.Z
+
+mwcbbs/hex:
+total 98
+-r--r--r--   1 sysadm   wheel       99111 Sep 10 18:25 hexed.tar.Z
+
+mwcbbs/hotel:
+total 108
+-r--r--r--   1 sysadm   wheel      108592 Sep 10 18:27 hotel.tar.Z
+
+mwcbbs/kernel:
+total 91
+-r--r--r--   1 sysadm   wheel       37500 Sep 10 18:28 arcnet.tar.Z
+-r--r--r--   1 sysadm   wheel       19168 Sep 10 18:27 mmas.tar.Z
+-r--r--r--   1 sysadm   wheel       32471 Sep 10 18:27 vterm.tar.Z
+
+mwcbbs/lander:
+total 59
+-r--r--r--   1 sysadm   wheel       58408 Sep 10 18:29 lander.tar.Z
+
+mwcbbs/less2:
+total 237
+-r--r--r--   1 sysadm   wheel      241446 Sep 10 18:32 less.tar.Z
+
+mwcbbs/lharc:
+total 54
+-r--r--r--   1 sysadm   wheel       53810 Sep 10 18:33 lharc.tar.Z
+
+mwcbbs/lotto:
+total 63
+-r--r--r--   1 sysadm   wheel       62519 Sep 10 18:34 lotto.tar.Z
+
+mwcbbs/make:
+total 106
+-r--r--r--   1 sysadm   wheel      107084 Sep 10 18:35 make.tar.Z
+
+mwcbbs/maze:
+total 56
+-r--r--r--   1 sysadm   wheel       55762 Sep 10 18:36 maze.tar.Z
+
+mwcbbs/mc:
+total 101
+-r--r--r--   1 sysadm   wheel      102219 Sep 10 18:37 mc.tar.Z
+
+mwcbbs/mcomm:
+total 160
+-r--r--r--   1 sysadm   wheel      162145 Sep 10 18:39 mc133.tar.Z
+
+mwcbbs/miles:
+total 73
+-r--r--r--   1 sysadm   wheel       73592 Sep 10 18:40 miles.tar.Z
+
+mwcbbs/minicom:
+total 96
+-r--r--r--   1 sysadm   wheel       96835 Sep 10 18:41 mcom.tar.Z
+
+mwcbbs/month:
+total 71
+-r--r--r--   1 sysadm   wheel       71666 Sep 10 18:42 month.tar.Z
+
+mwcbbs/news:
+total 711
+-r--r--r--   1 sysadm   wheel      723343 Sep 10 18:52 news.tar.Z
+
+mwcbbs/origami:
+total 205
+-r--r--r--   1 sysadm   wheel      208371 Sep 10 18:55 origami.tar.Z
+
+mwcbbs/othello:
+total 167
+-r--r--r--   1 sysadm   wheel      169393 Sep 10 18:57 othello.tar.Z
+
+mwcbbs/patch:
+total 88
+-r--r--r--   1 sysadm   wheel       88565 Sep 10 18:58 patch20.tar.Z
+
+mwcbbs/path:
+total 131
+-r--r--r--   1 sysadm   wheel      132097 Sep 10 19:00 pathal.tar.Z
+
+mwcbbs/pclist:
+total 51
+-r--r--r--   1 sysadm   wheel       50516 Sep 10 19:01 pclist.tar.Z
+
+mwcbbs/pcmail:
+total 109
+-r--r--r--   1 sysadm   wheel      110561 Sep 10 19:02 pcmail.tar.Z
+
+mwcbbs/pcmlsrc:
+total 354
+-r--r--r--   1 sysadm   wheel      358638 Sep 10 19:07 pcmail.tar.Z
+
+mwcbbs/prolog:
+total 191
+-r--r--r--   1 sysadm   wheel      193648 Sep 10 19:10 prolog.tar.Z
+
+mwcbbs/quebbs:
+total 299
+-r--r--r--   1 sysadm   wheel      302804 Sep 10 19:14 quebbs.tar.Z
+
+mwcbbs/rcs:
+total 636
+-r--r--r--   1 sysadm   wheel      647078 Sep 10 19:22 rcs.tar.Z
+
+mwcbbs/rn:
+total 377
+-r--r--r--   1 sysadm   wheel      382225 Sep 10 19:27 rn.tar.Z
+
+mwcbbs/rogue:
+total 198
+-r--r--r--   1 sysadm   wheel      201438 Sep 10 19:30 rogue.tar.Z
+
+mwcbbs/sc:
+total 131
+-r--r--r--   1 sysadm   wheel      132134 Sep 10 19:32 sc.tar.Z
+
+mwcbbs/sdbm:
+total 93
+-r--r--r--   1 sysadm   wheel       94071 Sep 10 19:33 sdbm.tar.Z
+
+mwcbbs/shar:
+total 167
+-r--r--r--   1 sysadm   wheel      169160 Sep 10 19:35 shar.tar.Z
+
+mwcbbs/smail:
+total 110
+-r--r--r--   1 sysadm   wheel      111286 Sep 10 19:37 smail.tar.Z
+
+mwcbbs/smiley:
+total 79
+-r--r--r--   1 sysadm   wheel       79116 Sep 10 19:38 smiley.tar.Z
+
+mwcbbs/sokoban:
+total 55
+-r--r--r--   1 sysadm   wheel       54610 Sep 10 19:38 sokoban.tar.Z
+
+mwcbbs/tass:
+total 53
+-r--r--r--   1 sysadm   wheel       52320 Sep 10 19:39 tass.tar.Z
+
+mwcbbs/tetris:
+total 53
+-r--r--r--   1 sysadm   wheel       53242 Sep 10 19:40 tetris.tar.Z
+
+mwcbbs/toolbox:
+total 321
+-r--r--r--   1 sysadm   wheel       28858 Sep 10 19:42 arcwtmp.tar.Z
+-r--r--r--   1 sysadm   wheel        2603 Sep 10 19:41 bootdaemon.c.Z
+-r--r--r--   1 sysadm   wheel       44523 Sep 10 19:41 calls.tar.Z
+-r--r--r--   1 sysadm   wheel       16065 Sep 10 19:41 cflow.tar.Z
+-r--r--r--   1 sysadm   wheel       13394 Sep 10 19:40 cgrep.tar.Z
+-r--r--r--   1 sysadm   wheel       22128 Sep 10 19:43 checknr.tar.Z
+-r--r--r--   1 sysadm   wheel        2192 Sep 10 19:42 cobble.tar.Z
+-r--r--r--   1 sysadm   wheel        3876 Sep 10 19:44 color.c
+-r--r--r--   1 sysadm   wheel        8176 Sep 10 19:40 crc.c.Z
+-r--r--r--   1 sysadm   wheel       16433 Sep 10 19:43 cref.tar.Z
+-r--r--r--   1 sysadm   wheel         854 Sep 10 19:42 curses2.h.Z
+-r--r--r--   1 sysadm   wheel        5335 Sep 10 19:42 drvtest.tar.Z
+-r--r--r--   1 sysadm   wheel        5593 Sep 10 19:40 hd.c.Z
+-r--r--r--   1 sysadm   wheel        6139 Sep 10 19:42 hexdmp.tar.Z
+-r--r--r--   1 sysadm   wheel       16371 Sep 10 19:44 libtree.tar.Z
+-r--r--r--   1 sysadm   wheel        3073 Sep 10 19:41 list.c.Z
+-r--r--r--   1 sysadm   wheel        4294 Sep 10 19:43 minst.tar.Z
+-r--r--r--   1 sysadm   wheel       15968 Sep 10 19:42 mvlog.tar.Z
+-r--r--r--   1 sysadm   wheel       18894 Sep 10 19:43 prefix.tar.Z
+-r--r--r--   1 sysadm   wheel       15096 Sep 10 19:44 rbtree.sh.Z
+-r--r--r--   1 sysadm   wheel        2957 Sep 10 19:43 start.tar.Z
+-r--r--r--   1 sysadm   wheel        1949 Sep 10 19:41 strings.c.Z
+-r--r--r--   1 sysadm   wheel        3053 Sep 10 19:41 su.c.Z
+-r--r--r--   1 sysadm   wheel        6467 Sep 10 19:42 sx.tar.Z
+-r--r--r--   1 sysadm   wheel       13853 Sep 10 19:40 tools.tar.Z
+-r--r--r--   1 sysadm   wheel        3457 Sep 10 19:40 tools1.sh.Z
+-r--r--r--   1 sysadm   wheel       11425 Sep 10 19:42 tput.tar.Z
+-r--r--r--   1 sysadm   wheel        1964 Sep 10 19:43 unpatch.c.Z
+-r--r--r--   1 sysadm   wheel        2386 Sep 10 19:41 uustat.c.Z
+-r--r--r--   1 sysadm   wheel        6110 Sep 10 19:44 uutools.tar.Z
+
+mwcbbs/trek:
+total 141
+-r--r--r--   1 sysadm   wheel      142953 Sep 10 19:46 trek73.tar.Z
+
+mwcbbs/unzip:
+total 75
+-r--r--r--   1 sysadm   wheel       75306 Sep 10 19:47 unzip.tar.Z
+
+mwcbbs/utree:
+total 400
+-r--r--r--   1 sysadm   wheel      406381 Sep 10 19:52 utree.tar.Z
+
+mwcbbs/vn:
+total 107
+-r--r--r--   1 sysadm   wheel      107689 Sep 10 19:54 vn.tar.Z
+
+mwcbbs/window:
+total 263
+-r--r--r--   1 sysadm   wheel      267669 Sep 10 19:57 window.tar.Z
+
+mwcbbs/wish:
+total 143
+-r--r--r--   1 sysadm   wheel      144976 Sep 10 19:59 wsh.tar.Z
+
+mwcbbs/wmail:
+total 131
+-r--r--r--   1 sysadm   wheel      132874 Sep 10 20:01 wmail.tar.Z
+
+mwcbbs/wnews:
+total 135
+-r--r--r--   1 sysadm   wheel      136458 Sep 10 20:03 wnews30.tar.Z
+
+mwcbbs/xcmalt:
+total 158
+-r--r--r--   1 sysadm   wheel      160139 Sep 10 20:05 xcmalt.tar.Z
+
+mwcbbs/xlisp:
+total 147
+-r--r--r--   1 sysadm   wheel      149399 Sep 10 20:07 xlisp.tar.Z
+
+mwcbbs/yawl:
+total 183
+-r--r--r--   1 sysadm   wheel      185394 Sep 10 20:09 yawl.tar.Z
+
+mwcbbs/zmodem:
+total 95
+-r--r--r--   1 sysadm   wheel       96226 Sep 10 20:11 zmodem.tar.Z
+
+mwcbbs/zoo:
+total 267
+-r--r--r--   1 sysadm   wheel      272059 Sep 10 20:14 zoo.tar.Z
+
+sources:
+total 28209
+-rw-r--r--   1 sysadm   wheel       13029 Jan 13 14:02 00INDEX
+-r--r--r--   1 sysadm   wheel       75249 Sep  7 15:09 acronyms.tar.z
+-r--r--r--   1 sysadm   wheel       49508 Sep  7 15:10 advent.tar.z
+-r--r--r--   1 sysadm   wheel       23634 Sep  7 17:26 ae.tar.z
+-r--r--r--   1 sysadm   wheel       91644 Sep  7 20:42 ansicc.tgz
+-r--r--r--   1 sysadm   wheel       33264 Sep  7 17:27 arc.tar.z
+-r--r--r--   1 sysadm   wheel        8159 Sep  7 19:52 asc2ps.tar.z
+-r--r--r--   1 sysadm   wheel       98442 Sep  7 20:20 atp142bin.tgz
+-r--r--r--   1 sysadm   wheel       32602 Sep  7 15:11 backgamm.tar.z
+-r--r--r--   1 sysadm   wheel         944 Sep  7 15:11 backup.sh.z
+-r--r--r--   1 sysadm   wheel       98358 Sep  7 15:38 banner.tar.z
+-r--r--r--   1 sysadm   wheel       84144 Sep  7 15:12 basic.tar.z
+-r--r--r--   1 sysadm   wheel        3924 Sep  7 15:12 battle.tar.z
+-r--r--r--   1 sysadm   wheel      241340 Sep  7 18:43 bison119.tar.z
+-r--r--r--   1 sysadm   wheel        4990 Sep  7 18:37 bm.tar.z
+-r--r--r--   1 sysadm   wheel       11914 Sep  7 20:41 browse.tgz
+-r--r--r--   1 sysadm   wheel        3764 Sep  7 15:14 buildman.sh.z
+-r--r--r--   1 sysadm   wheel       93347 Sep 12 16:45 bwb111.tgz
+-r--r--r--   1 sysadm   wheel       35371 Sep  7 15:15 byacc.tar.z
+-r--r--r--   1 sysadm   wheel        9059 Sep  7 15:15 calls.tar.z
+-r--r--r--   1 sysadm   wheel       51292 Sep  7 17:27 cardfile.tar.z
+-r--r--r--   1 sysadm   wheel       35806 Sep  7 15:15 castle.tar.z
+-r--r--r--   1 sysadm   wheel       45262 Sep  7 18:10 cawf.tar.z
+-r--r--r--   1 sysadm   wheel        2705 Sep  7 15:15 cdiff.tar.z
+-r--r--r--   1 sysadm   wheel       17841 Sep  7 20:19 cdplayer1.1.tz
+-r--r--r--   1 sysadm   wheel        7054 Sep  7 15:16 checknr.tar.z
+-r--r--r--   1 sysadm   wheel       16873 Sep  7 15:16 chess.tar.z
+-r--r--r--   1 sysadm   wheel         490 Sep  7 15:16 clear.c.z
+-r--r--r--   1 sysadm   wheel        2674 Sep  7 15:16 clock.c.z
+-r--r--r--   1 sysadm   wheel        4948 Sep  7 17:20 cnews.p.tar.z
+-r--r--r--   1 sysadm   wheel      523120 Sep  7 18:54 cnews.tar.z
+-r--r--r--   1 sysadm   wheel       26799 Sep  7 15:16 comb132A.tar.z
+-r--r--r--   1 sysadm   wheel       27090 Sep  7 15:17 comb140.tar.z
+-r--r--r--   1 sysadm   wheel        4593 Sep  7 15:17 cref.tar.z
+-r--r--r--   1 sysadm   wheel     1048485 Oct 10 18:49 crisp-2.1.tgz
+-r--r--r--   1 sysadm   wheel        8284 Sep  7 15:17 cu.tar.z
+-r--r--r--   1 sysadm   wheel      129967 Sep  7 15:19 curses.tar.z
+-r--r--r--   1 sysadm   wheel        6582 Sep  7 15:19 cursive.tar.z
+-r--r--r--   1 sysadm   wheel        1680 Sep  7 15:19 cvt.c.z
+-r--r--r--   1 sysadm   wheel       15682 Sep  7 19:53 dbf.tar.z
+-r--r--r--   1 sysadm   wheel       32944 Sep  7 20:21 dialog.tgz
+-r--r--r--   1 sysadm   wheel       70278 Sep  7 17:20 dinkum.tar.z
+-r--r--r--   1 sysadm   wheel       49751 Sep  7 18:47 dired.tar.z
+-r--r--r--   1 sysadm   wheel         794 Sep  7 17:25 djfonts.tar.z
+-r--r--r--   1 sysadm   wheel      103841 Sep  7 15:20 dte.tar.z
+-r--r--r--   1 sysadm   wheel      217698 Sep  7 18:13 dungeon.tar.z
+-r--r--r--   1 sysadm   wheel       55359 Sep  7 18:14 ee.tar.z
+-r--r--r--   1 sysadm   wheel      652729 Sep  7 20:16 elm2.4-23.tgz
+-r--r--r--   1 sysadm   wheel      510158 Sep  7 15:27 elm23.tar.z
+-r--r--r--   1 sysadm   wheel      609847 Sep  7 18:28 elm24-21.tar.z
+-r--r--r--   1 sysadm   wheel      265478 Sep  7 20:07 elvis-1.8.4.tz
+-r--r--r--   1 sysadm   wheel      231382 Sep  7 15:30 elvis16.tar.z
+-r--r--r--   1 sysadm   wheel        8946 Sep  7 19:26 elvis17.patch
+-r--r--r--   1 sysadm   wheel      197499 Sep  7 18:39 elvis17.tar.z
+-r--r--r--   1 sysadm   wheel     3118561 Sep  7 18:09 emacs.tar.z
+-r--r--r--   1 sysadm   wheel       79872 Sep  7 15:31 empire.tar.z
+-r--r--r--   1 sysadm   wheel        8808 Sep  7 15:31 fgrep.tar.z
+-r--r--r--   1 sysadm   wheel        1060 Sep  7 15:31 finger.c.z
+-r--r--r--   1 sysadm   wheel      108392 Sep  7 18:19 flex.tar.z
+-r--r--r--   1 sysadm   wheel       14965 Sep  7 15:32 flip.tar.z
+-r--r--r--   1 sysadm   wheel        5546 Sep  7 17:21 fmt.tar.z
+-r--r--r--   1 sysadm   wheel       13393 Sep  7 18:46 font4.tar.z
+-r--r--r--   1 sysadm   wheel       47034 Sep  7 15:32 forth.tar.z
+-r--r--r--   1 sysadm   wheel       25286 Sep  7 16:36 freeze.tar.z
+-r--r--r--   1 sysadm   wheel      170426 Sep  7 15:14 gas138.tar.z
+-r--r--r--   1 sysadm   wheel      619895 Sep  7 18:37 gawk-2.13.ta.z
+-r--r--r--   1 sysadm   wheel      858672 Sep  7 17:03 gcc140.tar.z
+-r--r--r--   1 sysadm   wheel       88281 Sep  7 20:22 gdbm-1.7.3.tgz
+-r--r--r--   1 sysadm   wheel        1377 Sep  7 15:32 getopt.tar.z
+-r--r--r--   1 sysadm   wheel       80454 Sep  7 15:33 gnome.tar.z
+-r--r--r--   1 sysadm   wheel       18850 Sep  7 15:34 gnugo.tar.z
+-r--r--r--   1 sysadm   wheel        5096 Sep  7 15:34 gomoku.tar.z
+-r--r--r--   1 sysadm   wheel        4288 Sep  7 15:34 gone.tar.z
+-r--r--r--   1 sysadm   wheel      884332 Sep  7 20:36 gs3.12_NDP.tgz
+-r--r--r--   1 sysadm   wheel      731910 Sep  7 21:11 gsf-other.tgz
+-r--r--r--   1 sysadm   wheel     1350870 Sep  7 21:02 gsf-std.tgz
+-r--r--r--   1 sysadm   wheel      227675 Sep  7 18:17 gzip.tar.Z
+-r--r--r--   1 sysadm   wheel      175219 Sep  7 15:36 hack.tar.z
+-r--r--r--   1 sysadm   wheel       10278 Sep  7 15:36 hoc.tar.z
+-r--r--r--   1 sysadm   wheel       21553 Sep  7 15:36 hotel.tar.z
+-r--r--r--   1 sysadm   wheel        1439 Sep  7 15:36 hs.patch.tar.z
+-r--r--r--   1 sysadm   wheel       14198 Sep  7 19:52 hwp.tar.z
+-r--r--r--   1 sysadm   wheel      112187 Sep  7 17:04 info.tar.z
+-r--r--r--   1 sysadm   wheel         667 Sep  7 18:17 install.c.z
+-r--r--r--   1 sysadm   wheel        7770 Sep  7 17:20 invaders.c.z
+-r--r--r--   1 sysadm   wheel       28406 Sep  7 15:37 iozone.tar.z
+-r--r--r--   1 sysadm   wheel      398608 Sep  7 17:09 k5jb.k29.tar.z
+-r--r--r--   1 sysadm   wheel        8455 Sep  7 18:09 lander.tar.z
+-r--r--r--   1 sysadm   wheel        2853 Sep  7 15:38 last.tar.z
+-r--r--r--   1 sysadm   wheel      159463 Sep  7 20:24 less-252.tgz
+-r--r--r--   1 sysadm   wheel       91986 Sep  7 15:39 less.tar.z
+-r--r--r--   1 sysadm   wheel       24057 Sep  7 15:40 lharc.tar.z
+-r--r--r--   1 sysadm   wheel       15305 Sep  7 15:40 libndir.tar.z
+-r--r--r--   1 sysadm   wheel       24278 Sep  7 18:43 login.tar.z
+-r--r--r--   1 sysadm   wheel         314 Sep  7 15:40 lpcancel.sh.z
+-r--r--r--   1 sysadm   wheel         336 Sep  7 15:40 lpstat.sh.z
+-r--r--r--   1 sysadm   wheel        5676 Sep  7 18:54 lptools.tar.z
+-r--r--r--   1 sysadm   wheel      203315 Sep  7 16:32 m4-1.0.tar.z
+-r--r--r--   1 sysadm   wheel       29261 Sep  7 15:41 make.tar.z
+-r--r--r--   1 sysadm   wheel        1518 Sep  7 15:41 man.tar.z
+-r--r--r--   1 sysadm   wheel       24488 Sep  7 15:41 maze.tar.z
+-r--r--r--   1 sysadm   wheel       68356 Sep  7 17:13 mc134.tar.z
+-r--r--r--   1 sysadm   wheel       88752 Sep  7 20:19 mc160.tgz
+-r--r--r--   1 sysadm   wheel     1266586 Sep  7 15:58 mgr57.tar.z
+-r--r--r--   1 sysadm   wheel     1117717 Sep  7 19:15 mgr77.tar.z
+-r--r--r--   1 sysadm   wheel       16043 Sep  7 15:58 miles.tar.z
+-r--r--r--   1 sysadm   wheel       17890 Sep  7 15:58 mines.z
+-r--r--r--   1 sysadm   wheel        1590 Sep  7 15:58 mkbootdsk.sh.z
+-r--r--r--   1 sysadm   wheel      151745 Sep  7 20:18 mm2.6.tgz
+-r--r--r--   1 sysadm   wheel      193251 Sep  7 16:01 moria.tar.z
+-r--r--r--   1 sysadm   wheel       63674 Oct 10 18:34 most-4.5.tgz
+-r--r--r--   1 sysadm   wheel         611 Sep  7 17:19 mouse.c.z
+-r--r--r--   1 sysadm   wheel        8297 Sep  7 16:01 mtalk.tar.z
+-r--r--r--   1 sysadm   wheel       40113 Sep  7 20:25 mtools-207.tgz
+-r--r--r--   1 sysadm   wheel      712659 Sep  7 16:23 nethack.tar.z
+-r--r--r--   1 sysadm   wheel        6671 Sep  7 17:20 newjunk.tar.z
+-r--r--r--   1 sysadm   wheel        2462 Sep  7 16:01 newspace.tar.z
+-r--r--r--   1 sysadm   wheel        3197 Sep  7 16:01 nn.patch17.z
+-r--r--r--   1 sysadm   wheel        4204 Sep  7 16:01 nn.patch18.z
+-r--r--r--   1 sysadm   wheel        2799 Sep  7 17:20 nn.patch19.z
+-r--r--r--   1 sysadm   wheel      406820 Sep  7 16:07 nn6.4.16.tar.z
+-r--r--r--   1 sysadm   wheel      407936 Sep  7 16:12 nn6.4.18.tar.z
+-r--r--r--   1 sysadm   wheel       13633 Sep  7 16:12 ogre.tar.z
+-r--r--r--   1 sysadm   wheel      245327 Sep  7 17:25 oleo122.tar.z
+-r--r--r--   1 sysadm   wheel       10521 Sep  7 18:54 opcom.tar.z
+-r--r--r--   1 sysadm   wheel      111578 Sep  7 16:14 origami.tar.z
+-r--r--r--   1 sysadm   wheel        2916 Sep  7 20:44 partition.tgz
+-r--r--r--   1 sysadm   wheel       64136 Sep  7 17:22 patch201.tar.z
+-r--r--r--   1 sysadm   wheel       12109 Sep  7 16:23 pclist.tar.z
+-r--r--r--   1 sysadm   wheel      347143 Oct 10 20:28 pdksh5.1.3.tgz
+-r--r--r--   1 sysadm   wheel       46056 Sep  7 16:24 pdtar.tar.z
+-r--r--r--   1 sysadm   wheel       25155 Sep  7 20:41 pkg_install.tz
+-r--r--r--   1 sysadm   wheel       84927 Sep  7 16:25 prolog.tar.z
+-r--r--r--   1 sysadm   wheel      121786 Sep  7 18:20 ptc.tar.z
+-r--r--r--   1 sysadm   wheel        4883 Sep  7 16:25 rash.tar.z
+-r--r--r--   1 sysadm   wheel      167507 Sep  7 16:27 rcs.tar.z
+-r--r--r--   1 sysadm   wheel      312404 Sep  7 20:41 regex-0.12.tgz
+-r--r--r--   1 sysadm   wheel       10959 Sep  7 16:27 regex.tar.z
+-r--r--r--   1 sysadm   wheel       11108 Sep  7 16:28 robots.tar.z
+-r--r--r--   1 sysadm   wheel       72743 Sep  7 16:29 rogue.tar.z
+-r--r--r--   1 sysadm   wheel       63974 Sep  7 16:29 rogueg.tar.z
+-r--r--r--   1 sysadm   wheel        8297 Sep  7 16:30 rpf.tar.z
+-r--r--r--   1 sysadm   wheel         847 Sep  7 17:26 rtass.patch.z
+-r--r--r--   1 sysadm   wheel       54939 Sep  7 19:54 rzsz-3.32.tgz
+-r--r--r--   1 sysadm   wheel      131070 Sep  7 18:56 scm4b3.tar.z
+-r--r--r--   1 sysadm   wheel        9008 Sep  7 16:32 shar.tar.z
+-r--r--r--   1 sysadm   wheel      242587 Sep  7 19:52 sipp-3.0.tar.z
+-r--r--r--   1 sysadm   wheel      688800 Sep  7 20:03 smail3.1.28.tz
+-r--r--r--   1 sysadm   wheel       47278 Sep  7 16:33 socket.tar.z
+-r--r--r--   1 sysadm   wheel       14547 Sep  7 16:33 sokoban.tar.z
+-r--r--r--   1 sysadm   wheel      160943 Sep  7 16:42 ss12b.tar.z
+-r--r--r--   1 sysadm   wheel        8176 Sep  7 18:56 strftime.tar.z
+-r--r--r--   1 sysadm   wheel         881 Sep  7 17:26 sulog.c.z
+-r--r--r--   1 sysadm   wheel       33352 Sep  7 16:34 tass32.tar.z
+-r--r--r--   1 sysadm   wheel     1433835 Sep  7 19:45 tay104.zip
+-r--r--r--   1 sysadm   wheel        2813 Sep  7 20:21 termios.tgz
+-r--r--r--   1 sysadm   wheel       11348 Sep  7 16:34 tetris.tar.z
+-r--r--r--   1 sysadm   wheel       13214 Sep  7 17:26 texiroff.tar.z
+-r--r--r--   1 sysadm   wheel      150617 Sep  7 16:36 tforth.tar.z
+-r--r--r--   1 sysadm   wheel      237573 Sep  7 19:48 tin120.tar.z
+-r--r--r--   1 sysadm   wheel      244803 Sep  7 18:46 tin122.tar.z
+-r--r--r--   1 sysadm   wheel       43630 Sep  7 16:37 trek73.tar.z
+-r--r--r--   1 sysadm   wheel      267941 Sep  7 16:49 trn2.2.tar.z
+-r--r--r--   1 sysadm   wheel       42373 Sep  7 18:14 tua.tar.z
+-r--r--r--   1 sysadm   wheel      118126 Sep  7 16:38 ularn.tar.z
+-r--r--r--   1 sysadm   wheel      553956 Sep  7 19:23 um52.tar.z
+-r--r--r--   1 sysadm   wheel       23143 Sep  7 16:39 umodem.tar.z
+-r--r--r--   1 sysadm   wheel       18584 Sep  7 17:21 unarj220.tar.z
+-r--r--r--   1 sysadm   wheel        5548 Sep  7 18:10 undelete.tar.z
+-r--r--r--   1 sysadm   wheel        5114 Sep  7 20:21 unidraw.tgz
+-r--r--r--   1 sysadm   wheel      106368 Sep  7 20:44 unixchess.tgz
+-r--r--r--   1 sysadm   wheel       65130 Sep  7 16:39 unzip.tar.z
+-r--r--r--   1 sysadm   wheel      205615 Sep  7 19:25 unzip50.tar.z
+-r--r--r--   1 sysadm   wheel      207447 Sep  7 16:45 utree304.tar.z
+-r--r--r--   1 sysadm   wheel        1663 Sep  7 16:45 uucat.tar.z
+-r--r--r--   1 sysadm   wheel        1857 Sep  7 16:49 uustat.c.z
+-r--r--r--   1 sysadm   wheel       21647 Sep  7 16:50 uustat.tar.z
+-r--r--r--   1 sysadm   wheel        7259 Sep  7 18:17 uutraf.tar.z
+-r--r--r--   1 sysadm   wheel       16393 Sep  7 19:53 vgalib40.tar.z
+-r--r--r--   1 sysadm   wheel       20892 Sep  7 19:53 vgalib42.tar.z
+-r--r--r--   1 sysadm   wheel       82897 Sep  7 16:51 vn.tar.z
+-r--r--r--   1 sysadm   wheel        2260 Sep  7 16:51 vprintf.tar.z
+-r--r--r--   1 sysadm   wheel       10504 Sep  7 16:51 vtree.tar.z
+-r--r--r--   1 sysadm   wheel       51401 Sep  7 17:22 wanderer.tar.z
+-r--r--r--   1 sysadm   wheel       80462 Sep  7 19:49 wnews402.tar.z
+-r--r--r--   1 sysadm   wheel       98625 Sep  7 17:11 world.tar.z
+-r--r--r--   1 sysadm   wheel        1361 Sep  7 17:11 xargs.tar.z
+-r--r--r--   1 sysadm   wheel       83294 Oct 10 20:23 xc-4.4.tgz
+-r--r--r--   1 sysadm   wheel       63195 Sep  7 17:12 xc32.tar.z
+-r--r--r--   1 sysadm   wheel       70876 Sep  7 17:12 xc33.tar.z
+-r--r--r--   1 sysadm   wheel       82584 Sep  7 18:58 xc41.tar.z
+-r--r--r--   1 sysadm   wheel      160567 Sep  7 19:00 xlisp.tar.z
+-r--r--r--   1 sysadm   wheel         575 Sep  7 19:52 xlockpatch.c.z
+-r--r--r--   1 sysadm   wheel        2083 Sep  7 17:13 xod.tar.z
+-r--r--r--   1 sysadm   wheel      120643 Sep  7 17:15 z80pack.tar.z
+-r--r--r--   1 sysadm   wheel      125304 Sep  7 17:17 zip.tar.z
+-r--r--r--   1 sysadm   wheel       45141 Sep  7 17:17 zmodem.tar.z
+-r--r--r--   1 sysadm   wheel      126367 Sep  7 17:19 zoo.tar.z
+
+sources16:
+total 0
+
+sources32:
+total 13
+drwxrwxr-x   2 sysadm   wheel        1024 May 17  1995 apps
+drwxrwxr-x   2 sysadm   wheel        1024 Aug 23 22:47 comms
+drwxrwxr-x   2 sysadm   wheel        1024 May 26  1995 devel
+drwxrwxr-x   2 sysadm   wheel        1024 Jan 13 15:00 drivers
+drwxrwxr-x   2 sysadm   wheel        1024 May 16  1995 games
+drwxrwxr-x   2 sysadm   wheel        1024 Jan 13 15:00 gnu_tools
+drwxrwxr-x   2 sysadm   wheel        1024 Aug 26 12:30 network
+drwxrwxr-x   2 sysadm   wheel        1024 May 30  1995 system
+drwxrwxr-x   2 sysadm   wheel        1024 Sep 28 21:39 toys
+drwxrwxr-x   2 sysadm   wheel        1024 May 26  1995 utils
+drwxrwxr-x   2 sysadm   root         2048 Jan 11 23:55 x11src
+drwxrwxr-x   3 sysadm   wheel        1024 Jan 11 23:28 xapps
+
+sources32/apps:
+total 1545
+-rw-r--r--   1 sysadm   wheel       81609 Feb 12  1995 ae.tar.Z
+-rw-r--r--   1 sysadm   wheel     1083818 May 14  1995 emacs.18.59-bin.tgz
+-rw-r--r--   1 sysadm   wheel      235890 Feb 12  1995 graphica.zip
+-rw-r--r--   1 sysadm   wheel      102400 Feb 12  1995 hwp.tar
+-rw-r--r--   1 sysadm   wheel       71871 Jan 12  1995 me.tar.z
+
+sources32/comms:
+total 3434
+-rw-r--r--   1 sysadm   wheel        4948 May 14  1995 cnews_pr.patches.tar.z
+-rw-r--r--   1 sysadm   wheel      523120 May 14  1995 cnews_pr.tar.z
+-rw-r--r--   1 sysadm   wheel         800 May 14  1995 cnews_pr.tar.z.info
+-rw-r--r--   1 sysadm   wheel      652729 Feb 12  1995 elm2.4-23.tgz
+-rw-r--r--   1 sysadm   wheel       78158 Feb 12  1995 elmman.tar.Z
+-rw-r--r--   1 sysadm   wheel       52340 May 25  1995 lszrz.tgz
+-rw-r--r--   1 sysadm   wheel       88752 Feb 12  1995 mc160.tgz
+-rw-r--r--   1 sysadm   wheel      172824 May 14  1995 minicom170.tgz
+-rw-r--r--   1 sysadm   wheel      359890 Feb 12  1995 rn444.zip
+-rw-r--r--   1 sysadm   wheel       53118 Feb 12  1995 rzsz.4210.tgz
+-rw-r--r--   1 sysadm   wheel      491520 Feb 12  1995 smail-doc.tar
+-rw-r--r--   1 sysadm   wheel      691693 Feb 12  1995 smail3.1.28.tz
+-rw-r--r--   1 sysadm   wheel      244803 May 14  1995 tin122.tar.z
+-rw-r--r--   1 sysadm   wheel       80455 Feb 12  1995 wnews402.tar.z
+
+sources32/devel:
+total 1388
+-rw-r--r--   1 sysadm   wheel       91644 Mar  7  1995 ansicc.tgz
+-rw-r--r--   1 sysadm   wheel      129967 May 25  1995 curses3x.tgz
+-rw-r--r--   1 sysadm   wheel      536116 Feb 12  1995 f2c.zip
+-rw-r--r--   1 sysadm   wheel       79317 Feb 12  1995 indent.tar.Z
+-rw-r--r--   1 sysadm   wheel       32897 May 25  1995 lcurses.402.Z
+-rw-r--r--   1 sysadm   wheel       47829 May 25  1995 libc.a.gz
+-rw-r--r--   1 sysadm   wheel       27564 May 25  1995 libndir.tar.Z
+-rw-r--r--   1 sysadm   wheel       45628 May 25  1995 ndplibca.gz
+-rw-r--r--   1 sysadm   wheel        2817 May 25  1995 netdb.h
+-rw-r--r--   1 sysadm   wheel      407370 Apr 18  1995 perl.bin.tgz
+-rw-r--r--   1 sysadm   wheel        2813 May 26  1995 termios.tgz
+
+sources32/drivers:
+total 977
+-rw-r--r--   1 sysadm   root          531 Jan 11 23:32 00INDEX
+-rw-r--r--   1 sysadm   wheel        6964 May 14  1995 asyDriver.o.gz
+-r--r--r--   1 sysadm   root         5786 Jan 11 23:32 bmps-1.0.tgz
+-r--r--r--   1 sysadm   root        16780 Jan 11 23:32 cdu31-1.5.tgz
+-rw-r--r--   1 sysadm   wheel      632322 Mar 14  1995 ft.tgz
+-r--r--r--   1 sysadm   root        87285 Jan 11 23:32 hai-1.9.tgz
+-rw-r--r--   1 sysadm   wheel       18853 Feb 12  1995 haiupdate.gz
+-rw-r--r--   1 sysadm   wheel         928 Feb 12  1995 haiupdate.info
+-rw-r--r--   1 sysadm   wheel       27804 May 25  1995 kbd40.tar.Z
+-r--r--r--   1 sysadm   root        11918 Jan 11 23:32 mcd-1.3.tgz
+-rw-r--r--   1 sysadm   wheel      174080 Feb 12  1995 ne2000.tar
+-rw-r--r--   1 sysadm   wheel       10782 May 26  1995 sb.tgz
+
+sources32/games:
+total 1288
+-rw-r--r--   1 sysadm   wheel      404785 Feb 12  1995 hack.tar.Z
+-rw-r--r--   1 sysadm   wheel      288645 Feb 12  1995 ularn.tar.Z
+-rw-r--r--   1 sysadm   wheel      251455 Feb 12  1995 warp.tar.Z
+-rw-r--r--   1 sysadm   wheel      362493 Feb 12  1995 zork.zip
+
+sources32/gnu_tools:
+total 4645
+-rw-r--r--   1 sysadm   wheel        1083 May  5  1995 gawk-coh.info
+-rw-r--r--   1 sysadm   wheel      761891 May  5  1995 gawk-coh.tar.Z
+-rw-r--r--   1 sysadm   wheel       76111 Apr 18  1995 gcc.ld.z
+-rw-r--r--   1 sysadm   wheel       98701 Feb 12  1995 gcc.man
+-rw-r--r--   1 sysadm   wheel      304251 Feb 12  1995 gcc140b.tar.z
+-rw-r--r--   1 sysadm   wheel       34574 May 14  1995 gcc142.1
+-rw-r--r--   1 sysadm   wheel      312539 Feb 12  1995 gcc142b.tar.z
+-rw-r--r--   1 sysadm   wheel      232101 Feb 12  1995 gcpp.tar.Z
+-rw-r--r--   1 sysadm   wheel      271338 Feb 12  1995 gdb48b.tar.z
+-rw-r--r--   1 sysadm   wheel      329574 May 29  1995 gdb49.z
+-rw-r--r--   1 sysadm   wheel       11528 Feb 12  1995 ginst.bin.tgz
+-rw-r--r--   1 sysadm   wheel       76920 May 29  1995 gld2.4.gz
+-rw-r--r--   1 sysadm   wheel      619301 Feb 12  1995 gmake.tar.Z
+-rw-r--r--   1 sysadm   wheel      235809 Feb 12  1995 grep.tar.Z
+-rw-r--r--   1 sysadm   wheel     1035580 May 14  1995 groffb.tz
+-rw-r--r--   1 sysadm   wheel        1098 May 14  1995 groffb.tz.info
+-rw-r--r--   1 sysadm   wheel      310508 Feb 12  1995 gzip.tar.Z
+
+sources32/network:
+total 1821
+-rw-r--r--   1 sysadm   wheel      860493 Apr 18  1995 cohulip.tgz
+-rw-r--r--   1 sysadm   wheel      871943 Feb 12  1995 ka9q.tar.Z
+-rw-r--r--   1 sysadm   wheel      122880 Feb 12  1995 tcpipFIX03.tar
+
+sources32/system:
+total 1778
+-rw-r--r--   1 sysadm   wheel      839680 Feb 12  1995 42cdkit.tar
+-rw-r--r--   1 sysadm   wheel      177948 Feb 12  1995 bash1.13.5.tgz
+-rw-r--r--   1 sysadm   wheel      383326 May 25  1995 cdrom.tgz
+-rw-r--r--   1 sysadm   wheel      390664 May 30  1995 screen.tar.Z
+-rw-r--r--   1 sysadm   wheel       22155 May 25  1995 vcon.tar.Z
+
+sources32/toys:
+total 349
+-rw-r--r--   1 sysadm   wheel      353465 May 25  1995 sound.tgz
+
+sources32/utils:
+total 854
+-rw-r--r--   1 sysadm   wheel        2210 May 26  1995 40bootdsk.Z
+-rw-r--r--   1 sysadm   wheel       77403 Feb 12  1995 arc.tar.Z
+-rw-r--r--   1 sysadm   wheel        1308 May 25  1995 bsd-df.c.Z
+-rw-r--r--   1 sysadm   wheel       54903 Feb 12  1995 freeze.zip
+-rw-r--r--   1 sysadm   wheel        4322 May 25  1995 last.tar.Z
+-rw-r--r--   1 sysadm   wheel       37992 May 26  1995 lha.tgz
+-rw-r--r--   1 sysadm   wheel       13200 Feb 12  1995 mdf.tar.Z
+-rw-r--r--   1 sysadm   wheel       40113 May 25  1995 mtools-207.tgz
+-rw-r--r--   1 sysadm   wheel        2916 Mar  5  1995 part.tar.gz
+-rw-r--r--   1 sysadm   wheel       99475 Feb 12  1995 patch201.zip
+-rw-r--r--   1 sysadm   wheel       49454 Feb 12  1995 pcl302.zip
+-rw-r--r--   1 sysadm   wheel       29592 Feb 12  1995 unzip
+-rw-r--r--   1 sysadm   wheel      443193 Feb 12  1995 utree.tar.Z
+
+sources32/x11src:
+total 9623
+-rw-r--r--   1 sysadm   wheel        4850 Oct 10 21:46 00INDEX
+-r--r--r--   1 sysadm   wheel      200794 Sep  8 02:10 axe-5.1.tar.z
+-r--r--r--   1 sysadm   wheel       30518 Sep  8 03:15 budge.tgz
+-r--r--r--   1 sysadm   wheel       41992 Sep  8 02:03 cbzone.tar.z
+-r--r--r--   1 sysadm   wheel      214430 Sep  8 02:41 fvwm.tar.z
+-r--r--r--   1 sysadm   wheel      139360 Sep  8 01:46 ghostview.ta.z
+-r--r--r--   1 sysadm   wheel       24387 Sep  8 03:13 missileX.tgz
+-r--r--r--   1 sysadm   wheel       13516 Sep  8 02:02 mosaic.tar.z
+-r--r--r--   1 sysadm   wheel       65920 Sep  8 02:02 mpeg-1.2.tar.z
+-r--r--r--   1 sysadm   wheel      153513 Sep  8 03:15 mpeg-1.2.tgz
+-r--r--r--   1 sysadm   wheel      167819 Sep  8 03:29 mpeg-2.0.tgz
+-r--r--r--   1 sysadm   wheel      334925 Sep  8 01:44 olvwm3.1.tar.z
+-r--r--r--   1 sysadm   wheel      362228 Sep  8 02:37 olvwm3.3.tar.z
+-r--r--r--   1 sysadm   wheel      215706 Sep  8 03:00 olwm.tar.z
+-r--r--r--   1 sysadm   wheel      412312 Sep  8 03:37 pcemu.tgz
+-r--r--r--   1 sysadm   wheel       51582 Sep  8 02:16 planetge.tar.z
+-r--r--r--   1 sysadm   wheel       11837 Sep  8 03:16 rclock.tgz
+-r--r--r--   1 sysadm   wheel       13568 Sep  8 02:15 roids.tar.z
+-r--r--r--   1 sysadm   wheel       46083 Oct 10 21:16 rxvt.tgz
+-r--r--r--   1 sysadm   wheel        5840 Sep  8 01:39 spaceout.tar.z
+-r--r--r--   1 sysadm   wheel       97463 Sep  8 01:58 spider.tar.z
+-r--r--r--   1 sysadm   wheel        9986 Sep  8 01:58 spy.tar.z
+-r--r--r--   1 sysadm   wheel       24501 Sep  8 02:16 sunclock.tar.z
+-r--r--r--   1 sysadm   wheel      355428 Sep  8 02:07 tcl7.1.tar.z
+-r--r--r--   1 sysadm   wheel       21099 Sep  8 02:17 tetris21.tar.z
+-r--r--r--   1 sysadm   wheel      743760 Sep  8 03:09 tk3.4.tar.z
+-r--r--r--   1 sysadm   wheel       85672 Sep  8 03:11 transfig.tar.z
+-r--r--r--   1 sysadm   wheel       50243 Sep  8 01:39 x11perf.tar.z
+-r--r--r--   1 sysadm   wheel       41680 Sep  8 02:00 xanim.tar.z
+-r--r--r--   1 sysadm   wheel      149492 Sep  8 03:31 xanim264.tgz
+-r--r--r--   1 sysadm   wheel      138215 Sep  8 02:43 xboard.tar.z
+-r--r--r--   1 sysadm   wheel      471068 Sep  8 02:23 xboing.tar.z
+-r--r--r--   1 sysadm   wheel        6446 Sep  8 03:15 xbowl-1.4.gz
+-r--r--r--   1 sysadm   wheel       21077 Sep  8 03:10 xcalendar.t.z
+-r--r--r--   1 sysadm   wheel       40400 Oct 10 21:19 xcdplayer.tgz
+-r--r--r--   1 sysadm   wheel       34911 Sep  8 03:13 xchomp.tar.z
+-r--r--r--   1 sysadm   wheel      366016 Sep  8 02:15 xconq55.tar.z
+-r--r--r--   1 sysadm   wheel        5556 Sep  8 02:23 xcuckoo.tar.z
+-r--r--r--   1 sysadm   wheel      179066 Sep  8 03:18 xdtm252.tgz
+-r--r--r--   1 sysadm   wheel      172095 Sep  8 02:25 xearth.tar.z
+-r--r--r--   1 sysadm   wheel        8345 Sep  8 03:18 xengine1.0.tgz
+-r--r--r--   1 sysadm   wheel     1049833 Sep  8 02:57 xf2.2-pl4.ta.z
+-r--r--r--   1 sysadm   wheel       24925 Sep  8 02:01 xfig.man.z
+-r--r--r--   1 sysadm   wheel      310733 Sep  8 01:52 xfig.tar.z
+-r--r--r--   1 sysadm   wheel       89651 Sep  8 02:27 xfileman.tar.z
+-r--r--r--   1 sysadm   wheel       49475 Sep  8 01:47 xfishta.tar.z
+-r--r--r--   1 sysadm   wheel      109273 Sep  8 03:20 xfm-1.3.tgz
+-r--r--r--   1 sysadm   wheel       26546 Sep  8 01:57 xgif.tar.z
+-r--r--r--   1 sysadm   wheel       80583 Oct 10 21:24 xgrasp-1.7d.tz
+-r--r--r--   1 sysadm   wheel       77462 Sep  8 02:01 xgrasp.tar.z
+-r--r--r--   1 sysadm   wheel       24751 Sep  8 02:27 xhextris.tar.z
+-r--r--r--   1 sysadm   wheel       14258 Sep  8 02:15 xinv.tar.z
+-r--r--r--   1 sysadm   wheel       48307 Sep  8 01:48 xjewels.tar.z
+-r--r--r--   1 sysadm   wheel       82420 Sep  8 02:28 xkeycaps.tar.z
+-r--r--r--   1 sysadm   wheel       16101 Sep  8 01:59 xlander.tar.z
+-r--r--r--   1 sysadm   wheel       21226 Sep  8 01:59 xless.tar.z
+-r--r--r--   1 sysadm   wheel       61515 Sep  8 01:38 xlife.tar.z
+-r--r--r--   1 sysadm   wheel      596387 Oct 10 21:28 xloadim.4.1.tz
+-r--r--r--   1 sysadm   wheel       51045 Sep  8 01:39 xmahjong.tar.z
+-r--r--r--   1 sysadm   wheel       51054 Sep  8 02:38 xman.tar.z
+-r--r--r--   1 sysadm   wheel       74695 Oct 10 21:42 xmille.tgz
+-r--r--r--   1 sysadm   wheel       10723 Sep  8 01:39 xmines.tar.z
+-r--r--r--   1 sysadm   wheel       11636 Sep  8 01:59 xmineswe.tar.z
+-r--r--r--   1 sysadm   wheel       23554 Sep  8 02:28 xmore.tar.z
+-r--r--r--   1 sysadm   wheel       26282 Sep  8 01:46 xpipeman.tar.z
+-r--r--r--   1 sysadm   wheel       86242 Sep  8 02:29 xpm-3.2g.tar.z
+-r--r--r--   1 sysadm   wheel       16076 Sep  8 02:10 xrobots.tar.z
+-r--r--r--   1 sysadm   wheel      293571 Sep  8 01:56 xspread23.ta.z
+-r--r--r--   1 sysadm   wheel       15274 Sep  8 02:30 xswarm.tar.z
+-r--r--r--   1 sysadm   wheel       17282 Sep  8 02:30 xtetris.tar.z
+-r--r--r--   1 sysadm   wheel      135365 Sep  8 02:32 xv.tar.z
+-r--r--r--   1 sysadm   wheel       42178 Sep  8 02:32 xvt.tar.z
+-r--r--r--   1 sysadm   wheel      258835 Sep  8 03:23 xwpe-1.3.3.tgz
+-r--r--r--   1 sysadm   wheel       97205 Sep  8 03:12 xxgdb-1.06.t.z
+-r--r--r--   1 sysadm   wheel      291595 Sep  8 03:27 xxgdb108.tgz
+
+sources32/xapps:
+total 1766
+-rw-r--r--   1 sysadm   wheel      156114 Apr 18  1995 Xkit.tgz
+-rw-r--r--   1 sysadm   wheel       16621 May 25  1995 Xlib.h.gz
+-rw-r--r--   1 sysadm   wheel      140911 Feb 12  1995 fvwm.gtz
+-rw-r--r--   1 sysadm   wheel      142461 May  5  1995 fvwm.knr.tgz
+-rw-r--r--   1 sysadm   wheel      370812 May 14  1995 ghostview1.5.tgz
+-rw-r--r--   1 sysadm   wheel       19732 May 25  1995 modeDB.txt.z
+-rw-r--r--   1 sysadm   wheel      121659 Feb 12  1995 seyon.tz
+drwxr-xr-x   2 sysadm   root         1024 Jan 11 23:55 www
+-rw-r--r--   1 sysadm   wheel        7197 May 14  1995 xedit.tz
+-rw-r--r--   1 sysadm   wheel         401 May 14  1995 xedit.tz.info
+-rw-r--r--   1 sysadm   wheel      384488 Feb 12  1995 xfilemgr.gtz
+-rw-r--r--   1 sysadm   wheel       81920 Feb 12  1995 xmandel.tar
+-rw-r--r--   1 sysadm   wheel      375772 Feb 12  1995 xv3.0bin.tgz
+
+sources32/xapps/www:
+total 2442
+-rw-r--r--   1 sysadm   wheel         770 Sep  8 22:50 00INDEX
+-r--r--r--   1 sysadm   wheel      626038 Sep  8 22:25 Mosaic-2.4.tgz
+-r--r--r--   1 sysadm   wheel      800097 Sep  8 22:36 Mosaic.gz
+-r--r--r--   1 sysadm   wheel       22324 Sep  8 22:36 html-doc.tgz
+-r--r--r--   1 sysadm   wheel      405120 Sep  8 22:42 lynx2-2.tgz
+-r--r--r--   1 sysadm   wheel       49636 Sep  8 22:42 tkHTML-2.1.tgz
+-r--r--r--   1 sysadm   wheel      323194 Sep  8 22:46 wwwish.gz
+-r--r--r--   1 sysadm   wheel      251663 Sep  8 22:50 wwwish.tgz
+
+support:
+total 3682
+-rw-r--r--   1 sysadm   wheel        1415 Sep  8 19:26 00INDEX
+-r--r--r--   1 sysadm   wheel         825 Sep  8 19:27 bm.o.z
+-r--r--r--   1 sysadm   wheel      364794 Sep  8 19:47 cd-kit.tgz
+-r--r--r--   1 sysadm   wheel      693579 Sep  8 19:42 coh42sdb.tar.z
+-r--r--r--   1 sysadm   wheel       30639 Sep  8 20:01 dialog.z
+-r--r--r--   1 sysadm   wheel     1083818 Sep  8 20:01 emacs.tgz
+-r--r--r--   1 sysadm   wheel      329574 Sep  8 19:33 gdb49.z
+-r--r--r--   1 sysadm   wheel       11528 Sep  8 20:07 ginstall.tgz
+-r--r--r--   1 sysadm   wheel       76920 Sep  8 20:08 gld2.4.z
+-r--r--r--   1 sysadm   wheel       30279 Sep  8 19:26 gm4.z
+-r--r--r--   1 sysadm   wheel       53067 Sep  8 19:27 gmake.z
+-r--r--r--   1 sysadm   wheel       97227 Sep  8 20:10 gnubifl.tgz
+-r--r--r--   1 sysadm   wheel      414206 Sep  8 20:07 gnubin.tgz
+-r--r--r--   1 sysadm   wheel       18026 Sep  8 19:26 gsed.z
+-r--r--r--   1 sysadm   wheel       49302 Sep  8 19:28 gtar.z
+-r--r--r--   1 sysadm   wheel       29263 Sep  8 19:28 gunzip.Z
+-r--r--r--   1 sysadm   wheel      407370 Sep  8 20:15 perl.tgz
+-r--r--r--   1 sysadm   wheel       38245 Sep  8 20:10 users.tgz
+
+updates:
+total 2539
+-rw-r--r--   1 sysadm   wheel        2402 Sep  8 20:42 00INDEX
+-r--r--r--   1 sysadm   wheel       52312 Sep  8 20:51 as.GNU.Z
+-r--r--r--   1 sysadm   wheel       39784 Sep  8 20:51 as.GNU.zip
+-r--r--r--   1 sysadm   wheel       52342 Sep  8 20:49 as.GNU3.Z
+-r--r--r--   1 sysadm   wheel       80410 Sep  8 21:00 cc.z
+-r--r--r--   1 sysadm   wheel      118730 Sep  8 21:12 cc462.tgz
+-r--r--r--   1 sysadm   wheel       25350 Sep  8 20:43 cron402.tar.Z
+-r--r--r--   1 sysadm   wheel       64247 Sep  8 21:13 curses.tgz
+-r--r--r--   1 sysadm   wheel        7550 Sep  8 20:43 curses321.h.Z
+-r--r--r--   1 sysadm   wheel       43423 Sep  8 20:52 dis402.tar.Z
+-r--r--r--   1 sysadm   wheel       19455 Sep  8 20:53 dos402.zip
+-r--r--r--   1 sysadm   wheel        6156 Sep  8 20:43 drvld322.Z
+-r--r--r--   1 sysadm   wheel      632256 Sep  8 21:11 ft.tgz
+-r--r--r--   1 sysadm   wheel        6531 Sep  8 20:43 help321.Z
+-r--r--r--   1 sysadm   wheel         264 Sep  8 20:52 kbd40.readme
+-r--r--r--   1 sysadm   wheel       27804 Sep  8 20:46 kbd40.tar.Z
+-r--r--r--   1 sysadm   wheel       57457 Sep  8 21:01 ksh.z
+-r--r--r--   1 sysadm   wheel       20844 Sep  8 20:43 lcurs321.a.Z
+-r--r--r--   1 sysadm   wheel       17118 Sep  8 21:01 ld.z
+-r--r--r--   1 sysadm   wheel        6529 Sep  8 20:44 ldlib.a.Z
+-r--r--r--   1 sysadm   wheel       17869 Sep  8 20:42 lex402.tar.Z
+-r--r--r--   1 sysadm   wheel       47829 Sep  8 21:02 libc.a.z
+-r--r--r--   1 sysadm   wheel       43187 Sep  8 20:44 libc321.a.Z
+-r--r--r--   1 sysadm   wheel       15599 Sep  8 20:47 make.Z
+-r--r--r--   1 sysadm   wheel       55626 Sep  8 21:14 mlp.tgz
+-r--r--r--   1 sysadm   wheel       14405 Sep  8 20:52 msgs.tar.Z
+-r--r--r--   1 sysadm   wheel       55672 Sep  8 20:43 mwcbbs.tar.Z
+-r--r--r--   1 sysadm   wheel       45625 Sep  8 21:02 ndplibc.a.z
+-r--r--r--   1 sysadm   wheel       36101 Sep  8 20:48 paxupd.tar.Z
+-r--r--r--   1 sysadm   wheel       11452 Sep  8 21:13 pipehelp.tgz
+-r--r--r--   1 sysadm   wheel        1541 Sep  8 21:00 rep.tar.z
+-r--r--r--   1 sysadm   wheel       25674 Sep  8 20:53 sh.LGN.Z
+-r--r--r--   1 sysadm   wheel       33610 Sep  8 21:01 sh.z
+-r--r--r--   1 sysadm   wheel       11920 Sep  8 20:44 tar321.Z
+-r--r--r--   1 sysadm   wheel       11417 Sep  8 20:48 termcap
+-r--r--r--   1 sysadm   wheel       94267 Sep  8 20:42 tinfoupd.tar.Z
+-r--r--r--   1 sysadm   wheel          81 Sep  8 20:44 unctrl321.h.Z
+-r--r--r--   1 sysadm   wheel       40149 Sep  8 20:45 uucico.p4.Z
+-r--r--r--   1 sysadm   wheel      439419 Sep  8 20:59 uuconv.zip
+-r--r--r--   1 sysadm   wheel       75893 Sep  8 20:46 uucp323.tar.Z
+-r--r--r--   1 sysadm   wheel      111528 Sep  8 20:50 uusecure.tar.Z
+-r--r--r--   1 sysadm   wheel       61581 Sep  8 20:47 vi402.Z
+-r--r--r--   1 sysadm   wheel        4300 Sep  8 21:00 wall.z
