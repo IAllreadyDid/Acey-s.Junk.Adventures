@@ -1,0 +1,12 @@
+Ensure integrity of Makefile, etc.
+Fix "make install" to understand non-SysV init (is there an autoconf macro?)
+Verify on other OSs
+Send more error messages to syslog
+Clean up time remaining in messages
+Send SIGPWR to init, /etc/powerstatus
+RPM package
+Config Manager
+Default config file location
+Get rid of msg_buffer
+Get rid of temporary files
+Debug flag support in configure.in or Makefile.am

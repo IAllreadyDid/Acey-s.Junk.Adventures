@@ -1,0 +1,203 @@
+specbanr.gif (3659 bytes)
+
+
+  *Series 428 FAQ*
+
+
+      Memory
+
+*Q1: What kind and size of cache memory configurations can I use with
+the 428?*
+
+A1: 4, 8, 16, 32, 64, 128 MB - x36(parity) - 50/60/70 ns - 72 pin -
+Single-Sided Fast Page Mode SIMMS. X32 (non-parity) SIMMS are not
+supported or guaranteed to work with the 428. Reference page 37 of the
+old PCI RAID controller hardware manual, and page 57 of the current one.
+
+*Q2: Can I use any brand of memory with the 428?*
+
+A2: No. The only makes or brands confirmed for the 428 are PNY, SEC,
+Tanisys, Micron Technologies, Advantage, Unigen, and Centon.
+
+
+      Storage
+
+*Q1: Is it possible to add 1 or more disks to a spanned RAID 50 or other
+spanned array?*
+
+A1: No. as listed in the manual, spanned arrays cannot be reconstructed
+or single disks added to them.
+
+*Q2: Is it possible to use the newer Ultra-2(LVD or low voltage
+differential) disks with this controller?*
+
+A2: Technically speaking, yes. However they will not run at Ultra-2
+speeds. They have not been certified with the 428. Also, LVD disks will
+only work if they are backward compatible and can be set to single-ended
+mode, and the disk firmware allows for running in that mode or slower
+modes.
+
+
+      Other Devices/Components
+
+*Q1: What is the available/acceptable lengths for the external SCSI
+cables with the 428?*
+
+A1: 428 has been confirmed for external high density 68 pin connector
+cables 1 to 3 meters but can be up to 20 meters with the right
+enclosure, cables, and accessories(such as the AMI 436 bus extender
+device), although data transfer integrity is questionable beyond that.
+
+*Q2: Is it possible to move NT 4.0 (or other operating systems)
+installed on another SCSI card to a 428 RAID Controller card?*
+
+A2: With NT it can possibly be done if the MegaRAID drivers are
+installed first, and then the previous SCSI controller drivers removed,
+the system is powered down, the disk(s) are moved to the MegaRAID, and
+configured as appropriate in CTL-M. A backup of the boot disk before
+trying this is recommended however. On other operating systems, such as
+sco osr, this may not at all be possible because of how the boot
+sector/kernel boot associations with the original controller driver
+installed.
+
+*Q3: I am having problems getting an Iomega Jazz drive and a Zip drive
+to work on the 428, will these work with the MegaRAID card?*
+
+A3: These devices were not part of the original specifications of the
+MegaRAID, and therefore are not supported on the MegaRAID. However, zip
+drives have worked on the MegaRAID, with mixed results.
+
+
+      Features
+
+*Q1: When a disk fails in a RAID 1, 3, or 5 array, does it rebuild
+automatically when the failed disk is replaced, and does the alarm turn
+off at that time?*
+
+A1: With the exception of the most recent MegaRAID firmware, the rebuild
+will not automatically start. It must be selected in CTL-M, Megamgr, or
+power console. The alarm will continue to sound until the rebuild is
+complete, unless it is silenced or disabled in the objects/adapter menu.
+
+*Q2: Is it possible to reconstruct or add a disk to a RAID if there is
+more than one logical drive on that array?*
+
+A2: No. For RAID migration/reconstruction/expansion, there can be only 1
+logical drive made on that array.
+
+*Q3: How many channels does 428 card support?*
+
+A3: The card supports 3 SCSI channels/buses, has 2 external ultra high
+density connectors, and it has 3 internal high density connectors.
+
+*Q4: Is it possible to clear one or more arrays but not all arrays from
+a 428 in CTL-M, Megamgr, or Power Console?*
+
+A4: No. The only way to delete a logical drive, currently, is to clear
+the entire configuration. If you only want to delete an individual LD
+that is part of a larger array and retain the data from a separate LD on
+the same array this can be accomplished if the LD to be deleted is the
+last one that was configured on that array.
+
+    # Backup your data.
+    # Make note of the EXACT configuration of the controller, I.E.
+      Stripe Size, Raid Level, Stripe Order, Etc.
+    # Delete the configuration in CTRL-M, DO NOT Initialize!
+    # Recreate the original configuration with the exception of the last
+      LD configured, I.E. the one that you want to delete. DO NOT
+      Initialize!
+
+If the LD you want to delete occupies an entire array the process is
+generally safer. You can also use the save/load configuration options to
+temporarily add logical drives. /Power Console Plus:/ Save the
+configuration to a file in Power Console Plus. Add new drive(s) as
+additional logical drives via PC+ or CTRL-M. Reload the original
+configuration via PC+ when you want to delete the temporary logical drives.
+
+*Q5: Virtual Sizing is also an item that can be set for each logical
+drive in CTL-M, but what is it for and why when selecting virtual sizing
+does the logical drive show as 80+GB in CTL-M and in the operating system?*
+
+A5: Virtual Sizing is a feature added so that if you want to add disks
+to an array at a later time to increase the size of a partition, you
+can. That means it is possible to set one large operating system
+partition that is of course far larger than it really is, or set it to
+what is really is and later as you add disks add more partitions. It is
+important however to remember how large the true hard disk size is and
+to never try to write more date than there is actual hard disk space.
+
+*Q6: How can I tell what version of the firmware and BIOS of my MegaRAID
+is using?*
+
+A6: During the system boot sequence the MegaRAID banner will appear. The
+first version number that will appear is the MegaRAID BIOS version.
+After the channel scan is complete, the firmware version will appear.
+Also, in the CTL-M utility, the version of the utility is displayed at
+the top of the screen.
+
+
+      Support
+
+*Q1: Where are updated drivers / manuals for 428?*
+
+A1: They are available at ftp.Megatrends.com/MegaRAID /drivers.
+Downloadable manuals are also available in the MegaRAID directory.
+
+*Q2: Where are updated firmwares for 428?*
+
+A2: As long as the requested firmware is not an OEM product, upgrades
+are available upon request from tech support after discussion of the
+firmware issue with a support technician.
+
+ 
+
+Copyright © 1999 American Megatrends, Inc. All rights reserved.
+
+ 
+
+*Quicklinks
+(this site area only)*
+
+Last & Next pages, Parent page
+
+*[ Back <418faq.htm> ] [ Up
+<../../LIBRARY/TechSupport/RAIDFAQ/FAQ_RAID.htm> ] [ Next <434faq.htm> ]*
+
+ 
+
+   
+
+ 
+
+   qalogov.gif (18768 bytes)
+
+Genitech is accredited to ISO9002, the internationally recognised
+manufacturing quality standard. Specifications contained in this
+document are subject to update and change without notice. Check currency
+of specifications before ordering. Trademarks and brands are the
+property of their respective owners. This document copyright © 1998
+Genitech Pty Ltd. All rights reserved. Some source material contained
+herein may have been reproduced with permission of the copyright owner
+and Genitech makes no claim of ownership thereof. While all care was
+taken in the preparation of this document, we will not accept
+responsibility for the consequences of using it in any way or for any
+purpose.
+
+*Genitech Pty Ltd*
+ACN 002 876 904
+PO Box 196 ASQUITH 2077
+NSW. Australia.
+Ph: (02) 9476 4277
+Fax: (02) 9477 7561
+Genitech Logo
+
+
+*If you have trouble with this page, please tell us by _clicking here_
+<../../LIBRARY/Forms/Webmaster%20Report.htm>*
+
+Last Modified: Friday, November 12, 1999 02:16:16 PM  All specifications
+and information subject to change without prior notice. All company and
+product names are trademarks of the respective companies. Copyright ©
+1997 - 1999 Genitech Pty Ltd. All rights reserved  This page URL
+http://www.genitech.com.au/SpecSheets/AMI RAID/428faq.htm
+

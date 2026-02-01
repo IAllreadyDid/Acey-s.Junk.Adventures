@@ -1,0 +1,29 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:552: checking for a BSD compatible install
+configure:605: checking whether build environment is sane
+configure:662: checking whether make sets ${MAKE}
+configure:708: checking for working aclocal
+configure:721: checking for working autoconf
+configure:734: checking for working automake
+configure:747: checking for working autoheader
+configure:760: checking for working makeinfo
+configure:784: checking for c++
+configure:815: checking whether the C++ compiler (c++  ) works
+configure:829: c++ -o conftest    conftest.C  1>&5
+configure:855: checking whether the C++ compiler (c++  ) is a cross-compiler
+configure:860: checking whether we are using GNU C++
+configure:884: checking whether c++ accepts -g
+configure:922: checking for a BSD compatible install
+configure:974: checking how to run the C preprocessor
+configure:1035: checking for ANSI C header files
+configure:1139: checking whether sys/types.h defines makedev
+configure:1169: checking for sys/mkdev.h
+configure:1207: checking for sys/sysmacros.h
+configure:1248: checking for limits.h
+configure:1248: checking for sys/time.h
+configure:1248: checking for sys/select.h
+configure:1286: checking for working const
+configure:1361: checking for inline
+configure:1401: checking whether time.h and sys/time.h may both be included

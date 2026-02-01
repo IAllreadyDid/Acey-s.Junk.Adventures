@@ -1,0 +1,58 @@
+#!/bin/sh
+#----------------------------------------------------------------------
+#
+#  apcssd - init script to start APC Simple Signalling Deamon
+#
+#  Copyright (C) 1999, American Power Conversion, Inc., All Rights Reserved
+#
+#    This program is free software; you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation; either version 2 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program; if not, write to the Free Software
+#    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+#
+# chkconfig: 1235 99 99
+# description: provides UPS monitoring for APC UPSs that have a simple \
+#   (pin-level) interface. In the event of extended power failures, it \
+#   will send notifications to logged-in users and shut down cleanly.
+# processname: ssd
+#-----------------------------------------------------------------------*/
+
+# . /usr/local/etc/rc.d/init.d/functions
+
+case "$1" in
+  start)
+        # Start daemons.
+        echo -n "Starting APC Simple Signalling Daemon: "
+        /usr/local/sbin/ssd /usr/local/etc/ssd.conf
+        echo
+        touch /var/lock/ssd
+        ;;
+  stop)
+        # Stop daemons.
+        echo -n "Shutting down APC Simple Signalling Daemon: "
+	killall ssd
+        echo
+        rm -f /var/lock/ssd
+        ;;
+  status)
+	status ssd
+	;;
+  restart|reload)
+	$0 stop
+	$0 start
+	;;
+  *)
+        echo "Usage: $0 {start|stop|restart|reload|status}"
+        exit 1
+esac
+
+exit 0

@@ -1,0 +1,64 @@
+## Process this file with automake to produce Makefile.in
+
+## type: flat, strictness: gnu
+
+
+MAINTAINERCLEANFILES = Makefile.in aclocal.m4 config.h.in configure
+DISTCLEANFILES = \\\#*\\\#
+MOSTLYCLEANFILES = *~ *.o *.bak
+
+realsbindir = $(DESTDIR)/sbin
+realsbin_PROGRAMS = ssd
+
+pkgdata_SCRIPTS = ssdwall.sh ssdshut.sh
+
+initscript = apcssd
+
+ssd_conf = ssd.conf
+
+ssd_SOURCES = 	ssd.cxx \
+		simpleups.h simpleups.cxx \
+		ssdbroadcast.h ssdbroadcast.cxx \
+		ssdsyslog.h ssdsyslog.cxx \
+		ssdcontrl.h ssdcontrl.cxx \
+		ssdmsg.h
+
+EXTRA_DIST = $(SCRIPTS) $(initscript) $(ssd_conf)
+
+INCLUDES=-DSSD_DIR=\"$(pkgdatadir)\"
+
+
+install-data-local: install-initscript install-ssd-conf
+
+uninstall-local: uninstall-initscript uninstall-ssd-conf
+
+initdir = $(DESTDIR)/etc/rc.d/init.d
+
+install-initscript: $(initscript)
+	$(INSTALL_PROGRAM) $(initscript) $(initdir)/$(initscript)
+	ln -sf $(initdir)/$(initscript) $(initdir)/../rc0.d/K99$(initscript)
+	ln -sf $(initdir)/$(initscript) $(initdir)/../rc1.d/S99$(initscript)
+	ln -sf $(initdir)/$(initscript) $(initdir)/../rc1.d/K99$(initscript)
+	ln -sf $(initdir)/$(initscript) $(initdir)/../rc2.d/S99$(initscript)
+	ln -sf $(initdir)/$(initscript) $(initdir)/../rc3.d/S99$(initscript)
+	ln -sf $(initdir)/$(initscript) $(initdir)/../rc5.d/S99$(initscript)
+	ln -sf $(initdir)/$(initscript) $(initdir)/../rc6.d/K99$(initscript)
+	-test -x /sbin/chkconfig || chkconfig --add $(initscript)
+
+uninstall-initscript:
+	-rm -f $(initdir)/$(initscript)
+	-rm -f $(initdir)/../rc0.d/K99$(initscript)
+	-rm -f $(initdir)/../rc1.d/S99$(initscript)
+	-rm -f $(initdir)/../rc1.d/K99$(initscript)
+	-rm -f $(initdir)/../rc2.d/S99$(initscript)
+	-rm -f $(initdir)/../rc3.d/S99$(initscript)
+	-rm -f $(initdir)/../rc5.d/S99$(initscript)
+	-rm -f $(initdir)/../rc6.d/K99$(initscript)
+	-test -x /sbin/chkconfig || chkconfig --del $(initscript)
+
+
+install-ssd-conf: $(ssd_conf)
+	$(INSTALL_DATA) $(srcdir)/$(ssd_conf) /etc/$(ssd_conf)
+
+uninstall-ssd-conf:
+	-rm -f /etc/$(ssd_conf)

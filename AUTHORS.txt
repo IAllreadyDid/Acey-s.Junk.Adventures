@@ -1,0 +1,10 @@
+
+The original SSD (v1.0) was written by Alan J. Russo in 1994. Some
+versions of this may still be floating around. It was written to work
+on a variety of Unix OSs. The debug flag name and questionable use of
+the word "pedantic" are retained in tribute to Alan's original work.
+
+Re-written in May 1999 by Carl A. Dunham (cdunham@apcc.com) to use
+modern ttyS? capabilities, automake, autoconf, etc. Should run on most
+Unixes, although the "make install" may not do the right thing when it
+sets up the startup files.

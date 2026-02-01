@@ -1,0 +1,2 @@
+TTY = /dev/cuaa0
+MaxBatRT = 300	# five minutes
