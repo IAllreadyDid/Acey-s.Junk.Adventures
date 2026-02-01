@@ -1,0 +1,72 @@
+Recent Updates to the Unix Archive
+
+February 25, 2017: Added a disk image of PC/IX and a disk image of
+		SCO Xenix 2.1.3 for the x86 in
+		Distributions/Other/PCIX and
+		/Distributions/Other/Xenix
+
+February 24, 2017: Added two early Unix systems which were modified to
+		do Arpanet networking in
+		Distributions/Early_Networking/BBN and
+		Distributions/Early_Networking/NOSC
+
+		Also linked in the TUHS e-mail archives in
+		Documentation/TUHS/Mail_list
+
+February 22, 2017: Added the source code and notes of an operating system
+		course that uses 6th Edition Unix as the teaching vehicle,
+		in Distributions/Other/OS_Course
+
+		Also added the source code to Sun's NFSv2, in
+		Distributions/Sun/nfs.2.0.src.tar.gz
+
+February 22, 2017: The archive has been significantly reorganised to change
+		the "hardware" orientation to a "distribution/organisation"
+		orientation.
+
+February 1, 2017: Added a port of DEC's Macro-11 to Applications/Macro-11
+
+December 12, 2016: Added 2.11BSD/Patches/449 and patch 450
+
+July 16, 2016: Doug McIlroy ported Bob McClure's TMG tool, first to PDP-7 Unix
+		to help create the B compiler, and then to PDP-11 Unix.
+		There is a PDF document describing the PDP-11 Unix version
+		of TMG in research/1972_stuff/tmg.pdf
+
+February 19, 2016: Amazing news, we now have a PDF copy of the source
+		code to the kernel and some utilities for PDP-7 Unix.
+		They are at PDP-11/Distributions/research/McIlroy_v0
+
+January 22, 2016: Added a PDF copy of the "Life with Unix" book
+		to Documentation/Books/Life_with_Unix.pdf
+
+January 12, 2016: Added some scans of Unix Review magazine to
+		Documentation/Unix_Review
+
+January 12, 2016: Added a bootable SimH tap file, and Will Senn's script to
+		create it, in Distributions/research/Keith_Bostic_v7
+
+January 12, 2016: Added an e-book version of Mahoney's oral history
+		to Documentation/OralHistory. This was done by
+		Alexander Gromnitsky. Also added a transcript of the
+		audio recording of the oral history.
+
+January 12, 2016: Updated Tom Ivar Helbekkmo's sysgen tool at
+		tools/Misc/tih_sysgen.tar.Z
+
+January 1, 2016: Added Diomidis Spinellis paper: A repository with 44 years
+		of Unix evolution" as Documentation/Papers/Spi15c.pdf
+
+December 30, 2015: A copy of Warren Toomey's paper on the restoration of
+		1st Edition Unix in
+		Documentation/Papers/1eUnix_creation_restoration.pdf
+
+December 26, 2015: A mirror of Mike Mahoney's Oral History of Unix in
+		Documentation/OralHistory
+
+December 18, 2015: A copy of 2.11BSD at patch level 195 at
+		PDP-11/Distributions/ucb/2.11BSD-pl195.tar
+
+November 29, 2015: A copy of Dennis Ritchie's draft of "The Unix Time-sharing
+		System" in PDP-11/Distributions/research/McIlroy_v0 plus
+		subsequent OCR versions
